@@ -272,7 +272,7 @@
     {
         "path": "/bienvenue-sur-gj-sciences/index.html",
         "type": "file",
-        "md5": "86658f34988d08a9974208cf0bea02d0"
+        "md5": "11cdd63401b0d3190651dd24ef096996"
     },
     {
         "path": "cagnotte-leetchi-fdo-bots-ou-file-dattente",
@@ -797,12 +797,12 @@
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "445c380b6450672bee05093a07885a41"
+        "md5": "5894d87d60cdc69d3e08f26d14942602"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "eb7d117cb79ec2c400967a8f0fa7fa30"
+        "md5": "4e9311a2d8a49efa707ee12526a41ae4"
     },
     {
         "path": "gj-sciences-fait-peau-neuve",
@@ -827,7 +827,7 @@
     {
         "path": "index.html",
         "type": "file",
-        "md5": "1b5bb68144000f274eec51f1dea5c06a"
+        "md5": "8fb8b439ee69b7beeb6a9062264ed7b3"
     },
     {
         "path": "le-vrai-debat-la-contre-attaque-des-gilets-jaunes-face-a-lastroturfing-de-macron",
@@ -11720,6 +11720,51 @@
         "md5": "a199276595c0230b57923b5fd7a27384"
     },
     {
+        "path": "media/posts/73",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/73/gj-sciences-banner.jpg",
+        "type": "file",
+        "md5": "5abdf235b6db8a500f43d8f7628dc408"
+    },
+    {
+        "path": "media/posts/73/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/73/responsive/gj-sciences-banner-2xl.jpg",
+        "type": "file",
+        "md5": "89bac8edbbc85d9b891ea9792c380405"
+    },
+    {
+        "path": "/media/posts/73/responsive/gj-sciences-banner-lg.jpg",
+        "type": "file",
+        "md5": "985ef106344b7e4f4e6de9dd476e96eb"
+    },
+    {
+        "path": "/media/posts/73/responsive/gj-sciences-banner-md.jpg",
+        "type": "file",
+        "md5": "c73e3c6fa5241524d88521ed739e8b4e"
+    },
+    {
+        "path": "/media/posts/73/responsive/gj-sciences-banner-sm.jpg",
+        "type": "file",
+        "md5": "cf095d69cf83ddd27c2b98aeb082cf9c"
+    },
+    {
+        "path": "/media/posts/73/responsive/gj-sciences-banner-xl.jpg",
+        "type": "file",
+        "md5": "e25bab4db8c41a59e4c42da03a078d16"
+    },
+    {
+        "path": "/media/posts/73/responsive/gj-sciences-banner-xs.jpg",
+        "type": "file",
+        "md5": "0d958de088b623212bc9b13f32113bf0"
+    },
+    {
         "path": "media/posts/74",
         "type": "directory",
         "md5": false
@@ -12052,7 +12097,7 @@
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "b7e0901091c8100464e9a9d3a172168e"
+        "md5": "542b5a4a8f4c4382a39cba5ca8eb9fab"
     },
     {
         "path": "sitemap.xsl",
