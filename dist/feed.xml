@@ -3,7 +3,7 @@
     <title>GJ Sciences</title>
     <link href="https://gjsciences.com/feed.xml" rel="self" />
     <link href="https://gjsciences.com" />
-    <updated>2020-03-28T15:45:25+01:00</updated>
+    <updated>2020-03-28T15:53:27+01:00</updated>
     <author>
         <name>gjsciences</name>
     </author>
@@ -19,11 +19,11 @@
             <category term="vie du site"/>
             <category term="réseaux sociaux"/>
 
-        <updated>2020-03-28T15:44:47+01:00</updated>
+        <updated>2020-03-28T15:53:13+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://gjsciences.com/media/posts/74/social-media-3129487_1920.jpg" alt="" />
-                    <p>Nous avons changé d'infrastructure pour notre site <a href="https://gjsciences.com">gjsciences.com</a>. Nouveau site (propulsé par <a href="https://getpublii.com/">Publii</a>), nouveau design, plus de confort de navigation sur ordinateur et mobile, et <strong>beaucoup plus de rapidité</strong> pour nos lecteurs :-)</p>
+                    <p><a href="https://gjsciences.com">GJSciences.com</a> <span data-offset-key="bf62q-2-0">fait peau neuve! Plus rapide, plus joli, lecture plus confortable sur ordinateur et mobile, mais toujours avec nos éclairages sous un angle scientifique! Nous avons changé d'infrastructure pour notre nouveau site</span> (propulsé par <a href="https://getpublii.com/">Publii</a>) et de design, pour plus de confort de navigation pour nos lecteurs :-)</p>
 <p>Nous sommes également maintenant sur des réseaux sociaux libres comme <a href="https://mastodon.social/@gjsciences">Mastodon</a> (miroir de tous nos écrits sur <a href="https://twitter.com/gjsciences">Twitter</a>) et <a href="https://minds.com/gjsciences">Minds</a>!</p>
 
                 ]]>
@@ -31,7 +31,7 @@
         <content type="html">
             <![CDATA[
                     <img src="https://gjsciences.com/media/posts/74/social-media-3129487_1920.jpg" alt="" />
-                <p>Nous avons changé d'infrastructure pour notre site <a href="https://gjsciences.com">gjsciences.com</a>. Nouveau site (propulsé par <a href="https://getpublii.com/">Publii</a>), nouveau design, plus de confort de navigation sur ordinateur et mobile, et <strong>beaucoup plus de rapidité</strong> pour nos lecteurs :-)</p>
+                <p><a href="https://gjsciences.com">GJSciences.com</a> <span >fait peau neuve! Plus rapide, plus joli, lecture plus confortable sur ordinateur et mobile, mais toujours avec nos éclairages sous un angle scientifique! Nous avons changé d'infrastructure pour notre nouveau site</span> (propulsé par <a href="https://getpublii.com/">Publii</a>) et de design, pour plus de confort de navigation pour nos lecteurs :-)</p>
 <p>Nous sommes également maintenant sur des réseaux sociaux libres comme <a href="https://mastodon.social/@gjsciences">Mastodon</a> (miroir de tous nos écrits sur <a href="https://twitter.com/gjsciences">Twitter</a>) et <a href="https://minds.com/gjsciences">Minds</a>!</p>
 <hr>
 <h2 id="mcetoc_1e4gp1ans0"> </h2>
