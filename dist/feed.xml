@@ -3,12 +3,75 @@
     <title>GJ Sciences</title>
     <link href="https://gjsciences.com/feed.xml" rel="self" />
     <link href="https://gjsciences.com" />
-    <updated>2020-03-28T13:58:18+01:00</updated>
+    <updated>2020-03-28T15:45:25+01:00</updated>
     <author>
         <name>gjsciences</name>
     </author>
     <id>https://gjsciences.com</id>
 
+    <entry>
+        <title>GJ Sciences fait peau neuve!</title>
+        <author>
+            <name>gjsciences</name>
+        </author>
+        <link href="https://gjsciences.com/gj-sciences-fait-peau-neuve/"/>
+        <id>https://gjsciences.com/gj-sciences-fait-peau-neuve/</id>
+            <category term="vie du site"/>
+            <category term="réseaux sociaux"/>
+
+        <updated>2020-03-28T15:44:47+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://gjsciences.com/media/posts/74/social-media-3129487_1920.jpg" alt="" />
+                    <p>Nous avons changé d'infrastructure pour notre site <a href="https://gjsciences.com">gjsciences.com</a>. Nouveau site (propulsé par <a href="https://getpublii.com/">Publii</a>), nouveau design, plus de confort de navigation sur ordinateur et mobile, et <strong>beaucoup plus de rapidité</strong> pour nos lecteurs :-)</p>
+<p>Nous sommes également maintenant sur des réseaux sociaux libres comme <a href="https://mastodon.social/@gjsciences">Mastodon</a> (miroir de tous nos écrits sur <a href="https://twitter.com/gjsciences">Twitter</a>) et <a href="https://minds.com/gjsciences">Minds</a>!</p>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://gjsciences.com/media/posts/74/social-media-3129487_1920.jpg" alt="" />
+                <p>Nous avons changé d'infrastructure pour notre site <a href="https://gjsciences.com">gjsciences.com</a>. Nouveau site (propulsé par <a href="https://getpublii.com/">Publii</a>), nouveau design, plus de confort de navigation sur ordinateur et mobile, et <strong>beaucoup plus de rapidité</strong> pour nos lecteurs :-)</p>
+<p>Nous sommes également maintenant sur des réseaux sociaux libres comme <a href="https://mastodon.social/@gjsciences">Mastodon</a> (miroir de tous nos écrits sur <a href="https://twitter.com/gjsciences">Twitter</a>) et <a href="https://minds.com/gjsciences">Minds</a>!</p>
+<hr>
+<h2 id="mcetoc_1e4gp1ans0"> </h2>
+<div class="post__toc">
+<h3>Table of Contents</h3>
+<ul>
+<li><a href="#mcetoc_1e4gp1ans0"> </a></li>
+<li><a href="#mcetoc_1e4glvtaa0">Nouveau site statique</a></li>
+<li><a href="#mcetoc_1e4gm96ad1">Réseaux sociaux libres</a></li>
+<li><a href="#mcetoc_1e4gmf6o72">Auto-hébergement et résilience à la censure</a></li>
+<li><a href="#mcetoc_1e4goink73">Mot de la fin</a></li>
+</ul>
+</div>
+<h2 id="mcetoc_1e4glvtaa0">Nouveau site statique</h2>
+<p>Nous avons migré notre site depuis WordPress vers <a href="https://getpublii.com/">Publii</a>, un générateur de site statique (et <a href="https://github.com/GetPublii/Publii">opensource</a>!) avec une <a href="https://getpublii.com/docs/">excellente documentation</a> et une interface graphique très simple d'utilisation. Les fichiers du site sont hébergés sur <a href="https://github.com/gjsciences/gjsciences.com">Github</a>, et est servi aux clients web par <a href="https://www.netlify.com/">Netlify</a>.</p>
+<p>Cela a amené un changement nécessaire de design et des avantages certains comme une plus grande capacité de service (les pages s'affichent bien plus vite et nous pouvons accueillir bien plus de visiteurs!) et aussi une sécurité sans faille puique tout est statique!</p>
+<p>Néanmoins, bien que <a href="https://getpublii.com/docs/import-wordpress-into-static-html-site.html#js-header">la migration depuis WordPress</a>  soit très facile avec <a href="https://getpublii.com/">Publii</a>, elle n'est pas complète: sur nos anciens billets (notamment de comptage), les vidéos intégrées ne le sont plus (mais il reste le lien), et certaines images que nous hébergions (notamment pour comptage, comme des photos qui nous sont parvenues par des canaux privés) ne sont plus affichées qu'en basse résolution. Un autre défaut est que nous sommes obligés de faire appel à des prestataires externes pour les contenus dynamiques, comme pour les commentaires qui sont maintenant sur Disqus au lieu d'être hébergés par nous-mêmes, et Disqus peut traquer les utilisateurs. Il y a aussi de léger défauts de traduction, avec des textes qui restent en anglais, ou encore la table des matières qui des fois inclut des entrées qui n'existent pas. Mais rien qui n'empêche l'utilisation du site, et le logiciel Publii est encore en béta, ces défauts seront sûrement gommés avec le temps. Un autre défaut évident est qu'il y a beaucoup moins de possibilités comme des plugins, mais pour les codeurs il est possible d'utiliser n'importe quel librairie javascript ou même des web components.</p>
+<p>Ces inconvénients sont largement compensés par notre nouvelle capacité accrue de service à un bien plus grand nombre de lecteurs (avant nous étions limités à 5 lecteurs en simultanés) et de rapidité d'affichage, y compris sur mobile avec une connexion internet limitée! Outre cela, notre procédure d'écriture est largement simplifiée, puisque nous pouvons écrire les articles en offline et les publier très simplement avec un git push!</p>
+<p>Cette solution de site statique est également celle qui nous a semblée la plus raisonnable en terme d'avantages/inconvénients et de coût: outre le fait qu'elle est <strong>entièrement gratuite</strong> (alors que nous devions payer notre précédent hébergement aux performances misérables), nous n'avons pas trouvé d'autre moyen d'héberger de site <strong>libre de censure</strong> avec des performances adéquates. En effet, nous avons remarqué que tous les hébergeurs avec une charte permettant la totale libre expression (c'est-à-dire refus de donner les infos de ses clients aux autorités et de procéder aux takedowns) offrent en général de mauvaises performances (pages lentes à charger, bande passante TRÈS limitée à seulement quelques lecteurs simultanés, etc). En d'autres termes: pour s'auto-publier, il vaut mieux abandonner les contenus dynamiques et préférer les sites statiques, qui eux sont beaucoup plus facile à héberger à peu de frais, et offrent des performances incroyables. Cela dit, nous pouvons encore générer du contenu dynamique avec Javascript, mais seulement côté client (donc rien qui ne nécessite une base de donnée, sauf si distribuée comme avec GUN.js).</p>
+<p>D'autre part, le fait que notre site soit entièrement hébergé sur Github accroit considérablement la transparence et la réutilisabilité de nos données, notamment de nos décomptes: chacun peut en faire une copie, et analyser les pages HTML pour facilement faire des méta-analyses. Cela accroit aussi notre résilience face à la censure, puisque n'importe qui peut faire un backup complet de notre site internet à n'importe quel moment :-) Pour télécharger notre site, c'est par ici:</p>
+<p><a href="https://github.com/gjsciences/gjsciences.com">https://github.com/gjsciences/gjsciences.com</a></p>
+<h2 id="mcetoc_1e4gm96ad1">Réseaux sociaux libres</h2>
+<p>Nous sommes tous maintenant bien conscient des limites fragiles à la liberté d'expression sur les réseaux sociaux centralisés comme <a href="https://facebook.com/gjsciences">Facebook</a> ou <a href="https://twitter.com/gjsciences">Twitter</a>, sites sur lesquels reposaient entièrement notre présence sociale.</p>
+<p>Pour accroitre davantage notre résilience à la censure, nous avons mis créé des comptes sur des réseaux sociaux libres, open source et décentralisés: <a href="https://mastodon.social/@gjsciences">Mastodon</a> (analogue à <a href="https://twiter.com/gjsciences">Twitter</a>) et <a href="https://www.minds.com/gjsciences/">Minds</a> (analogue à <a href="https://facebook.com/gjsciences">Facebook</a>).</p>
+<p>Nous invitons tous ceux qui souhaitent partager des informations librement sans risque de censure à rejoindre ces réseaux. Ces réseaux sont non seulement décentralisés, mais également opensource, ce qui garanti la liberté d'expression sur le long terme.</p>
+<p>Notez tout de même que les discours haineux n'y sont pas tolérés (bien que vous pourrez trouver des serveurs qui les tolèrent, ce sont des réseaux sociaux décentralisés, il y a des serveurs pour tout le monde, mais pas les serveurs avec le plus de monde).</p>
+<p>Nous publierons d'ailleurs bientôt un article sur de nombreux autres systèmes de communication et de partage décentralisés, afin de lutter activement contre la censure soit pour autant devoir posséder de compétence technique!</p>
+<h2 id="mcetoc_1e4gmf6o72">Auto-hébergement et résilience à la censure</h2>
+<p>Depuis le début, nous avons choisi de publier nos travaux sur notre propre site web. Cela a été très compliqué, et particulièrement chronophage lorsqu'il fallait réparer les soucis techniques récurrents, mais c'est l'une des meilleures stratégies pour maintenir sa capacité de libre expression, et qui est au coeur de la méthode <a href="https://indieweb.org/">IndieWeb</a> que nous vous invitons vivement à lire, ce site prodiguant de nombreux conseils pratiques quelque soit votre système source (par exemple si vous venez de Twitter et que vous souhaitez être plus résilient à la censure).</p>
+<p>Une autre méthode qui n'est pas exclusive et est également conseillée par <a href="https://indieweb.org/Getting_Started">IndieWeb</a> est de créer des ponts entre les systèmes qu'on ne peut pas remplacer. C'est ce que nous avons fait entre Twitter et Mastodon: vous pourrez donc consulter la plupart de nos tweets également sur Mastodon, de façon automatique et transparente, via l'excellent outil gratuit et <a href="https://github.com/foozmeat/moa">opensource</a> <a href="https://moa.party/">moa.party</a>. Cet outil permet un pont bidirectionnel (ou pas, comme vous voulez): chaque tweet/retweet est copié vers Mastodon, et chaque "pouet" (équivalent des tweets dans Mastodon) sont copié vers Twitter.</p>
+<p>Bien que Twitter ait une politique très ouverte concernant les lanceurs d'alertes (il y avait une entrée dans leur help.twitter.com qui mentionnait les whistleblowers, mais depuis le cas Trump-Ukraine il semble que ce ne soit plus le cas, mais il reste <a href="https://help.twitter.com/en/rules-and-policies/twitter-law-enforcement-support">ceci</a>: "the user may have created a fake or anonymous profile. Twitter doesn’t require real name use, email verification, or identity authentication.", alors que Facebook requiert que <a href="https://en.wikipedia.org/wiki/Facebook_real-name_policy_controversy">chaque compte soit lié à une identité réelle</a>, donc excluant de facto tout lanceur d'alerte), que Twitter tolère les ponts comme avec Mastodon (contrairement à Facebook qui n'a pas de lien vers aucun autre système comme Minds), et que <a href="https://www.wired.com/story/jack-dorsey-help-you-create-own-twitter/">Twitter souhaite migrer vers une solution décentralisée à terme</a>, il n'est pas exempt d'exemples de censure, aussi Mastodon est très utile pour complémenter le compte Twitter par un pont.</p>
+<p>Il y a néanmoins quelques avancées, et il est maintenant possible d'utiliser <a href="https://www.dailydot.com/debug/tor-twitter-facebook-privacy/">Tor (Browser) pour se connecter à Facebook, et peut-être bientôt aussi sur Twitter</a>.</p>
+<p>Nous invitons tous ceux qui possèdent un compte Twitter à créer un compte <a href="https://mastodon.social/">Mastodon</a> et à les lier ensemble avec <a href="https://moa.party/">moa.party</a>. L'idée n'est pas que tous vos lecteurs migrent vers Mastodon, mais que dans le cas d'une censure, vos lecteurs les plus assidus puissent toujours consulter vos messages librement.</p>
+<p>C'est <strong>le fait même d'empêcher Twitter ou autre plateforme centralisée d'avoir l'entier contrôle sur votre publication qui vous confère une réelle liberté d'expression, car alors Twitter ou Facebook ou les autres ne deviennent qu'un canal de communication parmis d'autres: ils ne peuvent plus vous censurer, seulement vous entraver.</strong> C'est aussi pour cela qu'auto-héberger soit-même ses écrits est un excellement moyen d'ajouter un canal de communication que l'on contrôle entièrement.</p>
+<p>Cette idée est excellement bien résumée dans cet article: <strong>pour garantir la liberté d'expression, <a href="https://knightcolumbia.org/content/protocols-not-platforms-a-technological-approach-to-free-speech">il faut des protocoles (de communication), et non pas des plateformes</a></strong>, et nous pouvons chacun y jouer un rôle en adoptant ces protocoles en parallèle de notre utilisation de plateformes centralisées qui continuent d'avoir le monopole d'audience (pour le moment).</p>
+<h2 id="mcetoc_1e4goink73">Mot de la fin</h2>
+<p>Nous espérons que ces changements vous permettront une lecture plus agréable sur notre site! N'hésitez pas à nous laisser des commentaires sur les articles respectifs ou ici pour nous faire savoir ce que vous pensez (de nos écrits ou du nouveau site!).</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Bienvenue sur GJ Sciences!</title>
         <author>
@@ -2748,167 +2811,6 @@ https://twitter.com/InfosFrancaises/status/1185530046481604608</pre>
 <p>https://twitter.com/anatolium/status/1185283723580919809</p>
 <p>https://twitter.com/gjsciences/status/1173703362182885376</p>
 <p>Cette semaine encore, le Ministère de l'Intérieur n'a donné aucune estimation du nombre total de gilets jaunes (tout comme les semaines précédentes). Ce qui est peut-être mieux, étant donné la minimisation systématique de leurs décomptes. Nous vous renvoyons vers <a href="http://gjsciences.com/2019/04/28/ministere-de-l-interieur-des-chiffres-divises-par-2-absurdement-minimises/">notre billet dédié</a>, démontrant de façon formelle la minimisation des chiffres du Ministère de l'Intérieur.</p>
-<p>Nous vous renvoyons vers notre dossier sur Twitter pour en savoir plus sur le #PitieGate de la manifestation du 1er Mai 2019, événement emblématique qui a fait prendre largement prendre conscience dans la sphère publique des violences policières sur tous les manifestants et journalistes (et pas seulement les gilets jaunes), avec toutes les preuves de ce «mensonge d'État» d'après David Dufresne, voire scandale d'État.</p>
-<p>https://twitter.com/i/moments/1124459414642208768</p>
-<p><em>Le texte de cet article est sous license Creative Commons <span class="cc-license-title">Attribution 4.0 International</span> <span class="cc-license-identifier"> (CC BY 4.0). Les images et vidéo sont les propriétés de leurs auteurs tels qu'indiqués en description ici ou sur la page liée. Image d’en-tête est notre composition à partir de dessins par <a class="hover_opacity" href="https://pixabay.com/fr/users/clker-free-vector-images-3736/">Clker-Free-Vector-Images</a> et <a class="hover_opacity" href="https://pixabay.com/fr/users/openclipart-vectors-30363/">OpenClipart-Vectors</a>, tous deux sous <a href="https://pixabay.com/fr/service/license/">license Pixabay</a>.</span></em></p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Comptage des gilets jaunes du samedi 05/10/2019 (Acte 47)</title>
-        <author>
-            <name>gjsciences</name>
-        </author>
-        <link href="https://gjsciences.com/comptage-des-gilets-jaunes-du-samedi-05102019-acte-47/"/>
-        <id>https://gjsciences.com/comptage-des-gilets-jaunes-du-samedi-05102019-acte-47/</id>
-            <category term="virus"/>
-            <category term="manifestation"/>
-            <category term="gilets-jaunes"/>
-            <category term="comptage de foule"/>
-            <category term="acte XLVII"/>
-            <category term="acte 47"/>
-
-        <updated>2020-03-28T13:21:35+01:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://gjsciences.com/media/posts/64/comptage-entete-article-v3-vote-acte47.png" alt="" />
-                    <p>Comptage par densité scientifiquement fondé de l'acte 46 (acte XLVI) des gilets jaunes et autres manifestants convergents (climat, grévistes, urgences, services publics, cheminots, syndicalistes, etc). Notre décompte est <strong>au pic de mobilisation</strong> et limité à un décompte local pour quelques villes pour lesquelles nous avons obtenu des données adéquates.</p>
-<p>En partenariat avec <a href="https://www.facebook.com/lenombrejaune/">Le Nombre Jaune</a>, avec lequel nous échangeons des données, et que nous vous invitons à consulter pour un décompte à l'échelle nationale.</p>
-<p><strong>Par manque de temps, nous publions ce décompte sans qualification de précision et avec un minimum de formattage (car nous avons accumulé du retard dans nos publications), mais il nous semble important de publier les sources de nos décomptes afin d'assurer la vérifiabilité et reproductibilité.</strong></p>
-
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://gjsciences.com/media/posts/64/comptage-entete-article-v3-vote-acte47.png" alt="" />
-                <p>Comptage par densité scientifiquement fondé de l'acte 46 (acte XLVI) des gilets jaunes et autres manifestants convergents (climat, grévistes, urgences, services publics, cheminots, syndicalistes, etc). Notre décompte est <strong>au pic de mobilisation</strong> et limité à un décompte local pour quelques villes pour lesquelles nous avons obtenu des données adéquates.</p>
-<p>En partenariat avec <a href="https://www.facebook.com/lenombrejaune/">Le Nombre Jaune</a>, avec lequel nous échangeons des données, et que nous vous invitons à consulter pour un décompte à l'échelle nationale.</p>
-<p><strong>Par manque de temps, nous publions ce décompte sans qualification de précision et avec un minimum de formattage (car nous avons accumulé du retard dans nos publications), mais il nous semble important de publier les sources de nos décomptes afin d'assurer la vérifiabilité et reproductibilité.</strong></p>
-<hr>
-<p><a href="http://gjsciences.com/2019/01/17/pourquoi-ce-blog-comment-les-comptages-sont-calcules/">Notre méthode de comptage</a>, rigoureuse, vérifiable et scientifique, se fonde sur le comptage par densité de Jacobs appliqué aux photographies non-aériennes selon Dillon Cariveau avec les règles de crédibilité de McPhail et McCarthy, avec <a href="http://gjsciences.com/2019/03/15/evolutions-dans-notre-methode-de-comptage/">un score de précision</a> pour qualifier la marge d'erreur de chaque décompte. Notre méthode est la même que celle utilisée par les <a href="https://fullfact.org/europe/peoples-vote-march-count/">fact-checkers</a> et <a href="https://qrius.com/estimating-crowd-sizes-math/">historiens</a>. Nous nous basons uniquement sur des preuves observables (photographies et vidéos assez en hauteur et en suffisante qualité et bien localisées/datées), jamais sur les chiffres d'autres observateurs, bien que nous puissions les mentionner pour donner du contexte. Nous détaillons ici notre décompte ville par ville, avec les données sources utilisées et notre méthode pour calculer chacun.</p>
-<p>Ce décompte ne se veut pas exhaustif, mais <strong>représentatif</strong> du nombre de manifestants dans <strong>un</strong> cortège dans <strong>un</strong> lieu précis et à <strong>un</strong> moment donné. Autrement dit, c'est un <strong>instantané à minima</strong> de ce qu'on peut observer sur photo ou vidéo, et ne peut constituer un décompte exhaustif mais simplement donner un ordre d'idée de la mobilisation. Notez qu'<strong>avec <a href="https://www.facebook.com/lenombrejaune/">Le Nombre Jaune</a> nous sommes les seuls à fournir un comptage basé sur des données sourcées et détaillées</strong>.</p>
-<p>Nous ne cachons pas que nous sommes engagés, et cela n'entame en rien notre soucis d'objectivité: l'objectivité s'atteint par une méthode, pas par la neutralité de ses pensées. Tout comme plus personne, et les scientifiques les premiers, ne peut plus rester neutre face aux catastrophes causées par le changement climatique, nous nous engageons afin que les méthodes scientifiques aient un impact positif sur la société.</p>
-<p>Nous échangeons des données avec Le Nombre Jaune depuis l'Acte 11, et ceux-ci reprennent régulièrement nos décomptes pour certaines villes, principalement les gros rassemblements sur lesquels notre méthode par densité est plus adaptée.</p>
-<p>Nos comptages se fait <strong>au pic de mobilisation</strong> (donc à une heure variable) autant que possible (selon les données qui nous parviennent), contrairement au Ministère de l'Intérieur qui fournit deux chiffres <strong>à heures fixes</strong> (14h et 18h respectivement, voir ce billet pour plus d'informations sur <a href="http://gjsciences.com/2019/04/28/ministere-de-l-interieur-des-chiffres-divises-par-2-absurdement-minimises/">leur méthode</a>). D'autre part, nous considérons les manifestations convergentes, tandis que <a href="http://gjsciences.com/2019/03/18/convergence-gilets-jaunes-et-gilets-verts-ou-recuperation-la-fake-news-des-macronistes/">le Ministère les exclut</a>.</p>
-<p>Enfin, il est à noter que nous décomptons selon les données que nous arrivons à nous procurer (images assez en hauteur pour estimer la densité, plan assez large pour estimer périmètre, lieu et heure assez précis). Si vous avez de meilleures images/vidéos, n'hésitez pas à nous en faire part en commentaire!</p>
-<p>Les données (photos, vidéos) ont été soit échangées avec le collectif Le Nombre Jaune (groupe Facebook Le Nombre Jaune), soit trouvées sur Twitter (recherche avec les mots clés: #giletsjaunes ville, où ville est remplacé par la ville) soit ailleurs sur Facebook (mots clés: gilets jaunes ville live).</p>
-<p><strong>Nous tenons à remercier chaleureusement les auteurs des photos et vidéos que nous utilisons ici ou que nous avons considéré pour notre comptage: nous ne pourrions rien faire sans vous! Nos référents terrains prennent d'ailleurs de plus en plus de risques avec la montée de la répression policière. Observer et compter est devenue une activité risquée. </strong>De même pour les auteurs de données que nous n'avons pas pu utiliser, nous vous remercions tout autant, car toutes les photos et vidéos de foules sont utiles dans notre processus de sélection, soyez-en certains!</p>
-<p>De plus en plus d'autres acteurs convergent avec le mouvement des gilets jaunes, aussi nos décomptes intègrent également ces acteurs qui se joignent aux cortèges des gilets jaunes (puisque, comme pour la <a href="http://gjsciences.com/2019/03/17/comptage-des-gilets-jaunes-marche-pour-le-climat-du-samedi-16-03-2019-acte-xviii/">manifestation pour le climat</a>, il n'y a aucun moyen de différencier ces manifestants qui participent aux mêmes cortèges).</p>
-<p> </p>
-<div class="post__toc">
-<h3>Table of Contents</h3>
-<ul>
-<li><a href="#mcetoc_1e4ghdmob0">Score de précision et marge d'erreur</a></li>
-<li><a href="#mcetoc_1e4ghdmob1">Comptage ultra-précis par vision artificielle</a></li>
-<li><a href="#mcetoc_1e4ghdmob2">Comptage par ville</a>
-<ul>
-<li><a href="#mcetoc_1e4ghdmob3">Paris</a>
-<ul>
-<li><a href="#mcetoc_1e4ghdmob4">Avant-propos</a></li>
-<li><a href="#mcetoc_1e4ghdmob5">Donnée 1</a></li>
-<li><a href="#mcetoc_1e4ghdmob6">Donnée 2</a></li>
-</ul>
-</li>
-<li><a href="#mcetoc_1e4ghdmob7">Toulouse</a>
-<ul>
-<li><a href="#mcetoc_1e4ghdmob8">Donnée 1</a></li>
-<li><a href="#mcetoc_1e4ghdmob9">Donnée 2</a></li>
-<li><a href="#mcetoc_1e4ghdmoba">Donnée 3</a></li>
-<li><a href="#mcetoc_1e4ghdmobb">Donnée 4</a></li>
-</ul>
-</li>
-<li><a href="#mcetoc_1e4ghdmobc">Bordeaux</a></li>
-<li><a href="#mcetoc_1e4ghdmobd">Amiens</a></li>
-</ul>
-</li>
-<li><a href="#mcetoc_1e4ghdmobe">Tableau récapitulatif</a></li>
-<li><a href="#mcetoc_1e4ghdmobf">Conclusion</a></li>
-</ul>
-</div>
-<h2 id="mcetoc_1e4ghdmob0">Score de précision et marge d'erreur</h2>
-<p>Depuis l'Acte XV, nous dérivons pour chaque décompte par densité <a href="http://gjsciences.com/2019/03/15/evolutions-dans-notre-methode-de-comptage/">un score de précision (voir ici pour plus d'infos)</a>. Nous prenons en compte ce score de précision lorsque nous choisissons le chiffre final à rapporter pour une ville (par exemple, entre un chiffre haut à précision faible, et un chiffre plus bas à précision haute, nous choisissons celui à précision haute. Lorsque la précision est moyenne pour le chiffre haut, nous pouvons rapporter les deux).</p>
-<p>Nous avons depuis calibré plus précisément nos méthodes, en voici un brief résumé, nous écrirons tout cela plus en détail dans un futur billet:</p>
-<ul>
-<li>analyse de sensibilité par variation des paramètres du géobalisage, ce qui donne des intervalles de décompte plutôt qu'un seul nombre. Le principe est d'abord de calculer selon les paramètres les plus plausibles, puis de varier vers le bas, afin de donner une fourchette plus basse (et nous considérons les paramètres les plus plausibles comme la fourchette haute -- ce qui permet de diminuer encore le risque de sur-estimation). Cela permet de mieux quantifier et représenter l'incertitude dans les mesures et notre marge d'erreur, et nous pensons que l'interprétation est également davantage intuitive de cette façon.</li>
-<li>préférence donnée aux décomptes de cortèges statiques: la méthode de comptage par densité a été construite et optimisée pour des cortèges statiques. Bien que nous l'ayons adaptée avec succès pour les cortèges mobiles, la marge d'erreur reste plus grande que pour les cortèges statiques, puisque les mouvements acroissent la possibilité de "trous", c'est-à-dire plus techniquement de variations dans la densité du cortège. Aussi, pour un même cortège, s'il y a des moments ou des données permettant de l'observer quand il est statique, ces décomptes seront préférés aux décomptes lorsqu'il est mobile.</li>
-<li>la qualité des vidéos est davantage prise en compte: une vidéo HD permettra plus souvent un décompte avec une précision plus élevée qu'une vidéo de mauvaise qualité, puisque la distance de vue est alors limitée.</li>
-<li>les horodatages codifiés, avec l'utilisation de "à" pour dénoter la précision lorsque nous utilisons l'horodatage d'un live Facebook -- seuls lives dont l'horodatage peut être considéré fiable en général car calculé en début de live et non pas en fin d'upload -- versus "vers" lorsque nous utilisons un horodatage plus imprécis comme celui de Twitter qui n'horodate que l'heure de fin d'upload; etc), dont nous écrirons les détails dans un futur billet.</li>
-<li>Nous songeons à modifier le score de précision pour le séparer en 2: un pour chaque paramètre, soit un pour la densité et un pour la superficie. En attendant, nous n'ajoutons que les critères qui permettent de délimiter précisément. Par exemple, une vidéo en hauteur mais qui ne permet pas de bien observer la superficie du cortège (par exemple car le feuillage d'un arbre obstrue la vue au loin) ne recevra pas forcément le critère C5 (mais si la hauteur permet une meilleure estimation de la densité alors le critère C5 pourrait être attribué). Autre exemple: si la vidéo est filmée en hauteur puis que le vidéaste se déplace autour de la foule, le critère C5 pourrait être attribué mais pas le critère C6 si le déplacement autour de la foule n'apporte pas plus de précision par rapport au plan filmé en hauteur (C5). L'idée est que si un critère est rempli mais que cela n'aide pas pour autant à améliorer la précision sur un des paramètres, nous ne l'ajoutons pas, et le score de précision sera donc plus faible que lors de précédents décomptes similaires avec notre ancienne méthode.</li>
-</ul>
-<h2 id="mcetoc_1e4ghdmob1">Comptage ultra-précis par vision artificielle</h2>
-<p>Nous intégrons les décomptes issus du travail remarquable de <a href="https://www.youtube.com/channel/UC9HZDCZvWGtxrBa2U-Z1kNQ"><strong>Henri Deadlonexus</strong></a>, qui a conçu une méthode de comptage assistée par ordinateur! Cette méthode est ultra-précise, puisque fondée sur la <strong>vision artificielle</strong> (sous-domaine de l'intelligence artificielle), qui consiste à détecter automatiquement les passants.</p>
-<p>Cette méthode est qualifiée d'<strong>ultra-précise</strong> puisqu'elle compte <strong>exactement chaque manifestants, un par un, sans aucune approximation</strong>, contrairement aux autres méthodes "humaines" comme la méthode par densité ou à vue. En effet, la machine a la possibilité de tracker/suivre un nombre quasi illimité de passants simultanément, quant le cerveau humain est limité à environ 7.</p>
-<p>Cette méthode n'est bien entendu pas parfaite, et présente les défis usuels en vision artificielle: occlusion, plan stables, intensité lumineuse de la scène, etc. C'est pourquoi cette méthode est vérifiée manuellement par un opérateur, en l'occurrence Henri, qui vérifie que chaque manifestant est bien détecté et détecté une fois (une boite de couleur apparait sur la tête du manifestant). De cette façon, avec la vérification manuelle, il est possible <strong>d'éliminer le risque de sur-estimation</strong>. D'autre part, l'algorithme utilisé prend en compte la <strong>direction</strong> des manifestants, en différenciant la zone de détection des passants (zone d'entrée) et la zone de comptage (zone d'arrivée).</p>
-<p>Le code couleur est le suivant:</p>
-<ul>
-<li>Boite <strong><span style="color: #3366ff;">bleue</span></strong>: passant détecté, mais pas encore compté.</li>
-<li>Boite <strong><span style="color: #339966;">verte</span></strong>: passant détecté et compté, car arrivé en zone de comptage.</li>
-<li>Boite <strong><span style="color: #ff00ff;">rose</span></strong>: passant rajouté manuellement car pas détecté par la machine.</li>
-</ul>
-<p>Lorsque disponible, nous fournissons les vidéos de ces décomptes dans des sous-sections nommées "<strong>Décompte par vision artificielle</strong>".</p>
-<p>Pour plus de détails techniques, voici ce que décrit l'auteur:</p>
-<blockquote>
-<p>Liste non exhaustive des outils:</p>
-<p>Frameworks:<br> * Qt5 : <a class="yt-simple-endpoint style-scope yt-formatted-string" spellcheck="false" href="https://www.youtube.com/redirect?event=video_description&amp;q=https%3A%2F%2Fwww.qt.io%2F&amp;redir_token=dOl815uA7eBamnoldPu-hh8nazZ8MTU1NjQ5ODQzNkAxNTU2NDEyMDM2&amp;v=ARi1VTaqL4I" target="_blank" rel="nofollow noopener noreferrer">https://www.qt.io/</a><br> * MXNet : <a class="yt-simple-endpoint style-scope yt-formatted-string" spellcheck="false" href="https://www.youtube.com/redirect?event=video_description&amp;q=https%3A%2F%2Fmxnet.apache.org%2F&amp;redir_token=dOl815uA7eBamnoldPu-hh8nazZ8MTU1NjQ5ODQzNkAxNTU2NDEyMDM2&amp;v=ARi1VTaqL4I" target="_blank" rel="nofollow noopener noreferrer">https://mxnet.apache.org/</a><br> * Ubuntu 18.04 CUDA 10 : <a class="yt-simple-endpoint style-scope yt-formatted-string" spellcheck="false" href="https://www.youtube.com/redirect?event=video_description&amp;q=https%3A%2F%2Fwww.nvidia.fr%2Fobject%2Fcuda-parallel-computing-fr.html&amp;redir_token=dOl815uA7eBamnoldPu-hh8nazZ8MTU1NjQ5ODQzNkAxNTU2NDEyMDM2&amp;v=ARi1VTaqL4I" target="_blank" rel="nofollow noopener noreferrer">https://www.nvidia.fr/object/cuda-par...</a><br> * OpenCV4 : <a class="yt-simple-endpoint style-scope yt-formatted-string" spellcheck="false" href="https://www.youtube.com/redirect?event=video_description&amp;q=https%3A%2F%2Fopencv.org%2F&amp;redir_token=dOl815uA7eBamnoldPu-hh8nazZ8MTU1NjQ5ODQzNkAxNTU2NDEyMDM2&amp;v=ARi1VTaqL4I" target="_blank" rel="nofollow noopener noreferrer">https://opencv.org/</a></p>
-<p>Algorithmes de calculs exterieurs:<br> * Détection d'objets: Faster R-CNN : <a class="yt-simple-endpoint style-scope yt-formatted-string" spellcheck="false" href="https://www.youtube.com/redirect?event=video_description&amp;q=https%3A%2F%2Fgithub.com%2Fijkguo%2Fmx-rcnn&amp;redir_token=dOl815uA7eBamnoldPu-hh8nazZ8MTU1NjQ5ODQzNkAxNTU2NDEyMDM2&amp;v=ARi1VTaqL4I" target="_blank" rel="nofollow noopener noreferrer">https://github.com/ijkguo/mx-rcnn</a><br> * Tracking: Optical Flow : <a class="yt-simple-endpoint style-scope yt-formatted-string" spellcheck="false" href="https://www.youtube.com/redirect?event=video_description&amp;q=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FOptical_flow&amp;redir_token=dOl815uA7eBamnoldPu-hh8nazZ8MTU1NjQ5ODQzNkAxNTU2NDEyMDM2&amp;v=ARi1VTaqL4I" target="_blank" rel="nofollow noopener noreferrer">https://en.wikipedia.org/wiki/Optical...</a></p>
-<p>Et plus de 10000 lignes de code perso.</p>
-</blockquote>
-<h2 id="mcetoc_1e4ghdmob2">Comptage par ville</h2>
-<h3 id="mcetoc_1e4ghdmob3">Paris</h3>
-<h4 id="mcetoc_1e4ghdmob4">Avant-propos</h4>
-<p>Il y avait au moins 3 cortèges mobiles déclarés + blocage du centre commercial Italie 2: https://paris.demosphere.net/rv/73249</p>
-<h4 id="mcetoc_1e4ghdmob5">Donnée 1</h4>
-<p>Donnée:</p>
-<p>https://twitter.com/delangemars/status/1180476425276710913</p>
-<p>Impossible de géolocaliser, aussi nous n'avons pas pu compter.</p>
-<h4 id="mcetoc_1e4ghdmob6">Donnée 2</h4>
-<pre>BEST: https://twitter.com/T_Bouhafs/status/1180417476083032066
-et https://twitter.com/Jeanne_gbd/status/1180408160038858752
-et https://twitter.com/YahooActuFR/status/1180402474164854784
-et https://twitter.com/AiphanMarcel/status/1180453652533784576
-et https://twitter.com/Callystor/status/1180410968167329793
-* https://www.facebook.com/trp.eric5/videos/10156943446514121/UzpfSTEwOTg3MTQ3MTc6Vks6NjMzNzgzOTg3MTQ5OTU1/
-* blocage pas meme groupe car y sont encore au soir https://www.facebook.com/brutofficiel/videos/531529537418695/
-blocage indéfini, appel à reproduire à l'international, initiative d'extinction rébellion + convergence des luttes</pre>
-<p>Dans ce cortège (différent des 3 autres mobiles), il y avait environ 300 manifestants d'après les journalistes. Nous n'avons pas pu effectuer un décompte par densité puisqu'en intérieur, et nous n'avons pas pu obtenir de plan nous permettant de calculer une superficie précise.</p>
-<p>https://twitter.com/Pressagrun/status/1180463514709823488</p>
-<h3 id="mcetoc_1e4ghdmob7">Toulouse</h3>
-<h4 id="mcetoc_1e4ghdmob8">Donnée 1</h4>
-<p>Source:</p>
-<p>https://twitter.com/AuryBouzar/status/1180475229090521089</p>
-<p><a href="https://www.mapchecking.com/#43.6039611,1.4506236;43.6038834,1.4504804;43.6030064,1.4513646;43.6028398,1.4515175;43.6028728,1.4517080;43.6031117,1.4515390;0.3;43.6036624,1.4491472,18">Géobalisage MapChecking</a>. Densité très légère. Entre 720 et 1200 manifestants.</p>
-<h4 id="mcetoc_1e4ghdmob9">Donnée 2</h4>
-<p>Source:</p>
-<p>https://twitter.com/AuryBouzar/status/1180492657497399298</p>
-<p><a href="https://www.mapchecking.com/#43.6049591,1.4457661;43.6049591,1.4455864;43.6048814,1.4455515;43.6044755,1.4455676;43.6041803,1.4455998;43.6037415,1.4456132;43.6037493,1.4457473;0.5;43.6050822,1.4416965,17">Géobalisage MapChecking</a>. Densité très légère. 940 manifestants.</p>
-<h4 id="mcetoc_1e4ghdmoba">Donnée 3</h4>
-<p>Source (à 40:56):</p>
-<p>https://www.facebook.com/RevPermanenteToulouse/videos/409904679670620/UzpfSTEwMDAwMzk0MjgyNTQ5ODpWSzo2MzM3OTM3OTM4MTU2NDE/</p>
-<p><a href="https://www.mapchecking.com/#43.6023837,1.4455861;43.6023817,1.4457577;43.6010102,1.4457779;43.6010005,1.4455794;0.5;43.6020056,1.4436520,18">Géobalisage MapChecking</a>. Densité très légère. 1140 manifestants.</p>
-<h4 id="mcetoc_1e4ghdmobb">Donnée 4</h4>
-<p>Source:</p>
-<p>https://www.facebook.com/lydialydia3131/videos/10217811832940073/UzpfSTEwMDk2NzY2OTU6Vks6NjMzOTUyMTk3MTMzMTM0/</p>
-<p><a href="https://www.mapchecking.com/#43.6020252,1.4455827;43.6020097,1.4457775;43.6004477,1.4457721;43.6004477,1.4455763;0.5;43.6014938,1.4417410,17">Géobalisage MapChecking</a>. Densité très légère. 1375 manifestants. Précision plus élevée car vidéo de haute qualité et assez en hauteur.</p>
-<h3 id="mcetoc_1e4ghdmobc">Bordeaux</h3>
-<p>Source:</p>
-<p>https://twitter.com/delangemars/status/1180477637292122119</p>
-<p><a href="https://www.mapchecking.com/#44.8403285,-0.5810106;44.8402981,-0.5809301;44.8389757,-0.5817529;44.8388933,-0.5817765;44.8385661,-0.5816960;44.8385585,-0.5817818;44.8389807,-0.5818623;44.8392517,-0.5816579;0.7;44.8395353,-0.5855042,17">Géobalisage MapChecking</a>. Densité mobile légère. 930 manifestants.</p>
-<h3 id="mcetoc_1e4ghdmobd">Amiens</h3>
-<p>Source (en fin de vidéo):</p>
-<p>https://www.facebook.com/laetitia.cuisset/videos/10220784288705876/</p>
-<p><a href="https://www.mapchecking.com/#49.8947331,2.2837732;49.8947106,2.2836203;49.8943340,2.2837812;49.8941266,2.2840172;49.8938485,2.2846501;49.8939176,2.2847333;49.8943531,2.2839554;1;49.8945684,2.2820886,18">Géobalisage MapChecking</a>. Densité mobile légère. Entre 1100 et 1500 manifestants.</p>
-<h2 id="mcetoc_1e4ghdmobe">Tableau récapitulatif</h2>
-<p>[vtftable]<br> <strong>Ville</strong>;;;<strong>Décompte</strong>;;;<strong>Heure</strong>;;;<strong>Précision</strong>;nn;<br> Toulouse;;;1200 à 1400;;;-;;;-;nn;<br> Amiens;;;1100 à 1500;;;-;;;-;nn;<br> Bordeaux;;;930;;;-;;;-;nn;<br> [/vtftable]</p>
-<h2 id="mcetoc_1e4ghdmobf">Conclusion</h2>
-<p>Nous décomptons un <strong>total de 3 230 à 3 830 manifestants, sur 3 villes </strong>pour lesquelles nous avons eu des données utilisables pour un comptage par densité ou par vision artificielle, dont au moins 1 200 à 1 400 à Toulouse, 1 100 à 1 500 à Amiens, 930 à Bordeaux. Rappelons que nous ne gardons que 3 chiffres significatifs pour le total (sauf quand nous oublions de faire cet arrondi).</p>
-<p>Ce chiffrage ne se veut pas exhaustif à l'échelle nationale, mais représentatif de la mobilisation à minima pour les villes pour lesquelles nous avons eu assez de données pour faire un décompte par densité. Pour un décompte plus exhaustif, nous vous redirigeons vers notre partenaire <a href="https://www.facebook.com/lenombrejaune/">Le Nombre Jaune</a>.</p>
-<p>Nous soulignons que ce décompte, bien que le nombre de villes comptabilisées peut sembler faible, nous prend <strong>en moyenne 3h de travail par ville</strong> (recherche de données, géolocalisation, géobalisage, retracement du déroulé de journée, croisement des données), chaque week-end, et ce sans compter l'écriture de l'article, les diverses sollicitations sur réseaux sociaux, les re-comptages, le développement de nos méthodologies comme le score de précision... Autant dire que notre week-end y passe. Plus de la moitié de ce temps de travail réside dans la recherche, la sélection et le rapprochement chronologique de données adéquates, aussi vous pouvez nous aider à compter plus de villes et avec une plus grande précision en nous faisant remonter vos vidéos de cortèges statiques (sur une place par exemple)!</p>
-<p>Au niveau de l'évolution de la mobilisation, nous ne pouvons nous prononcer à l'échelle nationale, nous vous renvoyons vers Le Nombre Jaune. Notons que la convergence est maintenant pleinement assumée:</p>
-<p>https://twitter.com/v_delmas/status/1180442132424921088</p>
-<p>Cette semaine encore, le Ministère de l'Intérieur n'a donné aucune estimation du nombre total de gilets jaunes (tout comme les semaines précédentes). Ce qui est peut-être mieux, étant donné la minimisation systématique de leurs décomptes. Nous vous renvoyons vers <a href="http://gjsciences.com/2019/04/28/ministere-de-l-interieur-des-chiffres-divises-par-2-absurdement-minimises/">notre billet dédié</a>, démontrant de façon formelle la minimisation des chiffres du Ministère de l'Intérieur.</p>
-<p>Pour un peu d'humour, voici un yellow bloc:</p>
-<p>https://twitter.com/AuryBouzar/status/1180469710992924672</p>
-<p> </p>
 <p>Nous vous renvoyons vers notre dossier sur Twitter pour en savoir plus sur le #PitieGate de la manifestation du 1er Mai 2019, événement emblématique qui a fait prendre largement prendre conscience dans la sphère publique des violences policières sur tous les manifestants et journalistes (et pas seulement les gilets jaunes), avec toutes les preuves de ce «mensonge d'État» d'après David Dufresne, voire scandale d'État.</p>
 <p>https://twitter.com/i/moments/1124459414642208768</p>
 <p><em>Le texte de cet article est sous license Creative Commons <span class="cc-license-title">Attribution 4.0 International</span> <span class="cc-license-identifier"> (CC BY 4.0). Les images et vidéo sont les propriétés de leurs auteurs tels qu'indiqués en description ici ou sur la page liée. Image d’en-tête est notre composition à partir de dessins par <a class="hover_opacity" href="https://pixabay.com/fr/users/clker-free-vector-images-3736/">Clker-Free-Vector-Images</a> et <a class="hover_opacity" href="https://pixabay.com/fr/users/openclipart-vectors-30363/">OpenClipart-Vectors</a>, tous deux sous <a href="https://pixabay.com/fr/service/license/">license Pixabay</a>.</span></em></p>
