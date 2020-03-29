@@ -22,7 +22,7 @@
     {
         "path": "/annonce-arret-des-decomptes-hebdomadaires/index.html",
         "type": "file",
-        "md5": "dc02934fbda523a3a9d17cf495f8890a"
+        "md5": "b13d3ea3f312c1454160dcd652498a2d"
     },
     {
         "path": "assets",
@@ -137,7 +137,7 @@
     {
         "path": "/authors/gjsciences/index.html",
         "type": "file",
-        "md5": "157384eeb57b310932e1d66bf24aebda"
+        "md5": "c8728b970cb60f04eb4436acf2d69eb4"
     },
     {
         "path": "authors/gjsciences/page",
@@ -272,7 +272,7 @@
     {
         "path": "/bienvenue-sur-gj-sciences/index.html",
         "type": "file",
-        "md5": "f89f92e547a578feb1963bed86f5805e"
+        "md5": "ab2b28a8ad5f9bbdb543a6ebccafba17"
     },
     {
         "path": "cagnotte-leetchi-fdo-bots-ou-file-dattente",
@@ -772,7 +772,7 @@
     {
         "path": "/coronavirus-covid-19-ce-quon-ne-vous-dit-pas-mais-que-vous-devez-savoir/index.html",
         "type": "file",
-        "md5": "5dfe14940ca1322015d876370b060856"
+        "md5": "ab3aeabc1b0a4dd767e903425a384872"
     },
     {
         "path": "coronavirus-covid-19-des-conseils-simples-et-pratiques-pour-vous-proteger-et-limiter-les-degats-si-malade",
@@ -782,7 +782,7 @@
     {
         "path": "/coronavirus-covid-19-des-conseils-simples-et-pratiques-pour-vous-proteger-et-limiter-les-degats-si-malade/index.html",
         "type": "file",
-        "md5": "21b5185202bcf70a49c33f55f33d6af4"
+        "md5": "b8a86bda2635b207488658c9ad6b0930"
     },
     {
         "path": "dangerosite-des-grenades-gli-f4-scientifiquement-prouvee",
@@ -807,12 +807,12 @@
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "a5c87446c3448f82bf2a104e730e0a0a"
+        "md5": "203488fd3c67140ddd1916d1823645e3"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "8c25d5497fbe7d6bfe9e9efd8114b332"
+        "md5": "a822467884e97d2b2a8172c9fd78657e"
     },
     {
         "path": "gj-sciences-fait-peau-neuve",
@@ -822,7 +822,7 @@
     {
         "path": "/gj-sciences-fait-peau-neuve/index.html",
         "type": "file",
-        "md5": "0accefaf918075d2bad7c41aee86a820"
+        "md5": "278bfa7f97c395f2364e97a7a845b842"
     },
     {
         "path": "gj-sciences-sur-les-reseaux-sociaux",
@@ -832,12 +832,12 @@
     {
         "path": "/gj-sciences-sur-les-reseaux-sociaux/index.html",
         "type": "file",
-        "md5": "26b5022a9375c8372f78b9142191736d"
+        "md5": "270fb526ed24f3d242ed681d8c76e19a"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "d0b663a86287479ac45bda4eea8a6b24"
+        "md5": "dd330b9f6ffedb389459ca38113eb996"
     },
     {
         "path": "le-vrai-debat-la-contre-attaque-des-gilets-jaunes-face-a-lastroturfing-de-macron",
@@ -858,6 +858,11 @@
         "path": "media/files",
         "type": "directory",
         "md5": false
+    },
+    {
+        "path": "/media/files/covid19-conseils-pratiques-gjsciences-wide.png",
+        "type": "file",
+        "md5": "0c5529e7e2e9b61b4bc3b62005a7d3b1"
     },
     {
         "path": "/media/files/covid19-conseils-pratiques-gjsciences.png",
@@ -11837,7 +11842,7 @@
     {
         "path": "/media/posts/75/covid19-conseils-pratiques-gjsciences-thumb.png",
         "type": "file",
-        "md5": "1c3946901b8274004dfbf54ae2cb1da0"
+        "md5": "0c5529e7e2e9b61b4bc3b62005a7d3b1"
     },
     {
         "path": "/media/posts/75/covid19-conseils-pratiques-gjsciences.png",
@@ -11892,32 +11897,32 @@
     {
         "path": "/media/posts/75/responsive/covid19-conseils-pratiques-gjsciences-thumb-2xl.png",
         "type": "file",
-        "md5": "526d71f82cd8709b063694ed427bdbca"
+        "md5": "746f8be5ded355b9447482eee3e85b45"
     },
     {
         "path": "/media/posts/75/responsive/covid19-conseils-pratiques-gjsciences-thumb-lg.png",
         "type": "file",
-        "md5": "526d71f82cd8709b063694ed427bdbca"
+        "md5": "cb2a799b6e6d188cd0d7b20e477da016"
     },
     {
         "path": "/media/posts/75/responsive/covid19-conseils-pratiques-gjsciences-thumb-md.png",
         "type": "file",
-        "md5": "7be0f955e63101ec27d10cb74f5b7162"
+        "md5": "188522efb7765df49612cab8694fb2aa"
     },
     {
         "path": "/media/posts/75/responsive/covid19-conseils-pratiques-gjsciences-thumb-sm.png",
         "type": "file",
-        "md5": "d01d8f368110aa405d996f65c0a6dccd"
+        "md5": "d0b3eb1cc0036769f8ed5643e11e6a38"
     },
     {
         "path": "/media/posts/75/responsive/covid19-conseils-pratiques-gjsciences-thumb-xl.png",
         "type": "file",
-        "md5": "526d71f82cd8709b063694ed427bdbca"
+        "md5": "746f8be5ded355b9447482eee3e85b45"
     },
     {
         "path": "/media/posts/75/responsive/covid19-conseils-pratiques-gjsciences-thumb-xs.png",
         "type": "file",
-        "md5": "fa46955c119dc945efe4478da985414e"
+        "md5": "d53946bfb6fc8e3c8cc1188ab2c63df1"
     },
     {
         "path": "/media/posts/75/responsive/covid19-conseils-pratiques-gjsciences-xl.png",
@@ -12247,7 +12252,7 @@
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "12fd9be1caa6d1d7e8f9afbdf966df03"
+        "md5": "24c3ac1b8ecc23953dea307e4de3e080"
     },
     {
         "path": "sitemap.xsl",
@@ -13337,7 +13342,7 @@
     {
         "path": "/tag/comptage-de-foule/index.html",
         "type": "file",
-        "md5": "b03090dee3992db95a8555f307515300"
+        "md5": "ca54e8486bd7cfb2b62e02e76d0cf22c"
     },
     {
         "path": "tag/comptage-de-foule/page",
@@ -13352,7 +13357,7 @@
     {
         "path": "/tag/comptage-de-foule/page/10/index.html",
         "type": "file",
-        "md5": "15643173be5a65b0ca85bea0e34f6411"
+        "md5": "95473dc21724665c4dfa80600f282531"
     },
     {
         "path": "tag/comptage-de-foule/page/11",
@@ -13362,7 +13367,7 @@
     {
         "path": "/tag/comptage-de-foule/page/11/index.html",
         "type": "file",
-        "md5": "191fa133d8b8427e3f6f300ba6bc9b18"
+        "md5": "e01ed29d17969da54f2228391957adf8"
     },
     {
         "path": "tag/comptage-de-foule/page/2",
@@ -13372,7 +13377,7 @@
     {
         "path": "/tag/comptage-de-foule/page/2/index.html",
         "type": "file",
-        "md5": "1c0b08dadcb114d970920ec8dd5d049a"
+        "md5": "eaa855cd38b10cd6acf2126e543b1857"
     },
     {
         "path": "tag/comptage-de-foule/page/3",
@@ -13382,7 +13387,7 @@
     {
         "path": "/tag/comptage-de-foule/page/3/index.html",
         "type": "file",
-        "md5": "8388e1f1942f34e3aebba33aa8cfa847"
+        "md5": "f9d2866e79508507a52ab3d6a6d896dc"
     },
     {
         "path": "tag/comptage-de-foule/page/4",
@@ -13392,7 +13397,7 @@
     {
         "path": "/tag/comptage-de-foule/page/4/index.html",
         "type": "file",
-        "md5": "c0547467cf46675d9a470bf02f3048c7"
+        "md5": "c97523a10785ece510b496f2a8506acc"
     },
     {
         "path": "tag/comptage-de-foule/page/5",
@@ -13402,7 +13407,7 @@
     {
         "path": "/tag/comptage-de-foule/page/5/index.html",
         "type": "file",
-        "md5": "34a69b6758e6a627b4d6be10e9dde573"
+        "md5": "3a3948d07caadb6cc0f8f46f0e318b91"
     },
     {
         "path": "tag/comptage-de-foule/page/6",
@@ -13412,7 +13417,7 @@
     {
         "path": "/tag/comptage-de-foule/page/6/index.html",
         "type": "file",
-        "md5": "190b863b4da0c473f23163bd20abfbc1"
+        "md5": "d998b2f74679efaf4fefdbc6c787fafe"
     },
     {
         "path": "tag/comptage-de-foule/page/7",
@@ -13422,7 +13427,7 @@
     {
         "path": "/tag/comptage-de-foule/page/7/index.html",
         "type": "file",
-        "md5": "a5af439491dc8ce29677f1ded6831387"
+        "md5": "228d55a5247d0f34d800ecfff75d2f38"
     },
     {
         "path": "tag/comptage-de-foule/page/8",
@@ -13432,7 +13437,7 @@
     {
         "path": "/tag/comptage-de-foule/page/8/index.html",
         "type": "file",
-        "md5": "62d99ae15efac5eff12a6ce06b0b659e"
+        "md5": "b92dac0b3c2ae4987ad4fdd7073e0635"
     },
     {
         "path": "tag/comptage-de-foule/page/9",
@@ -13442,7 +13447,7 @@
     {
         "path": "/tag/comptage-de-foule/page/9/index.html",
         "type": "file",
-        "md5": "30b2e02f7919c402986bc08c7d79d420"
+        "md5": "60c41a58beb5d962634f0d23bd13b1af"
     },
     {
         "path": "tag/convergence",
@@ -13462,7 +13467,7 @@
     {
         "path": "/tag/coronavirus/index.html",
         "type": "file",
-        "md5": "802d39e17385eda7f303e434f0c5c173"
+        "md5": "14b2280f06ac57d1222445cfe268cd79"
     },
     {
         "path": "tag/covid-19",
@@ -13472,7 +13477,7 @@
     {
         "path": "/tag/covid-19/index.html",
         "type": "file",
-        "md5": "ec5c6849ae2dfa273b5d583017b57df5"
+        "md5": "f31e7c50cb666531853bb4dc935c41b7"
     },
     {
         "path": "tag/crime-detat",
@@ -13572,7 +13577,7 @@
     {
         "path": "/tag/dossier/index.html",
         "type": "file",
-        "md5": "1f6686407965be445f8516bf380b8754"
+        "md5": "e6b4a6f652ced7d0342f840cc56b94fa"
     },
     {
         "path": "tag/dossier/page",
@@ -13587,7 +13592,17 @@
     {
         "path": "/tag/dossier/page/2/index.html",
         "type": "file",
-        "md5": "3827888f9c31976f539f26d7816b2758"
+        "md5": "b9c540af47d4df40060f3337cf7fef14"
+    },
+    {
+        "path": "tag/dossier/page/3",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tag/dossier/page/3/index.html",
+        "type": "file",
+        "md5": "c5fd33285128e8da1c4fcbca27f8e366"
     },
     {
         "path": "tag/epidemie",
@@ -13597,7 +13612,7 @@
     {
         "path": "/tag/epidemie/index.html",
         "type": "file",
-        "md5": "85fec290f78dccd656cb10f47b7ef947"
+        "md5": "551ce0cdb3a321ef2ecfeb87fb249926"
     },
     {
         "path": "tag/epidemiologie",
@@ -13607,7 +13622,7 @@
     {
         "path": "/tag/epidemiologie/index.html",
         "type": "file",
-        "md5": "ab55b8c718012f937594ab577ac03cf2"
+        "md5": "c672ad197951af42a1de4dabe3a32875"
     },
     {
         "path": "tag/epidemiologie-predictive",
@@ -13617,7 +13632,7 @@
     {
         "path": "/tag/epidemiologie-predictive/index.html",
         "type": "file",
-        "md5": "37983e9075db7cee27f79405a158f669"
+        "md5": "d7f5568d8226aab83a193d27bc18e68e"
     },
     {
         "path": "tag/facebook",
@@ -14137,7 +14152,7 @@
     {
         "path": "/tag/pandemie/index.html",
         "type": "file",
-        "md5": "077454d46a97ebfa97c070e7b08d4961"
+        "md5": "d484d08590588e7804beabc222deb119"
     },
     {
         "path": "tag/politique",
@@ -14257,7 +14272,7 @@
     {
         "path": "/tag/sante/index.html",
         "type": "file",
-        "md5": "d48c09eb068f2280ad9a1584fbefabf8"
+        "md5": "484e325659a077499fc5a444f7baa957"
     },
     {
         "path": "tag/scandale-detat",
@@ -14367,7 +14382,22 @@
     {
         "path": "/tag/vie-du-site/index.html",
         "type": "file",
-        "md5": "c944d2366646c5047eeab123bd62d790"
+        "md5": "cf110d5a96e62c1295118ff93a3849e3"
+    },
+    {
+        "path": "tag/vie-du-site/page",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "tag/vie-du-site/page/2",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tag/vie-du-site/page/2/index.html",
+        "type": "file",
+        "md5": "8eeb3788c65ba08131da577213647e5b"
     },
     {
         "path": "tag/violences-policieres",
@@ -14387,6 +14417,6 @@
     {
         "path": "/tag/virus/index.html",
         "type": "file",
-        "md5": "4832fd1b0f38709ef3797c3be920722e"
+        "md5": "bcc26c3c3e4c3cf4e3cde835153cc6e9"
     }
 ]

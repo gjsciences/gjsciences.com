@@ -3,7 +3,7 @@
     <title>GJ Sciences</title>
     <link href="https://gjsciences.com/feed.xml" rel="self" />
     <link href="https://gjsciences.com" />
-    <updated>2020-03-30T00:21:14+02:00</updated>
+    <updated>2020-03-30T00:33:43+02:00</updated>
     <author>
         <name>gjsciences</name>
     </author>
@@ -18,10 +18,12 @@
         <id>https://gjsciences.com/coronavirus-covid-19-des-conseils-simples-et-pratiques-pour-vous-proteger-et-limiter-les-degats-si-malade/</id>
             <category term="virus"/>
             <category term="santé"/>
+            <category term="pandémie"/>
             <category term="dossier"/>
+            <category term="covid-19"/>
             <category term="coronavirus"/>
 
-        <updated>2020-03-30T00:20:55+02:00</updated>
+        <updated>2020-03-30T00:32:11+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://gjsciences.com/media/posts/75/covid19-conseils-pratiques-gjsciences-thumb.png" alt="1- Portez un masque-torchon, 2- des lunettes (de vue ou de plongée), 3- un bonnet, 4- utilisez un spray d&#x27;eau de javel à 5° pour vous laver les mains et décontaminer les surfaces, 5- la prise de vitamine C pure 0.5 à 6g/j dès les 1er symptômes peut limiter l&#x27;aggravation pulmonaire et cardiaque due au COVID-19." />
@@ -38,7 +40,7 @@
 <p id="title-coronavirus-covid-19-une-stratégie-innovante-et-ubiquitaire-pour-l39arrêter" class="atx">En cette période de crise sanitaire dûe au coronavirus COVID-19, de nombreuses informations contradictoires fusent, et les pénuries en matériel de protection et de soin se font sentir partout. Le confinement STRICT est la meilleure défense, mais si vous devez sortir (courses, travail hospitalier ou autre poste nécessaire comme alimentation), que pouvez-vous faire pour vous protéger et protéger les autres? Et si vous tombez malade du coronavirus COVID-19, que pouvez-vous faire pour améliorer votre état?</p>
 <p>Nous allons ici vous apporter des réponses concrètes avec des solutions simples fondées sur la science et sans danger. On ne vous promet pas d'être protégé à 100%, mais vous réduirez significativement la propagation et la gravité du virus pour vous et les autres en suivant ces conseils.</p>
 <hr>
-<p>Puisqu'une image vaut mille mots, voici un poster résumant nos conseils. Le reste de cet article décrit en détail les sources et raisons de ces conseils. Vous pouvez le télécharger en <a href="../media/files/covid19-conseils-pratiques-gjsciences.png">haute résolution ici</a>, et en <a href="../media/files/covid19-conseils-pratiques-gjsciences.svg">dessin vectoriel svg ici</a>, plus on sera nombreux, plus ces stratégies freineront l'impact catastrophique du COVID-19, aussi n'hésitez pas à partager!</p>
+<p>Puisqu'une image vaut mille mots, voici un poster résumant nos conseils. Le reste de cet article décrit en détail les sources et raisons de ces conseils. Vous pouvez le télécharger en <a href="../media/files/covid19-conseils-pratiques-gjsciences.png">haute résolution ici</a>, en <a href="../media/files/covid19-conseils-pratiques-gjsciences.svg">dessin vectoriel svg ici</a>, et en <a href="../media/files/covid19-conseils-pratiques-gjsciences.png">format large optimisé pour les réseaux sociaux ici</a>. Plus on sera nombreux à les suivre, plus ces stratégies freineront l'impact catastrophique du COVID-19, aussi n'hésitez pas à partager!</p>
 <div class="gallery"   >
 <figure class="gallery__item"><a href="https://gjsciences.com/media/posts/75/gallery/covid19-conseils-pratiques-gjsciences.png" ><img src="https://gjsciences.com/media/posts/75/gallery/covid19-conseils-pratiques-gjsciences-thumbnail.png" alt="" width="720" height="702"></a>
 <figcaption class="gallery-description">Conseils pratiques pour se protéger du COVID-19</figcaption>
@@ -747,8 +749,9 @@
         </author>
         <link href="https://gjsciences.com/bienvenue-sur-gj-sciences/"/>
         <id>https://gjsciences.com/bienvenue-sur-gj-sciences/</id>
+            <category term="vie du site"/>
 
-        <updated>2020-03-28T19:43:16+01:00</updated>
+        <updated>2020-03-30T00:32:48+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://gjsciences.com/media/posts/73/gj-sciences-banner.jpg" alt="" />
@@ -1611,15 +1614,18 @@ Acte 52 Paris Toadd: https://www.youtube.com/watch?v=BgcZhgL2_KU</pre>
             <category term="épidémiologie"/>
             <category term="épidémie"/>
             <category term="virus"/>
+            <category term="santé"/>
             <category term="pandémie"/>
+            <category term="dossier"/>
             <category term="covid-19"/>
             <category term="coronavirus"/>
 
-        <updated>2020-03-29T23:42:51+02:00</updated>
+        <updated>2020-03-30T00:32:32+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://gjsciences.com/media/posts/72/coronavirus-header.jpg" alt="" />
                     <p><strong>D'ici 1 an, tout le monde connaitra au moins une personne ayant succombé au coronavirus. Principalement des parents (personnes agées) et peut-être des enfants. Des millions tomberont malades, plus d'1 personne sur 10, et au moins 1 malade sur 20 en mourra. Nous n'allons pas tous mourir, mais beaucoup mourront. C'est la réalité à laquelle nous devons tous nous préparer, car la pandémie est maintenant inévitable. Nous vous expliquons comment.</strong></p>
+<p>MAJ 30/03: <a href="https://gjsciences.com/coronavirus-covid-19-des-conseils-simples-et-pratiques-pour-vous-proteger-et-limiter-les-degats-si-malade/">un billet avec des conseils pratiques pour réduire les risques</a> est disponible.</p>
 
                 ]]>
             </summary>
@@ -1627,6 +1633,7 @@ Acte 52 Paris Toadd: https://www.youtube.com/watch?v=BgcZhgL2_KU</pre>
             <![CDATA[
                     <img src="https://gjsciences.com/media/posts/72/coronavirus-header.jpg" alt="" />
                 <p><strong>D'ici 1 an, tout le monde connaitra au moins une personne ayant succombé au coronavirus. Principalement des parents (personnes agées) et peut-être des enfants. Des millions tomberont malades, plus d'1 personne sur 10, et au moins 1 malade sur 20 en mourra. Nous n'allons pas tous mourir, mais beaucoup mourront. C'est la réalité à laquelle nous devons tous nous préparer, car la pandémie est maintenant inévitable. Nous vous expliquons comment.</strong></p>
+<p>MAJ 30/03: <a href="https://gjsciences.com/coronavirus-covid-19-des-conseils-simples-et-pratiques-pour-vous-proteger-et-limiter-les-degats-si-malade/">un billet avec des conseils pratiques pour réduire les risques</a> est disponible.</p>
 <hr>
 <p>Oui, notre titre et ce billet se veut alarmiste, car il nous faut faire retentir l'alarme face à une menace mondiale très sérieuse. Nous pensons que la panique <strong>raisonnée</strong> est ici salvatrice et utile, car oui, il faut <strong>avoir conscience du danger que représente ce nouveau coronavirus pour prendre les mesures nécessaires pour limiter son impact</strong>, puisque sa propagation à l'échelle mondiale, pandémique, est maintenant impossible à éviter.</p>
 <p>Cet article vise à vous informer en se fondant sur la science et les précédentes épidémies afin que vous puissiez prendre des décisions pour vous protéger vous et vos proches de la façon la plus optimale possible. Bien que les informations et la situation mondiale concernant ce virus évoluent très vite, nous allons essayer de prédire à moyen et long terme les impacts de ce virus sur notre société mondialisée, quand la plupart des autres articles se restreignent à une analyse à court-terme ou au jour le jour, ce qui n'a que peu d'utilité pour prévoir et essayer de se prémunir des dégats. Si nous faisons chacun preuve d'<strong>égoisme altruiste, c'est-à-dire de se protéger soi et ses proches, et de communiquer les informations aux autres, nous pourrions peut-être réduire l'impact potentiellement catastrophique de ce virus</strong>.</p>
@@ -2087,8 +2094,10 @@ Il ne fait donc aucun doute que la censure concernant les pandémies est encore 
         </author>
         <link href="https://gjsciences.com/annonce-arret-des-decomptes-hebdomadaires/"/>
         <id>https://gjsciences.com/annonce-arret-des-decomptes-hebdomadaires/</id>
+            <category term="vie du site"/>
+            <category term="comptage de foule"/>
 
-        <updated>2020-03-25T22:04:58+01:00</updated>
+        <updated>2020-03-30T00:33:07+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://gjsciences.com/media/posts/71/comptage-entete-article-v3-nouvelleaventure.png" alt="" />
@@ -2107,7 +2116,6 @@ Il ne fait donc aucun doute que la censure concernant les pandémies est encore 
 <p>Notamment, nous publierons un tutoriel récapitulant toutes nos avancées et connaissances d'une année de comptages hebdomadaires de foules. Nous espérons que cela permettra à tous les curieux de se mettre au comptage de foules, avec peu ou pas de moyens, et en évitant les écueils.</p>
 <p>Ce n'est pas la fin, c'est seulement le début d'une nouvelle aventure (pleine de sciences)!</p>
 </div>
-
             ]]>
         </content>
     </entry>
