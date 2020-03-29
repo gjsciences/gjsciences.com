@@ -3,7 +3,7 @@
     <title>GJ Sciences</title>
     <link href="https://gjsciences.com/feed.xml" rel="self" />
     <link href="https://gjsciences.com" />
-    <updated>2020-03-30T01:12:42+02:00</updated>
+    <updated>2020-03-30T01:20:54+02:00</updated>
     <author>
         <name>gjsciences</name>
     </author>
@@ -23,7 +23,7 @@
             <category term="covid-19"/>
             <category term="coronavirus"/>
 
-        <updated>2020-03-30T01:11:58+02:00</updated>
+        <updated>2020-03-30T01:20:29+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://gjsciences.com/media/posts/75/covid19-conseils-pratiques-gjsciences-wide.png" alt="1- Portez un masque-torchon, 2- des lunettes (de vue ou de plongée), 3- un bonnet, 4- utilisez un spray d&#x27;eau de javel à 5° pour vous laver les mains et décontaminer les surfaces, 5- la prise de vitamine C pure 0.5 à 6g/j dès les 1er symptômes peut limiter l&#x27;aggravation pulmonaire et cardiaque due au COVID-19." />
@@ -334,7 +334,7 @@
 <p><strong><a href="https://www.ncbi.nlm.nih.gov/pubmed/32035997">Cette étude</a> montre que 0.1% d'eau de Javel (soit &lt; 1°!) seulement est suffisant pour éliminer les coronavirus en moins d'1 minute!</strong> Tout comme d'ailleurs l'éthanol à 62-71%, ou 0.5% de péroxide d'hydrogène dans le même temps. Donc avec 5° d'eau de Javel, soit 1.6% de concentration, vous pouvez être certain de l'efficacité contre le COVID-19, et <strong>vous n'avez pas besoin d'être hyper précis dans la dilution pour avoir une efficacité</strong> car il suffit d'un seizième seulement pour que cela soit efficace. Vous l'aurez compris, <strong>ce virus est en vérité très fragile même s'il est très contagieux et létal, il suffit de quelques mesures sanitaires simples et accessibles pour le tuer.</strong></p>
 <p>Concrètement, il suffit d'acheter de l'eau de Javel concentrée soit en liquide, berlingot ou pastilles (nous conseillons ces dernières car cela prendra moins de place dans vos courses et vous en aurez pour plus longtemps). Vous pouvez ensuite en verser et diluer avec de l'eau du robinet dans un brumisateur à vitre (aussi appelé un "pistolet lave vitre" ou "spray" ou "vaporisateur") qu'on trouve dans toutes les grandes surfaces, ou soit dans les petits brumisateurs de parfum de voyage pour garder sur vous et utiliser pour laver vos mains pendant vos trajets.</p>
 <p><img class="post__image post__image--center" src="https://cdn.pixabay.com/photo/2015/09/09/19/57/cleaning-932936_960_720.jpg" alt="pistolet brumisateur lave vitre" width="478" height="720"></p>
-<p>Vous n'êtes pas sûr de savoir comment diluer correctement l'eau de Javel à 5° pour que ce soit efficace contre le virus mais que ça ne vous brûle pas? Nous avons fait un petit calculateur ci-dessous (avec <a href="https://jsbin.com/giqozalodo/1">un lien mirroir ici</a> que vous pouvez facilement partager), cliquez et tirez la souris sur les zones sur-lignées pour changer les valeurs:</p>
+<p>Vous n'êtes pas sûr de savoir comment diluer correctement l'eau de Javel à 5° pour que ce soit efficace contre le virus mais que ça ne vous brûle pas? Nous avons fait un petit calculateur ci-dessous (avec <a href="https://jsbin.com/sisavonafi/1/edit?output">un lien mirroir ici</a> que vous pouvez facilement partager), cliquez et tirez la souris sur les zones sur-lignées pour changer les valeurs:</p>
 <div>
 <script src="https://unpkg.com/ink-components"></script>
 <!-- ink-components v0.1.9 --> <!-- <script src="ink.min.js"></script> <!-- ink-components v0.1.9 --> <!-- share on JSBin, can easily set up a link to only share the rendered output + bins are forever kept --> <!-- Calculateur de dilution d'eau de Javel v0.9 - License: MIT Public License, author: Anatole Rover, for GJSciences.com -->
@@ -656,7 +656,7 @@
 <p>Ce qu'on observe, c'est l'expression presque en cas d'école d'un concept nommé la <a href="https://en.wikipedia.org/w/index.php?title=Blame&amp;oldid=935382806#Blaming_and_transparency">colonisation du risque</a> en théorie de la culture du blame, où le risque des acteurs institutionnels est transféré sur la société, alors que c'est ces acteurs qui sont chargés de gérer ce risque.</p>
 <p>Il existe des initiatives juridiques pour mettre les dirigeants face à leur responsabilité, telles que <a href="https://www.nouvelobs.com/coronavirus-de-wuhan/20200320.OBS26322/coronavirus-des-medecins-portent-plainte-contre-edouard-philippe-et-agnes-buzyn.html">la plainte par C19 créé par des médecins</a> (et nous invitons tous les soignants à les rejoindre!) et la <a href="https://www.franceinter.fr/justice/la-question-du-confinement-total-posee-au-conseil-d-etat-par-les-jeunes-medecins-et-les-internes">saisie du Conseil d'État par les syndicats des jeunes médecins et les internes de France</a>. Néanmoins, nous pensons qu'aucune de ces initiatives n'aboutira.</p>
 <p>Pourquoi? Car nous entrons dans l'ère de l'<strong>irresponsabilité mutuelle des dirigeants</strong>, où chaque dirigeant se défendra de son bilan catastrophique en nombre de morts du coronavirus par le fait que les autres dirigeants n'auront pas fait mieux. C'est <strong>un appel à la médiocrité</strong>. Peu leur importe que ce soit une fantaisie, puisque clairement les pays de l'Asie comme la Chine, le Vietnam ou la Corée du Sud ont su faire bien mieux (avec la Chine étant le premier foyer et donc le plus à risque puisqu'ils n'avaient que peu de temps pour réagir, quand nous en avons eu beaucoup plus!). Nous verrons si cela marche ou pas, mais notons que ce genre de défense n'a pas bien fonctionné lors de précédents crimes contre l'Humanité comme au tribunal de Nuremberg.</p>
-<h2 id="annexe-4--attention-aux-livraisons" class="atx">Annexe 4 : attention aux livraisons!</h2>
+<h2 id="annexe-4--attention-aux-livraisons" class="atx">Annexe 4 : Attention aux livraisons!</h2>
 <p>Si vous souhaitez vous faire livrer des outils (ex: masque respirateur réutilisable, vitamine C en poudre) ou des denrées nécessaires, ne tardez pas!</p>
 <p>Les livraisons commencent déjà à être impossibles dans certaines régions: Mondial Relay a fermé, et <a href="https://www.colissimo.entreprise.laposte.fr/fr/covid19">Colissimo (la Poste tout de même!) ne livre plus dans les régions suivantes</a> (<a href="https://archive.is/wxl8m">miroir web archive</a>):</p>
 <blockquote>
