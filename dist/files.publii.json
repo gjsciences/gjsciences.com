@@ -137,7 +137,7 @@
     {
         "path": "/authors/gjsciences/index.html",
         "type": "file",
-        "md5": "bec4c670ae166c3e03dc2bd261c81517"
+        "md5": "1b5ec02696531a877dbfac1c8b96ff03"
     },
     {
         "path": "authors/gjsciences/page",
@@ -152,7 +152,7 @@
     {
         "path": "/authors/gjsciences/page/10/index.html",
         "type": "file",
-        "md5": "106ff8e8c3acd34dd7a68b1d0fe57200"
+        "md5": "a1ed59ed5cb765bedca36fdfc36fb941"
     },
     {
         "path": "authors/gjsciences/page/11",
@@ -162,7 +162,7 @@
     {
         "path": "/authors/gjsciences/page/11/index.html",
         "type": "file",
-        "md5": "62efee79ab411bf689b86cf8503ebeb0"
+        "md5": "18fb0d37c993eba47e5e5bdd69f53daa"
     },
     {
         "path": "authors/gjsciences/page/12",
@@ -172,7 +172,7 @@
     {
         "path": "/authors/gjsciences/page/12/index.html",
         "type": "file",
-        "md5": "d29d3b793060f66e8897c4355e6754b8"
+        "md5": "c88a24a706347089d504740b6e3974c5"
     },
     {
         "path": "authors/gjsciences/page/13",
@@ -182,7 +182,7 @@
     {
         "path": "/authors/gjsciences/page/13/index.html",
         "type": "file",
-        "md5": "d81c95548cd10be9fea09e245072f02c"
+        "md5": "ee726f82a3ef79c1f844721021850ffd"
     },
     {
         "path": "authors/gjsciences/page/2",
@@ -192,7 +192,7 @@
     {
         "path": "/authors/gjsciences/page/2/index.html",
         "type": "file",
-        "md5": "efabc9d1ec72d52a6c97c59cb82199db"
+        "md5": "4dd69699b63c6bc6c6046ab5786b5cbf"
     },
     {
         "path": "authors/gjsciences/page/3",
@@ -202,7 +202,7 @@
     {
         "path": "/authors/gjsciences/page/3/index.html",
         "type": "file",
-        "md5": "bc920959ffbcd89e45838f05cbdf14a5"
+        "md5": "9fb29ac5c20f6965dc798626d481b1ac"
     },
     {
         "path": "authors/gjsciences/page/4",
@@ -212,7 +212,7 @@
     {
         "path": "/authors/gjsciences/page/4/index.html",
         "type": "file",
-        "md5": "76b27b09f3ecb24cea8ac1843c321370"
+        "md5": "b80a0300bfa7e3c9c17001d065903260"
     },
     {
         "path": "authors/gjsciences/page/5",
@@ -222,7 +222,7 @@
     {
         "path": "/authors/gjsciences/page/5/index.html",
         "type": "file",
-        "md5": "13abf94f9a4d247c3309c24587763744"
+        "md5": "3406c8e80ab2017244d1ffbe73123550"
     },
     {
         "path": "authors/gjsciences/page/6",
@@ -232,7 +232,7 @@
     {
         "path": "/authors/gjsciences/page/6/index.html",
         "type": "file",
-        "md5": "ee0032312ff1fb54099b224c75405aa9"
+        "md5": "ca59d55097e4f30edb66ac1a433d626b"
     },
     {
         "path": "authors/gjsciences/page/7",
@@ -242,7 +242,7 @@
     {
         "path": "/authors/gjsciences/page/7/index.html",
         "type": "file",
-        "md5": "a660b296027ff4deb39b588c2a7d3243"
+        "md5": "780706c4b8576cd1cde98eda95e60dcc"
     },
     {
         "path": "authors/gjsciences/page/8",
@@ -252,7 +252,7 @@
     {
         "path": "/authors/gjsciences/page/8/index.html",
         "type": "file",
-        "md5": "a14d0f1155a306e61a686466894ab7fa"
+        "md5": "b269fa343e14948e7b886cf670a96d67"
     },
     {
         "path": "authors/gjsciences/page/9",
@@ -262,7 +262,7 @@
     {
         "path": "/authors/gjsciences/page/9/index.html",
         "type": "file",
-        "md5": "c460810303f25e8c7ef7b81ecaa9da36"
+        "md5": "e18f0487f57d3f53fdcec04fa47ba367"
     },
     {
         "path": "bienvenue-sur-gj-sciences",
@@ -772,7 +772,17 @@
     {
         "path": "/coronavirus-covid-19-ce-quon-ne-vous-dit-pas-mais-que-vous-devez-savoir/index.html",
         "type": "file",
-        "md5": "23ad939cf67741ab81379328b9d275af"
+        "md5": "e6c75009dd3e67e11f6962d6b4c5d300"
+    },
+    {
+        "path": "coronavirus-covid-19-des-conseils-simples-et-pratiques-pour-vous-proteger-et-limiter-les-degats-si-malade",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/coronavirus-covid-19-des-conseils-simples-et-pratiques-pour-vous-proteger-et-limiter-les-degats-si-malade/index.html",
+        "type": "file",
+        "md5": "e9cb64455674f72a3fe5a6cdb8517747"
     },
     {
         "path": "dangerosite-des-grenades-gli-f4-scientifiquement-prouvee",
@@ -797,12 +807,12 @@
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "0542e316dddf6a9e70dc6d88a2439691"
+        "md5": "41f6dcf06f4f3164eb5a6a0f6e28cd3b"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "8d7a5805c66f90918cb351b0eee287bb"
+        "md5": "002622593331584ce75192e715bfe560"
     },
     {
         "path": "gj-sciences-fait-peau-neuve",
@@ -812,7 +822,7 @@
     {
         "path": "/gj-sciences-fait-peau-neuve/index.html",
         "type": "file",
-        "md5": "36781445fce9b70374fc3fad1c79d63d"
+        "md5": "52953c6486b1e2c519932c9c77b9a11b"
     },
     {
         "path": "gj-sciences-sur-les-reseaux-sociaux",
@@ -827,7 +837,7 @@
     {
         "path": "index.html",
         "type": "file",
-        "md5": "e57cded8e86454006becf93f2aa40d82"
+        "md5": "9708e7781a1593c44ba03cce723f85bf"
     },
     {
         "path": "le-vrai-debat-la-contre-attaque-des-gilets-jaunes-face-a-lastroturfing-de-macron",
@@ -848,6 +858,16 @@
         "path": "media/files",
         "type": "directory",
         "md5": false
+    },
+    {
+        "path": "/media/files/covid19-conseils-pratiques-gjsciences.png",
+        "type": "file",
+        "md5": "62a7bbc5e47f851676f0ed91f29091c6"
+    },
+    {
+        "path": "/media/files/covid19-conseils-pratiques-gjsciences.svg",
+        "type": "file",
+        "md5": "8516f03b513ba2e1a7e7498a8a7f2049"
     },
     {
         "path": "media/posts",
@@ -11810,6 +11830,101 @@
         "md5": "e54156eb4b1494bb6d7f8266c8f16237"
     },
     {
+        "path": "media/posts/75",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/75/covid19-conseils-pratiques-gjsciences.png",
+        "type": "file",
+        "md5": "62a7bbc5e47f851676f0ed91f29091c6"
+    },
+    {
+        "path": "media/posts/75/gallery",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/75/gallery/covid19-conseils-pratiques-gjsciences-thumbnail.png",
+        "type": "file",
+        "md5": "57d2a9a68a8c9a1df3f931f218874207"
+    },
+    {
+        "path": "/media/posts/75/gallery/covid19-conseils-pratiques-gjsciences.png",
+        "type": "file",
+        "md5": "62a7bbc5e47f851676f0ed91f29091c6"
+    },
+    {
+        "path": "/media/posts/75/pandemics-comparisons.png",
+        "type": "file",
+        "md5": "35c573a6de21f4188fde842cf285e580"
+    },
+    {
+        "path": "media/posts/75/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/75/responsive/covid19-conseils-pratiques-gjsciences-2xl.png",
+        "type": "file",
+        "md5": "7fb1f8a365cafba41f7456d5d1dcd01a"
+    },
+    {
+        "path": "/media/posts/75/responsive/covid19-conseils-pratiques-gjsciences-lg.png",
+        "type": "file",
+        "md5": "7fb1f8a365cafba41f7456d5d1dcd01a"
+    },
+    {
+        "path": "/media/posts/75/responsive/covid19-conseils-pratiques-gjsciences-md.png",
+        "type": "file",
+        "md5": "3dba996ee12b51cbf533f48bc7903dca"
+    },
+    {
+        "path": "/media/posts/75/responsive/covid19-conseils-pratiques-gjsciences-sm.png",
+        "type": "file",
+        "md5": "0848e70080976454d2b6a375a87a5c6d"
+    },
+    {
+        "path": "/media/posts/75/responsive/covid19-conseils-pratiques-gjsciences-xl.png",
+        "type": "file",
+        "md5": "7fb1f8a365cafba41f7456d5d1dcd01a"
+    },
+    {
+        "path": "/media/posts/75/responsive/covid19-conseils-pratiques-gjsciences-xs.png",
+        "type": "file",
+        "md5": "a96cecee7c850435a3a97196fd3aa7c0"
+    },
+    {
+        "path": "/media/posts/75/responsive/pandemics-comparisons-2xl.png",
+        "type": "file",
+        "md5": "fb3235a6fe071ac5d9aac5daf6304bb3"
+    },
+    {
+        "path": "/media/posts/75/responsive/pandemics-comparisons-lg.png",
+        "type": "file",
+        "md5": "a53ccb0eee2894d9a9bea2498428ba1a"
+    },
+    {
+        "path": "/media/posts/75/responsive/pandemics-comparisons-md.png",
+        "type": "file",
+        "md5": "df1fae4751bf29cc3926ed87c7ee7577"
+    },
+    {
+        "path": "/media/posts/75/responsive/pandemics-comparisons-sm.png",
+        "type": "file",
+        "md5": "2eebc2efd3189601dc2b8982621fa164"
+    },
+    {
+        "path": "/media/posts/75/responsive/pandemics-comparisons-xl.png",
+        "type": "file",
+        "md5": "fb3235a6fe071ac5d9aac5daf6304bb3"
+    },
+    {
+        "path": "/media/posts/75/responsive/pandemics-comparisons-xs.png",
+        "type": "file",
+        "md5": "297ffe66efcfdb0bb5369f811d2d3ce1"
+    },
+    {
         "path": "media/website",
         "type": "directory",
         "md5": false
@@ -11957,7 +12072,7 @@
     {
         "path": "/page/10/index.html",
         "type": "file",
-        "md5": "9ee5e26c95c157af8067594faaa45327"
+        "md5": "7db879e018f357f6bed6d607a0129647"
     },
     {
         "path": "page/11",
@@ -11967,7 +12082,7 @@
     {
         "path": "/page/11/index.html",
         "type": "file",
-        "md5": "86e85bf8796e96f8beb875f4eac77117"
+        "md5": "b46719dd304e2e147e7d3701efea3261"
     },
     {
         "path": "page/12",
@@ -11977,7 +12092,7 @@
     {
         "path": "/page/12/index.html",
         "type": "file",
-        "md5": "8abe7b590e55e7819d85540be452397b"
+        "md5": "c1a246335edaed7430174127ed46f72a"
     },
     {
         "path": "page/13",
@@ -11987,7 +12102,7 @@
     {
         "path": "/page/13/index.html",
         "type": "file",
-        "md5": "fe8ec7a1c0aef55a6136fcc975f68074"
+        "md5": "46203096b26e0e37749ba8d4885f22f4"
     },
     {
         "path": "page/2",
@@ -11997,7 +12112,7 @@
     {
         "path": "/page/2/index.html",
         "type": "file",
-        "md5": "9ebc816e73d25def38603955f54d76e6"
+        "md5": "bb4200dd7b00fa726d724227737ed4b5"
     },
     {
         "path": "page/3",
@@ -12007,7 +12122,7 @@
     {
         "path": "/page/3/index.html",
         "type": "file",
-        "md5": "e55248c46f485de0c0d815c54586098b"
+        "md5": "67dc8d17723bc8f9c30f4d3c227da9c4"
     },
     {
         "path": "page/4",
@@ -12017,7 +12132,7 @@
     {
         "path": "/page/4/index.html",
         "type": "file",
-        "md5": "2d71278bda82c2190d7a9f7a6d79062e"
+        "md5": "9616e9bbb777b47050388ffb18378140"
     },
     {
         "path": "page/5",
@@ -12027,7 +12142,7 @@
     {
         "path": "/page/5/index.html",
         "type": "file",
-        "md5": "979b8e6862632146fadfc21be74dc429"
+        "md5": "f5d27e81dd30d5dbed101151fe1f3ce4"
     },
     {
         "path": "page/6",
@@ -12037,7 +12152,7 @@
     {
         "path": "/page/6/index.html",
         "type": "file",
-        "md5": "9d36e96c6498e470d5dbde5f91f8e7f3"
+        "md5": "b940ffc900ff7f336372719172784cd1"
     },
     {
         "path": "page/7",
@@ -12047,7 +12162,7 @@
     {
         "path": "/page/7/index.html",
         "type": "file",
-        "md5": "eb51483ba92b926642162a70fb562ed0"
+        "md5": "067cf18f4410b55607ba715d49ef3992"
     },
     {
         "path": "page/8",
@@ -12057,7 +12172,7 @@
     {
         "path": "/page/8/index.html",
         "type": "file",
-        "md5": "c5e300c387f22235ba4ec73c2b052ab5"
+        "md5": "fc6f6d4e65d45b9b6f37316ae4d8a49c"
     },
     {
         "path": "page/9",
@@ -12067,7 +12182,7 @@
     {
         "path": "/page/9/index.html",
         "type": "file",
-        "md5": "f0a431f4256cce8b1a9c1deae828fafb"
+        "md5": "d1a5e2e78023c4f3bba4a534025698ca"
     },
     {
         "path": "pourquoi-ce-blog-comment-les-comptages-sont-calcules",
@@ -12097,7 +12212,7 @@
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "e047c838d3363659ed5bc13728983209"
+        "md5": "b05b980c4bf7c29c9f800cdadf2a3be8"
     },
     {
         "path": "sitemap.xsl",
@@ -13312,7 +13427,7 @@
     {
         "path": "/tag/coronavirus/index.html",
         "type": "file",
-        "md5": "d2f8c2531d266f4a45cbbb2ab87c19b9"
+        "md5": "a1017f332c3af0503d43c346fd25fa7f"
     },
     {
         "path": "tag/covid-19",
@@ -13422,7 +13537,7 @@
     {
         "path": "/tag/dossier/index.html",
         "type": "file",
-        "md5": "395930b73e4ca1ae9637a13474f8b220"
+        "md5": "d0c826e2b19a057ca56bd1022265fcf8"
     },
     {
         "path": "tag/dossier/page",
@@ -13437,7 +13552,7 @@
     {
         "path": "/tag/dossier/page/2/index.html",
         "type": "file",
-        "md5": "8b46f4bb453f99ac4cef3d62a125c283"
+        "md5": "3ecfc3a6b8703bff5b6a057c45e3a542"
     },
     {
         "path": "tag/epidemie",
@@ -14077,7 +14192,7 @@
     {
         "path": "/tag/reseaux-sociaux/index.html",
         "type": "file",
-        "md5": "0efd4eb033ad68e65e07b9b7c4327340"
+        "md5": "a48067e526b0f88f44822bb50bbe2a18"
     },
     {
         "path": "tag/revue",
@@ -14107,7 +14222,7 @@
     {
         "path": "/tag/sante/index.html",
         "type": "file",
-        "md5": "dfd95ea8020588182375041e67e6eb41"
+        "md5": "8e348f4502527fa229b071200fa24762"
     },
     {
         "path": "tag/scandale-detat",
@@ -14217,7 +14332,7 @@
     {
         "path": "/tag/vie-du-site/index.html",
         "type": "file",
-        "md5": "e45af438f42a299eb2e6c5d335f25311"
+        "md5": "49dfc0c0a12d5198b688ef1a56ed195e"
     },
     {
         "path": "tag/violences-policieres",
@@ -14237,6 +14352,6 @@
     {
         "path": "/tag/virus/index.html",
         "type": "file",
-        "md5": "eb2f8640619dba681eaa63cec0bda73a"
+        "md5": "7ebaf88ddae15f9f4aabf61d8e51f0b8"
     }
 ]
