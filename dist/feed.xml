@@ -3,7 +3,7 @@
     <title>GJ Sciences</title>
     <link href="https://gjsciences.com/feed.xml" rel="self" />
     <link href="https://gjsciences.com" />
-    <updated>2020-03-30T00:46:02+02:00</updated>
+    <updated>2020-03-30T01:09:38+02:00</updated>
     <author>
         <name>gjsciences</name>
     </author>
@@ -23,7 +23,7 @@
             <category term="covid-19"/>
             <category term="coronavirus"/>
 
-        <updated>2020-03-30T00:45:47+02:00</updated>
+        <updated>2020-03-30T01:09:01+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://gjsciences.com/media/posts/75/covid19-conseils-pratiques-gjsciences-wide.png" alt="1- Portez un masque-torchon, 2- des lunettes (de vue ou de plongée), 3- un bonnet, 4- utilisez un spray d&#x27;eau de javel à 5° pour vous laver les mains et décontaminer les surfaces, 5- la prise de vitamine C pure 0.5 à 6g/j dès les 1er symptômes peut limiter l&#x27;aggravation pulmonaire et cardiaque due au COVID-19." />
@@ -83,13 +83,14 @@
 <li><a href="#traitements--comment-limiter-la-casse">Traitements : comment limiter la casse?</a>
 <ul>
 <li><a href="#vitamine-c--pour-limiter-l39aggravation-vers-des-formes-sévères-en-protégeant-les-poumons-et-le-coeur">Vitamine C : pour limiter l'aggravation vers des formes sévères en protégeant les poumons et le coeur</a></li>
-</ul>
-</li>
 <li><a href="#paracétamol--1er-choix-pour-traiter-la-douleur-sous-supervision-médicale">Paracétamol : 1er choix pour traiter la douleur (sous supervision médicale!)</a></li>
-<li><a href="#mises-à-jours-suivez-nous-sur-twitter-ou-mastodon">Mises à jours: suivez-nous sur Twitter ou Mastodon!</a></li>
-<li><a href="#et-un-peu-d39humour-pour-finir">Et un peu d'humour pour finir</a></li>
 </ul>
 </li>
+<li></li>
+</ul>
+</li>
+<li><a href="#mcetoc_1e4k8rk8c0">Future mises à jours: suivez-nous sur Twitter ou Mastodon!</a></li>
+<li><a href="#et-un-peu-d39humour-pour-finir">Et un peu d'humour pour finir</a></li>
 <li><a href="#annexe-1-pourquoi-utiliser-des-masques-en-torchon-et-pas-un-autre-tissu">Annexe 1: pourquoi utiliser des masques en torchon et pas un autre tissu?</a></li>
 <li><a href="#annexe-2-autres-visualisations">Annexe 2: Autres visualisations</a></li>
 <li><a href="#annexe-3-de-l39irresponsabilité-mutuelle-des-dirigeants">Annexe 3: De l'irresponsabilité mutuelle des dirigeants</a></li>
@@ -281,8 +282,8 @@
 <p>Pourquoi magique? Car il est disponible chez tout le monde, et <strong>si nous portons tous un masque chaque fois que nous sortons, le virus sera endigué très rapidement et de nombreuses vies seront sauvées</strong>.</p>
 <p>D'après plusieurs études, ce masque en torchon vous apportera une protection similaire à un masque chirurgical (masque bleu à 3 plis et barrette pliable au niveau du nez), qui lui-même apporte en pratique autant de protection que les masques FFP2/N95 (masque respirateur filtre à particules avec cloisonnement hermétique) contre la contamination de virus, que ce soit pour se protéger quand on n'a pas le virus, ou pour protéger les autres quand on a le virus.</p>
 <p>La protection des masques-torchons a été mesurée par les scientifiques: elle est d'<strong>environ 50% à 70% de filtration des particules contre le coronavirus avec ce masque-torchon</strong>. Voir Annexe 1 pour les sources.</p>
-<p>Pour le porter, pas de coûture nécessaire, attachez-le simplement autour de la tête. Le masque doit couvrir votre bouche ET votre nez, et doit être suffisamment bien fixé pour ne pas nécessiter de réajustement durant vos déplacements: une fois que vous le mettez en place et que vous sortez de chez vous, vous ne devez PLUS le toucher sauf pour l'enlever à la fin de la phase de décontamination. Si vous avez des élastiques et que vous êtes un petit peu bricoleur, vous pouvez les utiliser pour faire des attaches et <a href="https://www.youtube.com/watch?v=piUCz1Xp67s">en faire une sorte de masque chirurgical</a>, car il est primordial que le masque tienne bien en place pendant vos déplacements.</p>
-<p><a href="https://www.youtube.com/watch?v=piUCz1Xp67s">https://www.youtube.com/watch?v=piUCz1Xp67s</a></p>
+<p>Pour le porter, pas forcément de coûture nécessaire, attachez-le simplement autour de la tête. Le masque doit couvrir votre bouche ET votre nez, et doit être suffisamment bien fixé pour ne pas nécessiter de réajustement durant vos déplacements: une fois que vous le mettez en place et que vous sortez de chez vous, vous ne devez PLUS le toucher sauf pour l'enlever à la fin de la phase de décontamination. Si vous avez des élastiques et que vous êtes un petit peu bricoleur, vous pouvez les utiliser pour faire des attaches et <a href="https://www.youtube.com/watch?v=piUCz1Xp67s">en faire une sorte de masque chirurgical</a> qui tienne bien en place, car il est primordial que le masque tienne bien en place pendant vos déplacements.</p>
+<p class="align-center"><iframe src="https://www.youtube-nocookie.com/embed/piUCz1Xp67s" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
 <p>Attention: ce masque ne sera efficace que pendant une sortie de <strong>maximum 3/4h</strong>, ce qui est la <a href="https://sfar.org/avis-relatif-aux-conditions-de-prolongation-du-port-ou-de-reutilisation-des-masques-chirurgicaux-et-des-appareils-de-protection-respiratoire-de-type-ffp2-pour-les-professionnels-de-sante/">limite de temps reconnue pour les masques chirurgicaux</a>! De plus, il faut voir les masques comme un bouclier: ça vous protège des attaques, mais ça peut se briser si la concentration en virus est trop forte, si l'exposition est trop longue, ou si simplement vous n'avez pas de chance et que des gouttelettes passent au travers. <strong>Un masque donc vous protège vous et vos proches, mais ne vous rend pas invincible, il faut donc veiller à limiter le temps et le nombre de vos sorties</strong> dans tous les cas en pratiquant l'isolation/distanciation sociale.</p>
 <p>Le port du masque chaque fois que vous sortez, même un masque fait maison avec un torchon, est essentiel, c'est un élément crucial du modèle asiatique qui a permis à la Chine et à la Corée du Sud d'endiguer très rapidement le coronavirus.</p>
 <p>Leur modèle est fondé sur 4 points:</p>
@@ -559,11 +560,11 @@
 <p>Comme de nombreux compléments alimentaires, produits naturels ou génériques, il n'y a aucune motivation financière pour l'industrie pharmaceutique à investir dans des essais cliniques à grande échelle très coûteux pour tester l'efficacité d'une molécule qu'ils ne pourront de toutes façons pas vendre à prix coûtant puisque dans le domaine publique.</p>
 </li>
 </ul>
-<h3 id="paracétamol--1er-choix-pour-traiter-la-douleur-sous-supervision-médicale" class="atx">Paracétamol : 1er choix pour traiter la douleur (sous supervision médicale!)</h3>
+<h4 id="paracétamol--1er-choix-pour-traiter-la-douleur-sous-supervision-médicale" class="atx">Paracétamol : 1er choix pour traiter la douleur (sous supervision médicale!)</h4>
 <p>Le Paracetamol (aussi appelée Acetaminophen ou APAP) est le traitement de la <a href="https://www.afmps.be/fr/news/coronavirus_le_paracetamol_reste_le_premier_choix_en_cas_de_fievre_et_de_douleur">douleur par le paracétamol est conseillé pour les patients COVID-19</a>.</p>
 <p>Contrairement à l'ibuprofène ou autres anti-inflammatoires, le paracétamol ne cause pas de problèmes cardiaques et est considéré comme <a href="https://www.jscimedcentral.com/Cardiology/cardiology-4-1067.pdf">le traitement le plus sûr contre la douleur pour les malades atteint d'infarction du myocarde cardiaque</a> (qui peut rappelons-le être l'un des dégats que peut causer le COVID-19).</p>
 <p>Donc le paracétamol devrait en principe être un traitement anti-douleurs assez sûr pour les malades COVID-19, mais attention à la surdose, ce n'est tout de même pas un médicament anodin. De plus, il peut cacher des symptômes très importants pour diagnostiquer les atteintes que vous pouvez avoir (pulmonaire? cardiaque?) et donc rendre plus difficile l'évaluation de votre pronostic vital par les médecins. Aussi, il vaut mieux demander avant à son médecin avant toute prise de paracétamol si vous suspectez d'avoir le COVID-19.</p>
-<h3 id="mises-à-jours-suivez-nous-sur-twitter-ou-mastodon" class="atx">Mises à jours: suivez-nous sur Twitter ou Mastodon!</h3>
+<h2 id="mcetoc_1e4k8rk8c0">Future mises à jours: suivez-nous sur Twitter ou Mastodon!</h2>
 <p>Nous postons régulièrement des informations sur Twitter et Mastodon suivant l'évolution de la recherche sur le coronavirus et des décisions politiques, vous pouvez suivre nos dernières infos ici:</p>
 <ul>
 <li>
@@ -573,9 +574,9 @@
 <p><a href="https://mastodon.social/@gjsciences/">https://mastodon.social/@gjsciences/</a></p>
 </li>
 </ul>
-<h3 id="et-un-peu-d39humour-pour-finir" class="atx">Et un peu d'humour pour finir</h3>
+<h2 id="et-un-peu-d39humour-pour-finir" class="atx">Et un peu d'humour pour finir</h2>
 <p>Car la santé mentale est tout aussi importante en période de confinement que la santé physique!</p>
-<p><a href="https://www.youtube.com/watch?v=HqJVMn4AP7k">https://www.youtube.com/watch?v=HqJVMn4AP7k</a></p>
+<p class="align-center"><iframe src="https://www.youtube-nocookie.com/embed/HqJVMn4AP7k" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
 <hr>
 <h2 id="annexe-1-pourquoi-utiliser-des-masques-en-torchon-et-pas-un-autre-tissu" class="atx">Annexe 1: pourquoi utiliser des masques en torchon et pas un autre tissu?</h2>
 <p>La suite de cette section explique les fondements scientifiques de ce conseil. Vous pouvez sauter à la prochaine section pour les autres conseils qui doivent accompagner le port du masque.</p>
