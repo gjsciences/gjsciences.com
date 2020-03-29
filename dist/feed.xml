@@ -3,7 +3,7 @@
     <title>GJ Sciences</title>
     <link href="https://gjsciences.com/feed.xml" rel="self" />
     <link href="https://gjsciences.com" />
-    <updated>2020-03-30T01:20:54+02:00</updated>
+    <updated>2020-03-30T01:27:15+02:00</updated>
     <author>
         <name>gjsciences</name>
     </author>
@@ -23,7 +23,7 @@
             <category term="covid-19"/>
             <category term="coronavirus"/>
 
-        <updated>2020-03-30T01:20:29+02:00</updated>
+        <updated>2020-03-30T01:26:48+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://gjsciences.com/media/posts/75/covid19-conseils-pratiques-gjsciences-wide.png" alt="1- Portez un masque-torchon, 2- des lunettes (de vue ou de plongée), 3- un bonnet, 4- utilisez un spray d&#x27;eau de javel à 5° pour vous laver les mains et décontaminer les surfaces, 5- la prise de vitamine C pure 0.5 à 6g/j dès les 1er symptômes peut limiter l&#x27;aggravation pulmonaire et cardiaque due au COVID-19." />
@@ -589,7 +589,7 @@
 <figure class="post__image post__image--center" ><img src="https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/annweh/54/7/10.1093/annhyg/meq044/2/m_annhygmeq044f06_lw.gif?Expires=1587836021&amp;Signature=IUMBfB8TXxpklvCYUlrYvi298MtPN4~lUk~BdlOCKEUvjPEzp4aNId1861jtbV1E56AuZsuXK1RuF4wnL~0B-aw8ZO51C6DyPd1vEsp61URTaZiW1pP38sIhtbGcSInG5N7vbV6o7nf1LTlRXNgLGIWfiMv0foj7XgsjJG54mlqow3Ek0h23c8g7ZYnMXIoNbuZLqe-QWr~frqiDEwrUA9xt1UnR2KDf70~mlbcGkLIQVSauCMCAfRc6xheT21SUNnQnCaQK0pGZDWRoQEEN7QCSiW4-srp66PE7roPvqx7Am3Ntc5Uk3-f9F8SQl2JwcJulZUczSB8bZ6et2TaP1A__&amp;Key-Pair-Id=APKAIE5G5CRDK6RD3PGA" alt="towel-homemade-mask-vs-N95">
 <figcaption >Masque fait maison à partir de torchons ou d'écharpe versus masque N95/FFP2, lors de tests de projections d'aérosols en condition de laboratoire (test théorique). Il y a certes une grande différence, mais les masques à base de torchon offrent une bonne protection d'environ 50% pour des nanoparticule de la taille du coronavirus COVID-19 d'environ 100nm.</figcaption>
 </figure>
-<figure class="post__image post__image--center" ><img src="C:\Users\THEMATRIXNEO\AppData\Roaming\marktext\images\2020-03-28-12-56-12-image.png" alt="" width="881" height="357">
+<figure class="post__image post__image--center" ><img src="https://gjsciences.com/media/posts/75/homemade-masks-figure2.png" width="881" height="357">
 <figcaption ><img alt=""><em>Comparaison de l'efficacité et de la respirabilité de masques fait maison à partir de différents tissus. Le masque-torchon (Tea Towel) possède en moyenne une efficacité similaire au masque chirurgical, bien que la variabilité (SD - standard deviation) soit importante, et la respirabilité reste suffisante pour permettre le port.</em></figcaption>
 </figure>
 <p>En pratique, on a donc: Masque respirateur filtre à particules FFP2/N95 &gt; masque chirurgical ~ masque fait maison à partir de torchons.</p>

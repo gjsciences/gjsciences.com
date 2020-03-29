@@ -782,7 +782,7 @@
     {
         "path": "/coronavirus-covid-19-des-conseils-simples-et-pratiques-pour-vous-proteger-et-limiter-les-degats-si-malade/index.html",
         "type": "file",
-        "md5": "92a288513c8cea4fd5d7ace312f28eb8"
+        "md5": "fca198061800a6cb8570034de589fc72"
     },
     {
         "path": "dangerosite-des-grenades-gli-f4-scientifiquement-prouvee",
@@ -807,12 +807,12 @@
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "75ade0dcc512c69f070b1fe5c985f229"
+        "md5": "e63490efc4aa1c81914acef027f5a6c1"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "b3863225f4c90d38bc3607c29b04180e"
+        "md5": "6b6c34d60210dea5f2894e4775728c94"
     },
     {
         "path": "gj-sciences-fait-peau-neuve",
@@ -11865,6 +11865,11 @@
         "md5": "62a7bbc5e47f851676f0ed91f29091c6"
     },
     {
+        "path": "/media/posts/75/homemade-masks-figure2.png",
+        "type": "file",
+        "md5": "6e1798f67ec421c6ddaca332af496fa3"
+    },
+    {
         "path": "/media/posts/75/pandemics-comparisons.png",
         "type": "file",
         "md5": "35c573a6de21f4188fde842cf285e580"
@@ -11933,6 +11938,36 @@
         "path": "/media/posts/75/responsive/covid19-conseils-pratiques-gjsciences-xs.png",
         "type": "file",
         "md5": "a96cecee7c850435a3a97196fd3aa7c0"
+    },
+    {
+        "path": "/media/posts/75/responsive/homemade-masks-figure2-2xl.png",
+        "type": "file",
+        "md5": "affd0d535115bacdef4a6e22d509d36c"
+    },
+    {
+        "path": "/media/posts/75/responsive/homemade-masks-figure2-lg.png",
+        "type": "file",
+        "md5": "affd0d535115bacdef4a6e22d509d36c"
+    },
+    {
+        "path": "/media/posts/75/responsive/homemade-masks-figure2-md.png",
+        "type": "file",
+        "md5": "5541a9947ef6cdbdc738300c2ae9da09"
+    },
+    {
+        "path": "/media/posts/75/responsive/homemade-masks-figure2-sm.png",
+        "type": "file",
+        "md5": "e5d208e3d6c8b219d7c21555b3485adb"
+    },
+    {
+        "path": "/media/posts/75/responsive/homemade-masks-figure2-xl.png",
+        "type": "file",
+        "md5": "affd0d535115bacdef4a6e22d509d36c"
+    },
+    {
+        "path": "/media/posts/75/responsive/homemade-masks-figure2-xs.png",
+        "type": "file",
+        "md5": "63844227ed6a59f9a6bacf29214ace7b"
     },
     {
         "path": "/media/posts/75/responsive/pandemics-comparisons-2xl.png",
@@ -12252,7 +12287,7 @@
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "7b0db06cf91832f53b53aa88cd297947"
+        "md5": "f7c8223d2570f48019bca54df1460008"
     },
     {
         "path": "sitemap.xsl",
