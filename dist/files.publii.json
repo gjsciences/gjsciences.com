@@ -137,7 +137,7 @@
     {
         "path": "/authors/gjsciences/index.html",
         "type": "file",
-        "md5": "e5447e0ed9990e2d6270387d905aa0ac"
+        "md5": "96af32a345a738c5c3ee12301e7632dd"
     },
     {
         "path": "authors/gjsciences/page",
@@ -772,7 +772,7 @@
     {
         "path": "/coronavirus-covid-19-ce-quon-ne-vous-dit-pas-mais-que-vous-devez-savoir/index.html",
         "type": "file",
-        "md5": "dc63e4b021a27b6021afd8c20d087b9b"
+        "md5": "5cddb29004616891d72e3891d5d3c904"
     },
     {
         "path": "coronavirus-covid-19-des-conseils-simples-et-pratiques-pour-vous-proteger-et-limiter-les-degats-si-malade",
@@ -782,7 +782,7 @@
     {
         "path": "/coronavirus-covid-19-des-conseils-simples-et-pratiques-pour-vous-proteger-et-limiter-les-degats-si-malade/index.html",
         "type": "file",
-        "md5": "7eed0fcaf1635c1f643c388a25ac1844"
+        "md5": "389d301f3d99c70355fdd585ea0ed6a2"
     },
     {
         "path": "dangerosite-des-grenades-gli-f4-scientifiquement-prouvee",
@@ -807,12 +807,12 @@
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "6b2b12858d5372c13e95c3a32baf12af"
+        "md5": "ccc01593ed6a5784c300991e3dfdfb04"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "1bc3f8c435543a206d3096bf29775bb3"
+        "md5": "431f4f788b5df41eb28317d671f0889f"
     },
     {
         "path": "gj-sciences-fait-peau-neuve",
@@ -837,7 +837,7 @@
     {
         "path": "index.html",
         "type": "file",
-        "md5": "bb1f102e4a37baa0ec9064a7753fd1d3"
+        "md5": "9eb1315ae438dbfb6d982db7233ae723"
     },
     {
         "path": "le-vrai-debat-la-contre-attaque-des-gilets-jaunes-face-a-lastroturfing-de-macron",
@@ -12392,7 +12392,7 @@
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "1e0faa4227c4dbb718ba85611ecdc9ff"
+        "md5": "66e9b7b25c5e4795fc09ae7275345ed1"
     },
     {
         "path": "sitemap.xsl",
@@ -13607,7 +13607,7 @@
     {
         "path": "/tag/coronavirus/index.html",
         "type": "file",
-        "md5": "a32c6e7e5d150337d839c5b172c446cd"
+        "md5": "751d0e253ebc0864e4d7271e138a42f8"
     },
     {
         "path": "tag/covid-19",
@@ -13617,7 +13617,7 @@
     {
         "path": "/tag/covid-19/index.html",
         "type": "file",
-        "md5": "25344ff0e64105dbb3924a170202e724"
+        "md5": "be44c7142cc6709cb8d60cba3868ac8e"
     },
     {
         "path": "tag/crime-detat",
@@ -13717,7 +13717,7 @@
     {
         "path": "/tag/dossier/index.html",
         "type": "file",
-        "md5": "d1a1670f329e46fbe7557547628d1c9c"
+        "md5": "5f97a856012776323e9a2374f47edc30"
     },
     {
         "path": "tag/dossier/page",
@@ -13752,7 +13752,7 @@
     {
         "path": "/tag/epidemie/index.html",
         "type": "file",
-        "md5": "3d79c37107085e391362839afc862f2f"
+        "md5": "824f59ddd3ebe787f520b3d60f19a785"
     },
     {
         "path": "tag/epidemiologie",
@@ -13762,7 +13762,7 @@
     {
         "path": "/tag/epidemiologie/index.html",
         "type": "file",
-        "md5": "aaa1361ab1009950ef11c9645f667acd"
+        "md5": "7bdce39ed812d118234b51104c799ca2"
     },
     {
         "path": "tag/epidemiologie-predictive",
@@ -13772,7 +13772,7 @@
     {
         "path": "/tag/epidemiologie-predictive/index.html",
         "type": "file",
-        "md5": "bb6ff517eb9eebe7df5754726ba81eb0"
+        "md5": "ac5d25935d7bee963c39caaafbdef0aa"
     },
     {
         "path": "tag/facebook",
@@ -14292,7 +14292,7 @@
     {
         "path": "/tag/pandemie/index.html",
         "type": "file",
-        "md5": "25e871a2d4f81c028295f9f8961d664b"
+        "md5": "df10ea5e5dc6a04e0f42454193a822e9"
     },
     {
         "path": "tag/politique",
@@ -14412,7 +14412,7 @@
     {
         "path": "/tag/sante/index.html",
         "type": "file",
-        "md5": "74b4ac53dccaaa02d80fe4ca1272cde4"
+        "md5": "a98f18b030744aa889ec2dfa0a9ae503"
     },
     {
         "path": "tag/scandale-detat",
@@ -14557,6 +14557,6 @@
     {
         "path": "/tag/virus/index.html",
         "type": "file",
-        "md5": "dca0c3d9838b9f6faaaf1893e161b0ee"
+        "md5": "b00c9ad7114d7721861f2814c0508381"
     }
 ]
