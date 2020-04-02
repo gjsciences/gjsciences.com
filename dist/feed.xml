@@ -3,7 +3,7 @@
     <title>GJ Sciences</title>
     <link href="https://gjsciences.com/feed.xml" rel="self" />
     <link href="https://gjsciences.com" />
-    <updated>2020-04-02T20:42:07+02:00</updated>
+    <updated>2020-04-03T00:21:39+02:00</updated>
     <author>
         <name>gjsciences</name>
     </author>
@@ -23,7 +23,7 @@
             <category term="covid-19"/>
             <category term="coronavirus"/>
 
-        <updated>2020-04-02T20:41:19+02:00</updated>
+        <updated>2020-04-03T00:21:01+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://gjsciences.com/media/posts/75/covid19-conseils-pratiques-gjsciences-wide.png" alt="1- Portez un masque-torchon, 2- des lunettes (de vue ou de plongée), 3- un bonnet, 4- utilisez un spray d&#x27;eau de javel à 5° pour vous laver les mains et décontaminer les surfaces, 5- la prise de vitamine C pure 0.5 à 6g/j dès les 1er symptômes peut limiter l&#x27;aggravation pulmonaire et cardiaque due au COVID-19." />
@@ -508,26 +508,27 @@
 <p>Ce n'est donc pas une information nouvelle, les effets bénéfiques et l'innocuité de la Vitamine C sont connus depuis bien longtemps. Mais est-ce que ça pourrait vraiment aider spécifiquement pour le COVID-19?</p>
 <p>Pour répondre, nous allons nous fonder sur des travaux sérieux, dont notamment la prestigieuse institution Cochrane, dont les revues systématiques servent de base pour la plupart des recommandations nationales et internationales dans la pratique médicale, dont en particulier <a href="https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD005532.pub3/full">celle-ci</a>, <a href="https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD000980.pub4/full">celle-ci</a> et une mise à jour en 2017 par le même auteur <a href="https://www.ncbi.nlm.nih.gov/pubmed/28353648">ici</a>.</p>
 <p>Résumé de ces recommandations: la vitamine C n'empêche pas la contamination, mais pour les malades, des doses dès 0.5g/j mais avec plus d'effets avec des doses plus grandes de plusieurs grammes par jour pour les adultes (exemple: 8g/j) et 2g/j pour les enfants empêchent l'aggravation des pneumonies vers des formes plus sévères nécessitant une ventilation respiratoire, et protège le coeur des injures au myocarde que les coronavirus peuvent produire, et de plus a un effet sur le système immunitaire et est aussi un "potentiateur" d'anti-viral. Pour obtenir ces effets, il est essentiel de prendre la vitamine C dès l'apparition des premiers symptômes. Vu l'absence de risque sérieux, le coût bas, la disponibilité et le ratio bénéfice/risque, il est conseillé à chacun de tester le traitement de vitamine C, même si le bénéfice ne semble apriori limité (ex: pas très malade au début de maladie, vaut mieux quand même en prendre).</p>
-<p>Pour paraphraser: il ne sert à rien de prendre de la vitamine C tout le temps (sauf à des doses de 60mg/j pour éviter la déficience), mais si vous êtes malade, prenez-en dès les premiers symptômes, car au pire ça ne fera rien, et au mieux ça peut vous éviter une pneumonie ou un infarctus du myocarde sévères (autrement dit, vous sauver la vie puisqu'à ce stade <a href="https://www.srlf.org/wp-content/uploads/2020/03/Recommandations-dexperts-COVID-9-mars-2020.pdf">60-70% des malades graves meurent en réanimation</a>). Et vous ne risquez rien avec la vitamine C à part peut-être une diarrhée, auquel cas il suffit de réduire la dose.</p>
+<p>Pour paraphraser: il ne sert à rien de prendre de la vitamine C tout le temps (sauf à des doses de 60mg/j pour éviter la déficience), mais si vous êtes malade, prenez-en dès les premiers symptômes, car au pire ça ne fera rien, et au mieux ça peut vous éviter une pneumonie ou un infarctus du myocarde sévères (autrement dit, vous sauver la vie puisqu'à ce stade <a href="https://www.srlf.org/wp-content/uploads/2020/03/Recommandations-dexperts-COVID-9-mars-2020.pdf">60-70% des malades graves meurent en réanimation</a>). Ces effets thérapeutiques sont présents même s'il n'y a pas de déficience. Et vous ne risquez rien avec la vitamine C à part peut-être une diarrhée, auquel cas il suffit de réduire la dose.</p>
 <p>En détail, la Vitamine C:</p>
 <ul>
 <li>
-<p>possède une efficacité clinique dès 500mg, mais</p>
+<p>possède une efficacité clinique thérapeutique (c'est-à-dire pour réduire l'aggravation des symptômes pulmonaires et cardiaques) dès 500mg/jour et jusqu'à plusieurs grammes/jour.</p>
 </li>
 <li>
-<p>a un effet qui est dépendant de la dose: plus vous en prenez, plus il y aura d'effet. Il y a une limite qui est différente pour chaque personne, il faut donc tester au cas par cas.</p>
+<p>a un effet qui est dépendant de la dose linéaire: plus vous en prenez, plus il y aura d'effet. Il y a une limite en prise orale qui est différente pour chaque personne, il faut donc tester au cas par cas. Pour les cas non sévères, la littérature conseille un maximum de 8g/j, tandis que pour les malades sévères qui risquent d'aller en réanimation, la dose peut monter à plusieurs centaines de grammes/jour en intraveineuse.<br><br></p>
 </li>
+<li>cet effet thérapeutique fonctionne <strong>même s'il n'y a pas de déficience</strong> (contrairement à l'effet sur l'incidence), car les pneumonies causent de toutes façon un stress oxidatif et donc une déficience en vitamine C, mais la vitamine C a de toutes façons un effet au-delà des déficiences puisqu'il y a un effet dose-dependent qui est linéaire, donc indépendant d'une potentielle déficience.</li>
 <li>
-<p>réduit incidence seulement dans des conditions particulières: soit stress oxydatif dû à l'exertion physique intense, soit quand risque de contagion communautaire est élevée (virus très contagieux ou quand les individus sont souvent en communauté rapprochée comme les militaires), soit si c'est des virus qui ciblent les voies respiratoires inférieures, soit déficience pré-existante en vitamines C (scorbut, asthme), soit fumeurs ou <a href="https://www.verywellmind.com/smoking-and-vitamin-depletion-2825319">personnes vivant avec des fumeurs (fumeurs passifs)</a> - donc sauf ces cas, ça ne sert à rien de prendre de larges doses de vitamine C en préventif pour la grande majorité des personnes, la dose recommandée de 60mg suffit si l'on n'est pas malade!</p>
+<p>ne réduit pas l'incidence (c'est-à-dire les risques de tomber malade) sauf en cas de déficience ou des conditions spécifiques: soit quand il y a déficience dûe au stress oxydatif dû à l'exertion physique intense (grands sportifs), soit quand risque de contagion communautaire est élevée (virus très contagieux ou quand les individus sont souvent en communauté rapprochée comme les militaires), soit si c'est des virus qui ciblent les voies respiratoires inférieures, soit déficience pré-existante en vitamines C (scorbut, asthme), soit fumeurs ou <a href="https://www.verywellmind.com/smoking-and-vitamin-depletion-2825319">personnes vivant avec des fumeurs (fumeurs passifs)</a> - donc sauf ces cas, il ne sert à rien de prendre de larges doses de vitamine C en préventif pour la grande majorité des personnes, la dose recommandée de 60mg suffit si l'on n'est pas malade!</p>
 </li>
 <li>
 <p>réduit drastiquement le nombre de malades avec des pneumopathies sévères, c'est-à-dire que ceux qui ont pris des hautes doses de vitamine C (plusieurs grammes/j) avaient 80% moins de chances d'avoir une pneumonie grave (nécessitant la mise sous respirateur) que ceux qui ne prenaient pas de vitamine C, même sans déficience (étude chez des militaires!).</p>
 </li>
 <li>
-<p>réduit significativement le nombre de jours placés sous respirateur artificiel pour les patients critiques, et la durée du séjour à l'hôpital, avec les patients les plus critiques (càd restant le plus longtemps sous ventilateur) <a href="https://www.ncbi.nlm.nih.gov/pubmed/32047636">ayant le plus de bénéfices</a>.</p>
+<p>réduit significativement le nombre de jours placés sous respirateur artificiel pour les patients critiques, et la durée du séjour à l'hôpital, avec les patients les plus critiques (càd restant le plus longtemps sous ventilateur) <a href="https://www.ncbi.nlm.nih.gov/pubmed/32047636">ayant le plus de bénéfices</a> (plus grande réduction du nombre de jours à l'hôpital).</p>
 </li>
 <li>
-<p>plus la maladie est sévère, plus la vitamine C aide. Ceux qui n'ont qu'une forme légère n'auront pas de bénéfices (mais pas de malus non plus).</p>
+<p>plus la maladie est sévère, plus la vitamine C aide. Ceux qui n'ont qu'une forme légère n'auront pas ou peu de bénéfices (mais pas de malus non plus).</p>
 </li>
 <li>
 <p>innocuité à des doses allant jusqu'à 200g/jour, mais 0.5g à 2g/jour sont déjà considérés des hautes doses pour des malades en dehors des ICUs, et dans les ICU (soins intensifs) ça peut aller de 2g à 6g/jour voire plus en intraveineuse si ventilé mécaniquement (200g/jour). Dans le cadre des grippes saisonnières, les doses allaient jusqu'à 2g/j pour les enfants, et 8g/j pour les adultes!</p>
@@ -536,10 +537,7 @@
 <p>La dose maximale selon la plupart des agences sanitaires est de 2g/j pour adultes étant basée sur le fait que certains peuvent subire la diarrhée, ce qui est un effet secondaire très bénin, sachant que des malades avec une pneumonie ont pu prendre 100g/jour sans avoir de diarhée dans plusieurs études.</p>
 </li>
 <li>
-<p>très bonne preuves d'un effet thérapeutique, c'est-à-dire qui guérit ou en tout cas prévient l'aggravation vers des dégats aux organes plus sévères, surtout pour les pneumonies sévères où le bénéfice sera plus visible plutôt qu'avec des pneumonies modérées, et avec plus de bénéfices à haute dose, que ce soit pour des malades en-dehors ou dans les soins intensifs, et avec plus de bénéfices pour les malades sous assistance respiratoire/ventilés mécaniquement</p>
-</li>
-<li>
-<p>marche aussi quand on n'a pas de déficience en Vitamine C, en notant que pneumonies causent de toutes façon un stress oxidatif et donc une déficience en Vitamine C, mais la vit C a de toutes façons un effet au-delà des déficiences puisqu'il y a un effet dose-dependent</p>
+<p>très bonnes preuves d'un effet thérapeutique, c'est-à-dire qui guérit ou en tout cas prévient l'aggravation vers des dégats aux organes plus sévères, surtout pour les pneumonies sévères où le bénéfice sera plus visible plutôt qu'avec des pneumonies modérées, et avec plus de bénéfices à haute dose, que ce soit pour des malades en-dehors ou dans les soins intensifs, et avec plus de bénéfices pour les malades sous assistance respiratoire/ventilés mécaniquement</p>
 </li>
 <li>
 <p>Vitamine C a aussi un effet bénéfique sur le système immunitaire et en particulier sur la grippe saisonnière (qui est un coronavirus) + prendre pendant au moins 5j consecutifs pour voir effets</p>
