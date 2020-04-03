@@ -772,7 +772,7 @@
     {
         "path": "/coronavirus-covid-19-ce-quon-ne-vous-dit-pas-mais-que-vous-devez-savoir/index.html",
         "type": "file",
-        "md5": "c886e7db2a2bd4901f0629398c3bf7ad"
+        "md5": "a152b41e95c34ad1ba45f9d520466bed"
     },
     {
         "path": "coronavirus-covid-19-des-conseils-simples-et-pratiques-pour-vous-proteger-et-limiter-les-degats-si-malade",
@@ -807,12 +807,12 @@
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "b21d1ec8d8e88b8192e7fc081712fd5a"
+        "md5": "8f9808b0c1174e1139ebb28e5f71c071"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "1348c27ee16aa3afbf5a2ed93c4ffe74"
+        "md5": "04c6a90cc909677743321ce76803fd2a"
     },
     {
         "path": "gj-sciences-fait-peau-neuve",
@@ -11220,6 +11220,11 @@
         "md5": "aa8be00d30dd12ef9e63774bf5de6834"
     },
     {
+        "path": "/media/posts/72/FacialHairWmaskSmall.jpg",
+        "type": "file",
+        "md5": "e46c4891e20a5feaa1ec0877ba2adb45"
+    },
+    {
         "path": "media/posts/72/gallery",
         "type": "directory",
         "md5": false
@@ -11248,6 +11253,11 @@
         "path": "/media/posts/72/mask-4877097-300x150.png",
         "type": "file",
         "md5": "c17236491ea6c14702568ee1487473a3"
+    },
+    {
+        "path": "/media/posts/72/No-Save-November11_01_2.gif",
+        "type": "file",
+        "md5": "c763a299338eabf02cb7c286a5153869"
     },
     {
         "path": "media/posts/72/responsive",
@@ -11643,6 +11653,36 @@
         "path": "/media/posts/72/responsive/drliwenliang-204x300-xs.jpg",
         "type": "file",
         "md5": "06f2bb3144f2558b032a5f96292e9efd"
+    },
+    {
+        "path": "/media/posts/72/responsive/FacialHairWmaskSmall-2xl.jpg",
+        "type": "file",
+        "md5": "33da07ba00181ec85458002aae36aca9"
+    },
+    {
+        "path": "/media/posts/72/responsive/FacialHairWmaskSmall-lg.jpg",
+        "type": "file",
+        "md5": "46bd603bccd1c4ea939d79cd03267747"
+    },
+    {
+        "path": "/media/posts/72/responsive/FacialHairWmaskSmall-md.jpg",
+        "type": "file",
+        "md5": "352846886c7824c9c74242b20b58aee1"
+    },
+    {
+        "path": "/media/posts/72/responsive/FacialHairWmaskSmall-sm.jpg",
+        "type": "file",
+        "md5": "f754970230009461e881bbd41b9ba435"
+    },
+    {
+        "path": "/media/posts/72/responsive/FacialHairWmaskSmall-xl.jpg",
+        "type": "file",
+        "md5": "52104c477cec6b762b5a3e91f7763edd"
+    },
+    {
+        "path": "/media/posts/72/responsive/FacialHairWmaskSmall-xs.jpg",
+        "type": "file",
+        "md5": "075651d81e827ed40202dc1bc713d3d0"
     },
     {
         "path": "/media/posts/72/responsive/mask-4877097-300x150-2xl.png",
@@ -12427,7 +12467,7 @@
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "dde4fb5df726b89d92bc2c6cc239d589"
+        "md5": "d1c60fc3eaedbb62c3aefd1ddf56f34d"
     },
     {
         "path": "sitemap.xsl",
