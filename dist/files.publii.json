@@ -782,7 +782,7 @@
     {
         "path": "/coronavirus-covid-19-des-conseils-simples-et-pratiques-pour-vous-proteger-et-limiter-les-degats-si-malade/index.html",
         "type": "file",
-        "md5": "afc7d4bd3abc2ec89a5e72e6d35d3c1f"
+        "md5": "14c70e785144ad80604b04f14f441115"
     },
     {
         "path": "dangerosite-des-grenades-gli-f4-scientifiquement-prouvee",
@@ -807,12 +807,12 @@
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "cda8334321dbcab5f3294d9de829b097"
+        "md5": "e7d30ff62c88efac0879d925ce242d55"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "a3db94f8e48873cc339f132edf8c10cf"
+        "md5": "a140456d24b0a2c7b87a769c1c68b0b9"
     },
     {
         "path": "gj-sciences-fait-peau-neuve",
@@ -11945,6 +11945,11 @@
         "md5": "6e1798f67ec421c6ddaca332af496fa3"
     },
     {
+        "path": "/media/posts/75/mask-disinfection-stanford.png",
+        "type": "file",
+        "md5": "7f45c8e809d0b5c1517da4acc0e6a648"
+    },
+    {
         "path": "/media/posts/75/pandemics-comparisons.png",
         "type": "file",
         "md5": "35c573a6de21f4188fde842cf285e580"
@@ -12073,6 +12078,36 @@
         "path": "/media/posts/75/responsive/homemade-masks-figure2-xs.png",
         "type": "file",
         "md5": "63844227ed6a59f9a6bacf29214ace7b"
+    },
+    {
+        "path": "/media/posts/75/responsive/mask-disinfection-stanford-2xl.png",
+        "type": "file",
+        "md5": "0c16eb03a3b68b965975f550ba9d85ef"
+    },
+    {
+        "path": "/media/posts/75/responsive/mask-disinfection-stanford-lg.png",
+        "type": "file",
+        "md5": "7490d5d34b501dad4bc016f0f6086333"
+    },
+    {
+        "path": "/media/posts/75/responsive/mask-disinfection-stanford-md.png",
+        "type": "file",
+        "md5": "b283fd7f64bf397b882c554e5d9b24ea"
+    },
+    {
+        "path": "/media/posts/75/responsive/mask-disinfection-stanford-sm.png",
+        "type": "file",
+        "md5": "ff4a5d2853c26251755ab7912927d39e"
+    },
+    {
+        "path": "/media/posts/75/responsive/mask-disinfection-stanford-xl.png",
+        "type": "file",
+        "md5": "f3bad3d0bfeea5bbac37be66540daebc"
+    },
+    {
+        "path": "/media/posts/75/responsive/mask-disinfection-stanford-xs.png",
+        "type": "file",
+        "md5": "72caac992cb0796101146a8d073668b0"
     },
     {
         "path": "/media/posts/75/responsive/pandemics-comparisons-2xl.png",
@@ -12392,7 +12427,7 @@
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "efaefdbfab0a3ceabb985d629bf1da86"
+        "md5": "c06a028f9e03aed3dc50f8ae377cde73"
     },
     {
         "path": "sitemap.xsl",
