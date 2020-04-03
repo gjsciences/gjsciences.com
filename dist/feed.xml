@@ -3,7 +3,7 @@
     <title>GJ Sciences</title>
     <link href="https://gjsciences.com/feed.xml" rel="self" />
     <link href="https://gjsciences.com" />
-    <updated>2020-04-03T19:43:25+02:00</updated>
+    <updated>2020-04-03T20:04:21+02:00</updated>
     <author>
         <name>gjsciences</name>
     </author>
@@ -23,7 +23,7 @@
             <category term="covid-19"/>
             <category term="coronavirus"/>
 
-        <updated>2020-04-03T19:42:34+02:00</updated>
+        <updated>2020-04-03T20:04:03+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://gjsciences.com/media/posts/75/covid19-conseils-pratiques-gjsciences-wide.png" alt="1- Portez un masque-torchon, 2- des lunettes (de vue ou de plongée), 3- un bonnet, 4- utilisez un spray d&#x27;eau de javel à 5° pour vous laver les mains et décontaminer les surfaces, 5- la prise de vitamine C pure 0.5 à 6g/j dès les 1er symptômes peut limiter l&#x27;aggravation pulmonaire et cardiaque due au COVID-19." />
@@ -657,6 +657,12 @@ Vu la différence entre les doses, ces deux usages ne nous semblent pas exclusif
 <p>
 <script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </p>
+<h4 id="mcetoc_1e50j5c8l0">Autres traitements?</h4>
+<p>Comme pour toute catastrophe, tout le monde cherche quelque chose pour se raccrocher, un remède miracle. Mais il n'y en a pour le moment aucun, et lors des précédentes crises, aucun remède n'est arrivé même longtemps après (comme pour le MERS).</p>
+<p>Quid de certains traitements présentés pour le Covid-19?</p>
+<ul>
+<li>Le <a href="https://www.medrxiv.org/content/10.1101/2020.03.24.20042937v1">vaccin contre la tuberculose, le BCG</a>, a été proposé comme potentiel vaccin contre le Covid-19, avec <a href="https://www.bloomberg.com/news/articles/2020-04-02/fewer-coronavirus-deaths-seen-in-countries-that-mandate-tb-vaccine">une corrélation entre les pays pratiquant le BCG et qui sont le moins touchés par la pandémie</a>. Néanmoins, cette hypothèse nous semble peu robuste, en prenant simplement l'exemple de la France: le vaccin y est fait depuis des décennies et est prodigué sur les enfants très jeunes, donc il n'y a pas d'inégalités, et pourtant la France est durement affectée par la pandémie! La France est un fort contre-exemple pour l'hypothèse du BCG fonctionnant sur le coronavirus...</li>
+</ul>
 <h2 id="mcetoc_1e4k8rk8c0">Future mises à jours: suivez-nous sur Twitter ou Mastodon!</h2>
 <p>Nous postons régulièrement des informations sur Twitter et Mastodon suivant l'évolution de la recherche sur le coronavirus et des décisions politiques, vous pouvez suivre nos dernières infos ici:</p>
 <ul>
