@@ -772,7 +772,7 @@
     {
         "path": "/coronavirus-covid-19-ce-quon-ne-vous-dit-pas-mais-que-vous-devez-savoir/index.html",
         "type": "file",
-        "md5": "a152b41e95c34ad1ba45f9d520466bed"
+        "md5": "2d5876185f06ef1213dbd3a220d07c89"
     },
     {
         "path": "coronavirus-covid-19-des-conseils-simples-et-pratiques-pour-vous-proteger-et-limiter-les-degats-si-malade",
@@ -807,12 +807,12 @@
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "b99dd7c9e034078f330b2d69c3cd0473"
+        "md5": "4ea19307a9c26c6f9db95428f94143ea"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "24236c81b787de6a38fa5c341ec501ab"
+        "md5": "eff81ea90da768305ea582aa40c75eed"
     },
     {
         "path": "gj-sciences-fait-peau-neuve",
@@ -11200,6 +11200,11 @@
         "md5": "63f7f0ba23f0c5efd90b78d26587bcf9"
     },
     {
+        "path": "/media/posts/72/covid19-conseils-pratiques-gjsciences.png",
+        "type": "file",
+        "md5": "62a7bbc5e47f851676f0ed91f29091c6"
+    },
+    {
         "path": "/media/posts/72/covid19-lmfit-china-300x233.png",
         "type": "file",
         "md5": "8a38e103be1d9377bb59939196d28f2c"
@@ -11238,6 +11243,16 @@
         "path": "/media/posts/72/gallery/combo-gaz-filtre-particules.png",
         "type": "file",
         "md5": "e59e698085408fecba96c53385960d50"
+    },
+    {
+        "path": "/media/posts/72/gallery/covid19-conseils-pratiques-gjsciences-thumbnail.png",
+        "type": "file",
+        "md5": "57d2a9a68a8c9a1df3f931f218874207"
+    },
+    {
+        "path": "/media/posts/72/gallery/covid19-conseils-pratiques-gjsciences.png",
+        "type": "file",
+        "md5": "62a7bbc5e47f851676f0ed91f29091c6"
     },
     {
         "path": "/media/posts/72/gallery/Police_officer_wearing_half-mask_respirator-thumbnail.jpg",
@@ -11533,6 +11548,36 @@
         "path": "/media/posts/72/responsive/coronavirus-header-xs.png",
         "type": "file",
         "md5": "a534bec82b2127aae3b8204b3ecf3127"
+    },
+    {
+        "path": "/media/posts/72/responsive/covid19-conseils-pratiques-gjsciences-2xl.png",
+        "type": "file",
+        "md5": "7fb1f8a365cafba41f7456d5d1dcd01a"
+    },
+    {
+        "path": "/media/posts/72/responsive/covid19-conseils-pratiques-gjsciences-lg.png",
+        "type": "file",
+        "md5": "7fb1f8a365cafba41f7456d5d1dcd01a"
+    },
+    {
+        "path": "/media/posts/72/responsive/covid19-conseils-pratiques-gjsciences-md.png",
+        "type": "file",
+        "md5": "3dba996ee12b51cbf533f48bc7903dca"
+    },
+    {
+        "path": "/media/posts/72/responsive/covid19-conseils-pratiques-gjsciences-sm.png",
+        "type": "file",
+        "md5": "0848e70080976454d2b6a375a87a5c6d"
+    },
+    {
+        "path": "/media/posts/72/responsive/covid19-conseils-pratiques-gjsciences-xl.png",
+        "type": "file",
+        "md5": "7fb1f8a365cafba41f7456d5d1dcd01a"
+    },
+    {
+        "path": "/media/posts/72/responsive/covid19-conseils-pratiques-gjsciences-xs.png",
+        "type": "file",
+        "md5": "a96cecee7c850435a3a97196fd3aa7c0"
     },
     {
         "path": "/media/posts/72/responsive/covid19-lmfit-china-300x233-2xl.png",
@@ -12572,7 +12617,7 @@
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "fca9d9de1450044030cec713137564bf"
+        "md5": "2c54f38719098bb54a25af44a39eed98"
     },
     {
         "path": "sitemap.xsl",
