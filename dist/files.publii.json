@@ -772,7 +772,7 @@
     {
         "path": "/coronavirus-covid-19-ce-quon-ne-vous-dit-pas-mais-que-vous-devez-savoir/index.html",
         "type": "file",
-        "md5": "2d5876185f06ef1213dbd3a220d07c89"
+        "md5": "63ba35c8a51bacd655d6c31b238dafac"
     },
     {
         "path": "coronavirus-covid-19-des-conseils-simples-et-pratiques-pour-vous-proteger-et-limiter-les-degats-si-malade",
@@ -782,7 +782,7 @@
     {
         "path": "/coronavirus-covid-19-des-conseils-simples-et-pratiques-pour-vous-proteger-et-limiter-les-degats-si-malade/index.html",
         "type": "file",
-        "md5": "d295159fc4358a0639952bcccdfc8211"
+        "md5": "2292a72e874402871943c62bc8cef423"
     },
     {
         "path": "dangerosite-des-grenades-gli-f4-scientifiquement-prouvee",
@@ -807,12 +807,12 @@
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "4ea19307a9c26c6f9db95428f94143ea"
+        "md5": "2be480b1eef4f0e85e260e479a385a82"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "eff81ea90da768305ea582aa40c75eed"
+        "md5": "290348169e9c9f4436ff1d2c5a0dec0c"
     },
     {
         "path": "gj-sciences-fait-peau-neuve",
@@ -11985,6 +11985,11 @@
         "md5": "62a7bbc5e47f851676f0ed91f29091c6"
     },
     {
+        "path": "/media/posts/75/DIY-Mask-Tea-Cloth-Particle-Capture-EN-768x547.jpg",
+        "type": "file",
+        "md5": "321a8b7877bb52eb048d9fd304d772c3"
+    },
+    {
         "path": "media/posts/75/gallery",
         "type": "directory",
         "md5": false
@@ -12048,6 +12053,11 @@
         "path": "/media/posts/75/pandemics-comparisons.png",
         "type": "file",
         "md5": "35c573a6de21f4188fde842cf285e580"
+    },
+    {
+        "path": "/media/posts/75/pone.0002618.g001.jpg",
+        "type": "file",
+        "md5": "b97951670d9c51a659c49fa44a4230e9"
     },
     {
         "path": "/media/posts/75/respirateur-italie-decathlon-masque-plongee-coronavirus-dd02a6-01x.jpeg",
@@ -12210,6 +12220,36 @@
         "md5": "a96cecee7c850435a3a97196fd3aa7c0"
     },
     {
+        "path": "/media/posts/75/responsive/DIY-Mask-Tea-Cloth-Particle-Capture-EN-768x547-2xl.jpg",
+        "type": "file",
+        "md5": "499d9fb83f2e498c82d187dace3c6af5"
+    },
+    {
+        "path": "/media/posts/75/responsive/DIY-Mask-Tea-Cloth-Particle-Capture-EN-768x547-lg.jpg",
+        "type": "file",
+        "md5": "499d9fb83f2e498c82d187dace3c6af5"
+    },
+    {
+        "path": "/media/posts/75/responsive/DIY-Mask-Tea-Cloth-Particle-Capture-EN-768x547-md.jpg",
+        "type": "file",
+        "md5": "499d9fb83f2e498c82d187dace3c6af5"
+    },
+    {
+        "path": "/media/posts/75/responsive/DIY-Mask-Tea-Cloth-Particle-Capture-EN-768x547-sm.jpg",
+        "type": "file",
+        "md5": "11c54af416493f60929b091fd3da6497"
+    },
+    {
+        "path": "/media/posts/75/responsive/DIY-Mask-Tea-Cloth-Particle-Capture-EN-768x547-xl.jpg",
+        "type": "file",
+        "md5": "499d9fb83f2e498c82d187dace3c6af5"
+    },
+    {
+        "path": "/media/posts/75/responsive/DIY-Mask-Tea-Cloth-Particle-Capture-EN-768x547-xs.jpg",
+        "type": "file",
+        "md5": "3d76f4e60d24d7eaf2c4ff04e0a20ff6"
+    },
+    {
         "path": "/media/posts/75/responsive/homemade-masks-figure2-2xl.png",
         "type": "file",
         "md5": "affd0d535115bacdef4a6e22d509d36c"
@@ -12298,6 +12338,36 @@
         "path": "/media/posts/75/responsive/pandemics-comparisons-xs.png",
         "type": "file",
         "md5": "297ffe66efcfdb0bb5369f811d2d3ce1"
+    },
+    {
+        "path": "/media/posts/75/responsive/pone.0002618.g001-2xl.jpg",
+        "type": "file",
+        "md5": "4df6e4eb7bf3a86b22f6d496d6bdda7c"
+    },
+    {
+        "path": "/media/posts/75/responsive/pone.0002618.g001-lg.jpg",
+        "type": "file",
+        "md5": "4df6e4eb7bf3a86b22f6d496d6bdda7c"
+    },
+    {
+        "path": "/media/posts/75/responsive/pone.0002618.g001-md.jpg",
+        "type": "file",
+        "md5": "4df6e4eb7bf3a86b22f6d496d6bdda7c"
+    },
+    {
+        "path": "/media/posts/75/responsive/pone.0002618.g001-sm.jpg",
+        "type": "file",
+        "md5": "48ac48cda5efb6c1e9faf895273435fa"
+    },
+    {
+        "path": "/media/posts/75/responsive/pone.0002618.g001-xl.jpg",
+        "type": "file",
+        "md5": "4df6e4eb7bf3a86b22f6d496d6bdda7c"
+    },
+    {
+        "path": "/media/posts/75/responsive/pone.0002618.g001-xs.jpg",
+        "type": "file",
+        "md5": "ea95b553ed0a04c7421f97ce108d5239"
     },
     {
         "path": "/media/posts/75/responsive/respirateur-italie-decathlon-masque-plongee-coronavirus-dd02a6-01x-2xl.jpeg",
@@ -12617,7 +12687,7 @@
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "2c54f38719098bb54a25af44a39eed98"
+        "md5": "53c3143179f06b23e4f3b612007c80b7"
     },
     {
         "path": "sitemap.xsl",
