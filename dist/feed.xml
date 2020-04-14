@@ -3,7 +3,7 @@
     <title>GJ Sciences</title>
     <link href="https://gjsciences.com/feed.xml" rel="self" />
     <link href="https://gjsciences.com" />
-    <updated>2020-04-14T18:10:02+02:00</updated>
+    <updated>2020-04-14T18:17:39+02:00</updated>
     <author>
         <name>gjsciences</name>
     </author>
@@ -23,7 +23,7 @@
             <category term="covid-19"/>
             <category term="coronavirus"/>
 
-        <updated>2020-04-14T18:09:44+02:00</updated>
+        <updated>2020-04-14T18:17:23+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://gjsciences.com/media/posts/75/covid19-conseils-pratiques-gjsciences-wide.png" alt="1- Portez un masque-torchon, 2- des lunettes (de vue ou de plongée), 3- un bonnet, 4- utilisez un spray d&#x27;eau de javel à 5° pour vous laver les mains et décontaminer les surfaces, 5- la prise de vitamine C pure 0.5 à 6g/j dès les 1er symptômes peut limiter l&#x27;aggravation pulmonaire et cardiaque due au COVID-19." />
@@ -382,7 +382,7 @@
 <li>NanoHack, un masque imprimé en 3D et open-source contre le Covid-19 <a href="https://www.3dnatives.com/nanohack-masque-covid-19-180320203/">https://www.3dnatives.com/nanohack-masque-covid-19-180320203/</a></li>
 </ul>
 <p>Enfin, les masques-torchon sont déjà utilisés par la population de certains pays pour se protéger du Covid-19, comme <a href="https://www.tellerreport.com/tech/2020-02-05---%5Bpick%5D--kitchen-towel-mask--appears-in-jeju-in--mask-disruption--.ryKkxM_fU.html">à Jeju</a>.</p>
-<p>MAJ 04/04: comment nettoyer votre masque après usage? N'utilisez pas l'eau de javel ni l'alcool ni le micro-onde! Préférez laisser reposer le masque au soleil en direct (pas à travers une vitre) pour que les rayons UV le stérilisent, soit avec la vapeur d'eau bouillante. Ces différents procédés permettent de nettoyer le masque et son filtre à particules en 30 minutes d'après l'<a href="https://stanfordmedicine.app.box.com/v/covid19-PPE-1-1">université de Stanford</a>, sans réduire la capacité de filtration (ce que font l'eau de Javel, l'alcool et le micro-onde en détruisant la charge électrostatique et en plus en rajoutant des composants chlorés ou d'éthanol qui sont dangereux à respirer).</p>
+<p>MAJ 04/04: comment nettoyer votre masque après usage? N'utilisez pas l'eau de javel ni l'alcool ni le micro-onde! Préférez laisser reposer le masque au soleil en direct (pas à travers une vitre car cela filtre les rayons) pour que les rayons UV le stérilisent. Une autre méthode est sinon d'utiliser la chaleur de la vapeur d'eau bouillante, en plaçant le masque dans un sachet hermétique laminé et de le placer dans un autoclave à 121°C, comme décrit en détail dans <a href="https://repository.tudelft.nl/islandora/object/uuid%3Af048c853-7e1d-4715-b73d-3b506b274a30">cette étude</a>. Ces différents procédés permettent de nettoyer le masque et son filtre à particules en 30 minutes d'après l'<a href="https://stanfordmedicine.app.box.com/v/covid19-PPE-1-1">université de Stanford</a>, sans réduire la capacité de filtration (ce que font l'eau de Javel, l'alcool et le micro-onde en détruisant la charge électrostatique et en plus en rajoutant des composants chlorés ou d'éthanol qui sont dangereux à respirer).</p>
 <figure class="post__image post__image--center" ><img src="https://gjsciences.com/media/posts/75/mask-disinfection-stanford.png" alt="" width="1779" height="1442">
 <figcaption >
 <p>Stratégies de nettoyage de masques respirateurs filtres à particules par l'<a href="https://stanfordmedicine.app.box.com/v/covid19-PPE-1-1">Université de Stanford</a>. Ils ont également testé d'autres stratégies comme l'eau de Javel, l'alcool (éthanol), le micro-onde et le péroxyde d'hydrogène, mais cela a été un échec: soit il restait des résidus rendant le masque irrespirable même après plusieurs lavages, soit cela diminuait l'efficacité de filtration du masque:<br>"In summary bleach and microwaves were failures at point of care because the bleach gases (skin and respiratory irritants) remained after multiple strategies were used to remove them, the microwave melted the masks and soaking them first led to reduced filtration."</p>
