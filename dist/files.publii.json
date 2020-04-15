@@ -772,7 +772,7 @@
     {
         "path": "/coronavirus-covid-19-ce-quon-ne-vous-dit-pas-mais-que-vous-devez-savoir/index.html",
         "type": "file",
-        "md5": "20cc5dca9d5460ca7af2b0a17f6a81f3"
+        "md5": "d762a69c944df174fa2468d3516286f4"
     },
     {
         "path": "coronavirus-covid-19-des-conseils-simples-et-pratiques-pour-vous-proteger-et-limiter-les-degats-si-malade",
@@ -782,7 +782,7 @@
     {
         "path": "/coronavirus-covid-19-des-conseils-simples-et-pratiques-pour-vous-proteger-et-limiter-les-degats-si-malade/index.html",
         "type": "file",
-        "md5": "c9dc8f02523afa8f2e4bef7ae3df9620"
+        "md5": "7647365f58719b10c20324f2558b695e"
     },
     {
         "path": "dangerosite-des-grenades-gli-f4-scientifiquement-prouvee",
@@ -807,12 +807,12 @@
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "c2579c0dff1c5d6292c6c00fa47409db"
+        "md5": "703256103a13b10d8564197f8bbd8496"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "6e0ca47a35d248615862dd26da87ec01"
+        "md5": "9cf368ecd5d1a22e190f33ee0bd5e570"
     },
     {
         "path": "gj-sciences-fait-peau-neuve",
@@ -11265,6 +11265,16 @@
         "md5": "2a27a1129c57a24fa4a10ad1ba56740c"
     },
     {
+        "path": "/media/posts/72/helmbuch2009.jpg",
+        "type": "file",
+        "md5": "bd79cce3af889fbe99ed7b8d3caf1f8a"
+    },
+    {
+        "path": "/media/posts/72/interception-diffusion-impaction-capture-method-of-particles-on-HEPA-filter-fiber.jpeg",
+        "type": "file",
+        "md5": "04457e455f319285ca0c9f0944f0ca60"
+    },
+    {
         "path": "/media/posts/72/mask-4877097-300x150.png",
         "type": "file",
         "md5": "c17236491ea6c14702568ee1487473a3"
@@ -11730,6 +11740,66 @@
         "md5": "075651d81e827ed40202dc1bc713d3d0"
     },
     {
+        "path": "/media/posts/72/responsive/helmbuch2009-2xl.jpg",
+        "type": "file",
+        "md5": "d6217d41fd1b1f3f84fa28334598cd36"
+    },
+    {
+        "path": "/media/posts/72/responsive/helmbuch2009-lg.jpg",
+        "type": "file",
+        "md5": "871d9a9a5c5a14a2debedbbef57663df"
+    },
+    {
+        "path": "/media/posts/72/responsive/helmbuch2009-md.jpg",
+        "type": "file",
+        "md5": "f4978ddd6ba80decff3386272de82999"
+    },
+    {
+        "path": "/media/posts/72/responsive/helmbuch2009-sm.jpg",
+        "type": "file",
+        "md5": "9f7c2b7a17a8ac744609fa27b8444c87"
+    },
+    {
+        "path": "/media/posts/72/responsive/helmbuch2009-xl.jpg",
+        "type": "file",
+        "md5": "9cbfe1c927261b7a424f85c1495a74a6"
+    },
+    {
+        "path": "/media/posts/72/responsive/helmbuch2009-xs.jpg",
+        "type": "file",
+        "md5": "39055e2461ec39755097d9e1b8a0dd93"
+    },
+    {
+        "path": "/media/posts/72/responsive/interception-diffusion-impaction-capture-method-of-particles-on-HEPA-filter-fiber-2xl.jpeg",
+        "type": "file",
+        "md5": "dc85bd4eff2a0feadb2886bf29029f12"
+    },
+    {
+        "path": "/media/posts/72/responsive/interception-diffusion-impaction-capture-method-of-particles-on-HEPA-filter-fiber-lg.jpeg",
+        "type": "file",
+        "md5": "dc85bd4eff2a0feadb2886bf29029f12"
+    },
+    {
+        "path": "/media/posts/72/responsive/interception-diffusion-impaction-capture-method-of-particles-on-HEPA-filter-fiber-md.jpeg",
+        "type": "file",
+        "md5": "dc85bd4eff2a0feadb2886bf29029f12"
+    },
+    {
+        "path": "/media/posts/72/responsive/interception-diffusion-impaction-capture-method-of-particles-on-HEPA-filter-fiber-sm.jpeg",
+        "type": "file",
+        "md5": "c6316a9198bb37c37441e27dc1feaf85"
+    },
+    {
+        "path": "/media/posts/72/responsive/interception-diffusion-impaction-capture-method-of-particles-on-HEPA-filter-fiber-xl.jpeg",
+        "type": "file",
+        "md5": "dc85bd4eff2a0feadb2886bf29029f12"
+    },
+    {
+        "path": "/media/posts/72/responsive/interception-diffusion-impaction-capture-method-of-particles-on-HEPA-filter-fiber-xs.jpeg",
+        "type": "file",
+        "md5": "7711ad2642dc38712b29ab99eb3a20ff"
+    },
+    {
         "path": "/media/posts/72/responsive/mask-4877097-300x150-2xl.png",
         "type": "file",
         "md5": "860c552a4880005f0d8df3406c6cf24a"
@@ -12045,6 +12115,11 @@
         "md5": "6e1798f67ec421c6ddaca332af496fa3"
     },
     {
+        "path": "/media/posts/75/interception-diffusion-impaction-capture-method-of-particles-on-HEPA-filter-fiber.jpeg",
+        "type": "file",
+        "md5": "04457e455f319285ca0c9f0944f0ca60"
+    },
+    {
         "path": "/media/posts/75/mask-disinfection-stanford.png",
         "type": "file",
         "md5": "7f45c8e809d0b5c1517da4acc0e6a648"
@@ -12278,6 +12353,36 @@
         "path": "/media/posts/75/responsive/homemade-masks-figure2-xs.png",
         "type": "file",
         "md5": "63844227ed6a59f9a6bacf29214ace7b"
+    },
+    {
+        "path": "/media/posts/75/responsive/interception-diffusion-impaction-capture-method-of-particles-on-HEPA-filter-fiber-2xl.jpeg",
+        "type": "file",
+        "md5": "dc85bd4eff2a0feadb2886bf29029f12"
+    },
+    {
+        "path": "/media/posts/75/responsive/interception-diffusion-impaction-capture-method-of-particles-on-HEPA-filter-fiber-lg.jpeg",
+        "type": "file",
+        "md5": "dc85bd4eff2a0feadb2886bf29029f12"
+    },
+    {
+        "path": "/media/posts/75/responsive/interception-diffusion-impaction-capture-method-of-particles-on-HEPA-filter-fiber-md.jpeg",
+        "type": "file",
+        "md5": "dc85bd4eff2a0feadb2886bf29029f12"
+    },
+    {
+        "path": "/media/posts/75/responsive/interception-diffusion-impaction-capture-method-of-particles-on-HEPA-filter-fiber-sm.jpeg",
+        "type": "file",
+        "md5": "c6316a9198bb37c37441e27dc1feaf85"
+    },
+    {
+        "path": "/media/posts/75/responsive/interception-diffusion-impaction-capture-method-of-particles-on-HEPA-filter-fiber-xl.jpeg",
+        "type": "file",
+        "md5": "dc85bd4eff2a0feadb2886bf29029f12"
+    },
+    {
+        "path": "/media/posts/75/responsive/interception-diffusion-impaction-capture-method-of-particles-on-HEPA-filter-fiber-xs.jpeg",
+        "type": "file",
+        "md5": "7711ad2642dc38712b29ab99eb3a20ff"
     },
     {
         "path": "/media/posts/75/responsive/mask-disinfection-stanford-2xl.png",
@@ -12687,7 +12792,7 @@
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "c6237e1aaca54097ea99a6b6f6d9b860"
+        "md5": "50c3db9ab1284defa09c10ee9485a28f"
     },
     {
         "path": "sitemap.xsl",
