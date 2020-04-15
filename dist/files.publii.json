@@ -782,7 +782,7 @@
     {
         "path": "/coronavirus-covid-19-des-conseils-simples-et-pratiques-pour-vous-proteger-et-limiter-les-degats-si-malade/index.html",
         "type": "file",
-        "md5": "7647365f58719b10c20324f2558b695e"
+        "md5": "eca9143fd1b5e5243a5de6959288183f"
     },
     {
         "path": "dangerosite-des-grenades-gli-f4-scientifiquement-prouvee",
@@ -807,12 +807,12 @@
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "703256103a13b10d8564197f8bbd8496"
+        "md5": "08ea282e1473894dceeb77facf7ea1d6"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "9cf368ecd5d1a22e190f33ee0bd5e570"
+        "md5": "39512006040c47c54d51737b3b53fe98"
     },
     {
         "path": "gj-sciences-fait-peau-neuve",
@@ -838,6 +838,11 @@
         "path": "index.html",
         "type": "file",
         "md5": "77193b6382e1bc79081f8c9ef909285b"
+    },
+    {
+        "path": "ink.min.js",
+        "type": "file",
+        "md5": "26293dafa7d1c25116321f1bd6001349"
     },
     {
         "path": "le-vrai-debat-la-contre-attaque-des-gilets-jaunes-face-a-lastroturfing-de-macron",
@@ -12792,7 +12797,7 @@
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "50c3db9ab1284defa09c10ee9485a28f"
+        "md5": "d5be03c1fe0d60add3182747c9be94fd"
     },
     {
         "path": "sitemap.xsl",

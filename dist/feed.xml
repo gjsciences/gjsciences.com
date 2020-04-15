@@ -3,7 +3,7 @@
     <title>GJ Sciences</title>
     <link href="https://gjsciences.com/feed.xml" rel="self" />
     <link href="https://gjsciences.com" />
-    <updated>2020-04-15T18:04:56+02:00</updated>
+    <updated>2020-04-15T18:20:56+02:00</updated>
     <author>
         <name>gjsciences</name>
     </author>
@@ -23,7 +23,7 @@
             <category term="covid-19"/>
             <category term="coronavirus"/>
 
-        <updated>2020-04-15T17:18:34+02:00</updated>
+        <updated>2020-04-15T18:20:43+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://gjsciences.com/media/posts/75/covid19-conseils-pratiques-gjsciences-wide.png" alt="1- Portez un masque-torchon, 2- des lunettes (de vue ou de plongée), 3- un bonnet, 4- utilisez un spray d&#x27;eau de javel à 5° pour vous laver les mains et décontaminer les surfaces, 5- la prise de vitamine C pure 0.5 à 6g/j dès les 1er symptômes peut limiter l&#x27;aggravation pulmonaire et cardiaque due au COVID-19." />
@@ -418,8 +418,8 @@
 </div>
 <p>Vous n'êtes pas sûr de savoir comment diluer correctement l'eau de Javel à 5° pour que ce soit efficace contre le virus mais que ça ne vous brûle pas? Nous avons fait un petit calculateur ci-dessous (avec <a href="https://jsbin.com/sisavonafi/1/edit?output">un lien mirroir ici</a> que vous pouvez facilement partager), cliquez et tirez la souris sur les zones sur-lignées pour changer les valeurs:</p>
 <div>
-<script src="https://unpkg.com/ink-components"></script>
-<!-- ink-components v0.1.9 --> <!-- <script src="ink.min.js"></script> <!-- ink-components v0.1.9 --> <!-- share on JSBin, can easily set up a link to only share the rendered output + bins are forever kept --> <!-- Calculateur de dilution d'eau de Javel v0.9 - License: MIT Public License, author: Anatole Rover, for GJSciences.com -->
+<script src="ink.min.js"></script>
+<!-- <script src="https://unpkg.com/ink-components"></script> --> <!-- ink-components v0.1.9 --> <!-- <script src="ink.min.js"></script> <!-- ink-components v0.1.9 --> <!-- share on JSBin, can easily set up a link to only share the rendered output + bins are forever kept --> <!-- Calculateur de dilution d'eau de Javel v0.9 - License: MIT Public License, author: Anatole Rover, for GJSciences.com -->
 <div style="border: 1px solid black; padding: 5px;"><ink-scope name="javelVars"> <ink-var name="javelusualdefaults" value="2"></ink-var> <ink-var name="javeldegres" value="12" format=".4"></ink-var> <ink-var name="javeldegresout" value="5" format=".4"></ink-var> <ink-var name="javeldegresoutconcentration" value="1.585" format=".4"></ink-var> <ink-var name="contenantvol" value="750" format=".4"></ink-var>
 <p><strong>Calculateur de dilution d'eau de Javel pour décontaminer (virus, bactéries, etc).</strong></p>
 <p>Préconfigurer pour application comme<br><ink-dynamic :value="javelusualdefaults" min="1" max="3" bind="{javelusualdefaults: value, javeldegresout: (value==1)*1.577+(value==2)*5+(value==3)*12}" transform="['antiseptique sur plaies (0.5%, 2°)', 'antiseptique sur peau saine et décontaminant vêtements (5°)', 'décontaminant de surfaces (12°)'][javelusualdefaults-1]"></ink-dynamic>:</p>
