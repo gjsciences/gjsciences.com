@@ -3,7 +3,7 @@
     <title>GJ Sciences</title>
     <link href="https://gjsciences.com/feed.xml" rel="self" />
     <link href="https://gjsciences.com" />
-    <updated>2020-05-13T11:02:51+02:00</updated>
+    <updated>2020-05-13T19:44:47+02:00</updated>
     <author>
         <name>gjsciences</name>
     </author>
@@ -24,7 +24,7 @@
             <category term="covid-19"/>
             <category term="coronavirus"/>
 
-        <updated>2020-05-13T11:01:30+02:00</updated>
+        <updated>2020-05-13T19:44:15+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://gjsciences.com/media/posts/76/coronavirus-header-3.png" alt="" />
@@ -51,7 +51,7 @@
 <p>Nous avons <a href="https://gjsciences.com/coronavirus-covid-19-des-conseils-simples-et-pratiques-pour-vous-proteger-et-limiter-les-degats-si-malade/">précédemment conseillé la vitamine C</a> comme traitement à la fois préventif et curatif pour diminuer la progression et la sévérité des symptômes du COVID-19, n'empêchant donc pas de tomber malade mais permettant d'augmenter significativement les chances de survie.</p>
 <p>Une autre molécule semble avoir des effets similaires: la mélatonine. Cette piste est suggérée par <a href="https://www.evolutamente.it/covid-19-pneumonia-inflammasomes-the-melatonin-connection/">cet excellent billet</a>, repris par <a href="https://www.psychologytoday.com/intl/blog/sleep-newzzz/202005/could-melatonin-help-protect-against-covid-19">un blog de PsychologyToday</a>.</p>
 <p>La mélatonine présente des propriétés similaires à la vitamine C: elle est anti-oxydante et a une action anti-inflammatoire. Elle est considérée comme sûre, avec <a href="https://www.ncbi.nlm.nih.gov/pubmed/31722088">aucun effet secondaire grave</a> (voir <a href="https://www.psychologytoday.com/intl/blog/sleep-newzzz/202005/could-melatonin-help-protect-against-covid-19">aussi ici</a>).</p>
-<p>La mélatonine est donc <a href="https://www.psychologytoday.com/intl/blog/sleep-newzzz/202005/could-melatonin-help-protect-against-covid-19">en cours d'investigation sérieuses par la communauté scientifique</a>. Pourquoi? Car son action anti-inflammatoire inhibe l'inflammasome NLRP3, l'un des principaux inflammasomes de "l'orage inflammatoire" de cytokines observés dans les cas sévères de COVID-19. De plus, de précédentes études sur souris ont démontré que la mélatonine réduisait les inflammations respiratoires sévères à des cas modérés.</p>
+<p>La mélatonine est donc <a href="https://www.psychologytoday.com/intl/blog/sleep-newzzz/202005/could-melatonin-help-protect-against-covid-19">en cours d'investigation sérieuses par la communauté scientifique</a>. Pourquoi? Car son action anti-inflammatoire inhibe l'inflammasome NLRP3, l'un des principaux inflammasomes de "l'orage inflammatoire" de cytokines observés dans les cas sévères de COVID-19. De plus, de précédentes études sur souris ont démontré que la mélatonine réduisait les <a href="https://journals.lww.com/co-lipidology/FullText/2016/08000/Effects_of_melatonin_on_cardiovascular_diseases_.13.aspx">inflammations cardiaques</a> et <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/rmv.2109">respiratoires</a> <a href="https://link.springer.com/article/10.1007/s00395-015-0526-1">sévères à des cas modérés</a>.</p>
 <p>L'autre argument très convaincant sur le potentiel de cette molécule est d'ordre <a href="https://www.evolutamente.it/covid-19-pneumonia-inflammasomes-the-melatonin-connection/">épidémiologique</a>: le taux de mélatonine varie selon l'âge, les enfants en ayant bien plus que les adultes, et les personnes agées ayant de très faibles taux:</p>
 <figure class="post__image post__image--center" ><img src="https://gjsciences.com/media/posts/76//Image_Melatonin-secretion-from-infant-to-old-age-pg-ml.png" width="975" height="585">
 <figcaption >Taux de mélatonine dans le sang selon l'âge. Les enfants ont les plus haut taux, les personnes agées et les nouveaux-nés le moins. Image provenant de <a href="https://www.evolutamente.it/covid-19-pneumonia-inflammasomes-the-melatonin-connection/">ce billet</a>.</figcaption>
@@ -61,18 +61,22 @@
 <figcaption >Répartition des décès liés au COVID-19 selon l'âge. Source: <a href="https://ourworldindata.org/mortality-risk-covid">ourworldindata.org</a></figcaption>
 </figure>
 <p>Étonnamment, la courbe de mélatonine colle très bien à la découverte récente que les <a href="https://www.les-crises.fr/50-des-enfants-contamines-l-ont-ete-sous-une-forme-moderee-a-grave-dont-5-sous-une-forme-severe-selon-une-etude-chinoise/">très jeunes enfants et en particulier les nourrissons sont plus à risque</a> (<a href="https://pediatrics.aappublications.org/content/early/2020/03/16/peds.2020-0702.1">étude source</a>), ceux-ci ayant des niveaux de mélatonine très faibles. À voir également si le manque de mélatonine peut être liée au risque accru de développer <a href="https://francais.rt.com/france/74631-coronavirus-certains-enfants-touches-par-graves-defaillances-cardiaques">un syndrome de Kawasaki chez certains enfants plus agés</a>.</p>
-<p>Tout cela ne reste que des corrélations, pas une causation, il faut davantage d'études pour confirmer une relation de cause à effet. Mais l'argument est en l'état très solide pour justement lancer ces études, ce que la communauté scientifique fait.</p>
-<p>Étant donné le profil très sûr de la molécule, et sa disponibilité sans ordonnance dans la plupart des pays (dont la France), il est également possible pour la population en général de l'utiliser par mesure de précaution, ou en traitement complémentaire pour ceux qui sont malades.</p>
+<p>Tout cela ne reste que des corrélations, pas une causation, il faut davantage d'études pour confirmer une relation de cause à effet. Mais l'argument est en l'état très solide pour justement lancer ces études, ce que <a href="https://clinicaltrials.gov/ct2/show/NCT04353128">la communauté scientifique fait</a>.</p>
+<p>Étant donné le profil très sûr de la molécule, et sa disponibilité sans ordonnance dans la plupart des pays (dont la France), il est également possible pour la population en général de l'utiliser par mesure de précaution, ou en traitement complémentaire (adjuvant) pour ceux qui sont malades.</p>
+<p>Plusieurs papiers scientifiques sérieux sont disponibles pour ceux qui souhaitent creuser: <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/rmv.2109">ici</a>, <a href="https://www.tandfonline.com/doi/full/10.1080/08830185.2020.1756284">ici</a> et <a href="https://www.sciencedirect.com/science/article/pii/S0024320520303313">ici,</a> en plus de <a href="https://clinicaltrials.gov/ct2/show/NCT04353128">cette étude clinique randomisée sur le personnel hospitalier</a> à suivre de près</p>
 <p><a href="https://www.evolutamente.it/covid-19-pneumonia-inflammasomes-the-melatonin-connection/">Le billet</a> à l'origine de ces informations très intéressantes sur la mélatonine et son lien potentiel avec le COVID-19 propose également des dosages:</p>
 <ul>
 <li>En préventif: 0.2 à 0.5mg de mélatonine par jour (note: des dosages jusqu'à 10mg/jour sont utilisés pour traiter les troubles du rythme circadian ou le jet lag)</li>
 <li>En traitement des malades COVID-19: 5mg à 50mg par jour.</li>
 </ul>
+<p>D'autres sources comme <a href="https://clinicaltrials.gov/ct2/show/NCT04353128">cette étude clinique randomisée en cours</a> propose plutôt 2mg/jour pour prodiguer aux adultes des niveaux de mélatonine similaires à ceux observés chez les enfants.</p>
+<p>Dans tous les cas, il faut noter que la mélatonine peut avoir un effet d'endormissement, aussi il est préférable de l'utiliser avant de dormir, et pas durant la journée (et ainsi éviter de causer des accidents d'endormissement en conduisant par exemple...).</p>
 <p>Notez également que de manière coïncidente, ce même billet mentionne et conseille également la vitamine C (<em>ascorbic acid</em> en anglais) en plus de la mélatonine, et comme nous le conseillions déjà dans notre précédent billet. L'auteur mentionne les dosages suivants pour la vitamine C:</p>
 <ul>
 <li>En préventif: 1g par heure, soit 10-18g par jour, selon votre tolérance. Si vous observez des problèmes digestifs notamment des diarrhées, c'est un signe que vous avez saturé votre tolérance (Bowel Tolerance), et qu'il faut utiliser une dose moindre.</li>
 <li>En traitement du COVID-19: 1g chaque 15-30 minutes, selon la sévérité des symptômes. Augmentez à 2g chaque 15-30 minutes si les symptômes ne sont pas renversés sous 12-24h. Si vous êtes infectés, vous aurez une tolérance virtuellement illimitée à la vitamine C, ce qui permet de consommer 100g ou plus par jour comme observé lors de <a href="https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD005532.pub3/full">précédentes études</a> (voir aussi <a href="https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD000980.pub4/full">ici</a>), c'est tout à fait normal.</li>
 </ul>
+<p>Notez que nous ne conseillons pas ces dosages pour la vitamine C, comme nous l'<a href="https://gjsciences.com/coronavirus-covid-19-des-conseils-simples-et-pratiques-pour-vous-proteger-et-limiter-les-degats-si-malade/">avions précédemment écrit</a>, une dose de 0.5mg à 8g/jour en préventif pour un adulte nous semble suffisant et plus sûr étant donné que ces doses sont issues de 2 revues systématiques Cochrane.</p>
 <h2 id="mcetoc_1e862pqgt0">Rendre ses masques hermétiques avec 3 élastiques</h2>
 <p>Voici une technique simple et extrêmement efficace, bien plus que toutes celles que nous avons vu précédemment dont celle du CDC, pour rendre les masques chirurgicaux ou <a href="https://medium.com/@fixthemask/latest-testing-data-8a59dbb926a3">maison</a> hermétiques, ce qui augmente drastiquement leurs capacités de filtration des nanoparticules de virus en aérosol, la vidéo décrivant même comment faire un test de pression:</p>
 <p class="align-center"><iframe src="https://www.youtube-nocookie.com/embed/CVjGCPfRwUo" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
