@@ -3,12 +3,134 @@
     <title>GJ Sciences</title>
     <link href="https://gjsciences.com/feed.xml" rel="self" />
     <link href="https://gjsciences.com" />
-    <updated>2020-04-15T23:02:53+02:00</updated>
+    <updated>2020-05-13T08:05:57+02:00</updated>
     <author>
         <name>gjsciences</name>
     </author>
     <id>https://gjsciences.com</id>
 
+    <entry>
+        <title>Coronavirus COVID-19: Mise à jour rapide entre faux espoirs et réelles pistes (comme la mélatonine)</title>
+        <author>
+            <name>gjsciences</name>
+        </author>
+        <link href="https://gjsciences.com/coronavirus-covid-19-mise-a-jour-rapide-dont-melatonine-en-traitements-preventif/"/>
+        <id>https://gjsciences.com/coronavirus-covid-19-mise-a-jour-rapide-dont-melatonine-en-traitements-preventif/</id>
+            <category term="épidémie"/>
+            <category term="virus"/>
+            <category term="santé"/>
+            <category term="pandémie"/>
+            <category term="dossier"/>
+            <category term="covid-19"/>
+            <category term="coronavirus"/>
+
+        <updated>2020-05-13T08:05:35+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://gjsciences.com/media/posts/76/coronavirus-header-3.png" alt="" />
+                    <p>Ce billet est une mise à jour rapide pour partager les nouvelles informations les plus importantes dont nous avons eu connaissance depuis nos précédents billets. Notamment, la mélatonine peut être un autre traitement préventif pour éviter la progression de la maladie vers des symptômes sévères, de façon similaire à la vitamine C. Une nouvelle méthode pour rendre ses masques hermétiques avec 3 élastiques est aussi décrite.</p>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://gjsciences.com/media/posts/76/coronavirus-header-3.png" alt="" />
+                <p>Ce billet est une mise à jour rapide pour partager les nouvelles informations les plus importantes dont nous avons eu connaissance depuis nos précédents billets. Notamment, la mélatonine peut être un autre traitement préventif pour éviter la progression de la maladie vers des symptômes sévères, de façon similaire à la vitamine C. Une nouvelle méthode pour rendre ses masques hermétiques avec 3 élastiques est aussi décrite.</p>
+<hr>
+<div class="post__toc">
+<h3>Table of Contents</h3>
+<ul>
+<li><a href="#mcetoc_1e863cu0b2">La mélatonine: un autre traitement préventif et curatif pour éviter les symptômes sévères du coronavirus COVID-19</a></li>
+<li><a href="#mcetoc_1e862pqgt0">Rendre ses masques hermétiques avec 3 élastiques</a></li>
+<li><a href="#mcetoc_1e8659vep4">Les surinfections bactériennes causent la moitié des morts COVID-19, mais l'azithromycine n'est pas la solution</a></li>
+<li><a href="#mcetoc_1e866do356">Vaccins, tests, et immunité collective : faux espoirs, 2nde vague et re-confinement en prévision</a></li>
+<li><a href="#mcetoc_1e865v51b5">Informations en vrac</a></li>
+</ul>
+</div>
+<h2 id="mcetoc_1e863cu0b2">La mélatonine: un autre traitement préventif et curatif pour éviter les symptômes sévères du coronavirus COVID-19</h2>
+<p>Nous avons <a href="https://gjsciences.com/coronavirus-covid-19-des-conseils-simples-et-pratiques-pour-vous-proteger-et-limiter-les-degats-si-malade/">précédemment conseillé la vitamine C</a> comme traitement à la fois préventif et curatif pour diminuer la progression et la sévérité des symptômes du COVID-19, n'empêchant donc pas de tomber malade mais permettant d'augmenter significativement les chances de survie.</p>
+<p>Une autre molécule semble avoir des effets similaires: la mélatonine. Cette piste est suggérée par <a href="https://www.evolutamente.it/covid-19-pneumonia-inflammasomes-the-melatonin-connection/">cet excellent billet</a>, repris par <a href="https://www.psychologytoday.com/intl/blog/sleep-newzzz/202005/could-melatonin-help-protect-against-covid-19">un blog de PsychologyToday</a>.</p>
+<p>La mélatonine présente des propriétés similaires à la vitamine C: elle est anti-oxydante et a une action anti-inflammatoire. Elle est considérée comme sûre, avec <a href="https://www.ncbi.nlm.nih.gov/pubmed/31722088">aucun effet secondaire grave</a> (voir <a href="https://www.psychologytoday.com/intl/blog/sleep-newzzz/202005/could-melatonin-help-protect-against-covid-19">aussi ici</a>).</p>
+<p>La mélatonine est donc <a href="https://www.psychologytoday.com/intl/blog/sleep-newzzz/202005/could-melatonin-help-protect-against-covid-19">en cours d'investigation sérieuses par la communauté scientifique</a>. Pourquoi? Car son action anti-inflammatoire inhibe l'inflammasome NLRP3, l'un des principaux inflammasomes de "l'orage inflammatoire" de cytokines observés dans les cas sévères de COVID-19. De plus, de précédentes études sur souris ont démontré que la mélatonine réduisait les inflammations respiratoires sévères à des cas modérés.</p>
+<p>L'autre argument très convaincant sur le potentiel de cette molécule est d'ordre <a href="https://www.evolutamente.it/covid-19-pneumonia-inflammasomes-the-melatonin-connection/">épidémiologique</a>: le taux de mélatonine varie selon l'âge, les enfants en ayant bien plus que les adultes, et les personnes agées ayant de très faibles taux:</p>
+<figure class="post__image post__image--center" ><img src="https://gjsciences.com/media/posts/76//Image_Melatonin-secretion-from-infant-to-old-age-pg-ml.png" width="975" height="585">
+<figcaption >Taux de mélatonine dans le sang selon l'âge. Les enfants ont les plus haut taux, les personnes agées et les nouveaux-nés le moins. Image provenant de <a href="https://www.evolutamente.it/covid-19-pneumonia-inflammasomes-the-melatonin-connection/">ce billet</a>.</figcaption>
+</figure>
+<p>Cette courbe est l'exact inverse de la répartition des cas sévères et des décès du COVID-19:</p>
+<figure class="post__image post__image--center" ><img src="https://gjsciences.com/media/posts/76//COVID-CFR-by-age-768x595.png" width="768" height="595">
+<figcaption >Répartition des décès liés au COVID-19 selon l'âge. Source: <a href="https://ourworldindata.org/mortality-risk-covid">ourworldindata.org</a></figcaption>
+</figure>
+<p>Étonnamment, la courbe de mélatonine colle très bien à la découverte récente que les <a href="https://www.les-crises.fr/50-des-enfants-contamines-l-ont-ete-sous-une-forme-moderee-a-grave-dont-5-sous-une-forme-severe-selon-une-etude-chinoise/">très jeunes enfants et en particulier les nourrissons sont plus à risque</a> (<a href="https://pediatrics.aappublications.org/content/early/2020/03/16/peds.2020-0702.1">étude source</a>), ceux-ci ayant des niveaux de mélatonine très faibles. À voir également si le manque de mélatonine peut être liée au risque accru de développer <a href="https://francais.rt.com/france/74631-coronavirus-certains-enfants-touches-par-graves-defaillances-cardiaques">un syndrome de Kawasaki chez certains enfants plus agés</a>.</p>
+<p>Tout cela ne reste que des corrélations, pas une causation, il faut davantage d'études pour confirmer une relation de cause à effet. Mais l'argument est en l'état très solide pour justement lancer ces études, ce que la communauté scientifique fait.</p>
+<p>Étant donné le profil très sûr de la molécule, et sa disponibilité sans ordonnance dans la plupart des pays (dont la France), il est également possible pour la population en général de l'utiliser par mesure de précaution, ou en traitement complémentaire pour ceux qui sont malades.</p>
+<p><a href="https://www.evolutamente.it/covid-19-pneumonia-inflammasomes-the-melatonin-connection/">Le billet</a> à l'origine de ces informations très intéressantes sur la mélatonine et son lien potentiel avec le COVID-19 propose également des dosages:</p>
+<ul>
+<li>En préventif: 0.2 à 0.5mg de mélatonine par jour (note: des dosages jusqu'à 10mg/jour sont utilisés pour traiter les troubles du rythme circadian ou le jet lag)</li>
+<li>En traitement des malades COVID-19: 5mg à 50mg par jour.</li>
+</ul>
+<p>Notez également que de manière coïncidente, ce même billet mentionne et conseille également la vitamine C (<em>ascorbic acid</em> en anglais) en plus de la mélatonine, et comme nous le conseillions déjà dans notre précédent billet. L'auteur mentionne les dosages suivants pour la vitamine C:</p>
+<ul>
+<li>En préventif: 1g par heure, soit 10-18g par jour, selon votre tolérance. Si vous observez des problèmes digestifs notamment des diarrhées, c'est un signe que vous avez saturé votre tolérance (Bowel Tolerance), et qu'il faut utiliser une dose moindre.</li>
+<li>En traitement du COVID-19: 1g chaque 15-30 minutes, selon la sévérité des symptômes. Augmentez à 2g chaque 15-30 minutes si les symptômes ne sont pas renversés sous 12-24h. Si vous êtes infectés, vous aurez une tolérance virtuellement illimitée à la vitamine C, ce qui permet de consommer 100g ou plus par jour comme observé lors de <a href="https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD005532.pub3/full">précédentes études</a> (voir aussi <a href="https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD000980.pub4/full">ici</a>), c'est tout à fait normal.</li>
+</ul>
+<h2 id="mcetoc_1e862pqgt0">Rendre ses masques hermétiques avec 3 élastiques</h2>
+<p>Voici une technique simple et extrêmement efficace, bien plus que toutes celles que nous avons vu précédemment dont celle du CDC, pour rendre les masques chirurgicaux ou <a href="https://medium.com/@fixthemask/latest-testing-data-8a59dbb926a3">maison</a> hermétiques, ce qui augmente drastiquement leurs capacités de filtration des nanoparticules de virus en aérosol, la vidéo décrivant même comment faire un test de pression:</p>
+<p class="align-center"><iframe src="https://www.youtube-nocookie.com/embed/CVjGCPfRwUo" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+<p>Cette technique, inventée par une ex-ingénieure mécanique d'Apple, a déjà été testée par plusieurs hôpitaux aux USA. Site web source: <a href="https://www.fixthemask.com/make-it#3-rubber-bands">https://www.fixthemask.com/make-it#3-rubber-bands</a></p>
+<p>Plus de détails sur les tests, et sur quelles formes de visage cela convient: <a href="https://medium.com/@fixthemask/latest-testing-data-8a59dbb926a3">https://medium.com/@fixthemask/latest-testing-data-8a59dbb926a3</a> . Les élastiques ne fonctionnent malheureusement pas sur toutes les formes de visage, aussi elle a mis au point un <a href="https://www.fixthemask.com/make-it#Manufacture-the-fix">système plus élaboré</a> pour ceux qui peuvent se procurer et découper des feuilles de caoutchouc, <a href="https://www.fixthemask.com/download">disponible gratuitement et en open-source</a>, que nous recommandons vivement si vous en avez les compétences et les outils.</p>
+<p>D'ailleurs de façon intéressante cette personne détaille en description de la vidéo quels masques chirurgicaux sont plus filtrants: «ASTM Level 1 and above will filter 95% of 0.1 micron particles. China Standard YY 0469 masks only filter 30% of 0.1 micron particles, and European Standard EN 14684s do not filter 0.1 micron particles at all. This solution has not yet passed the CDC test method outlined in 42 CFR 84».</p>
+<p>Pour rappel, les masques sont le seul moyen de réduire les chances d'être infecté et un excellent moyen de réduire la charge virale et donc la sévérité des symptômes, aussi <a href="https://gjsciences.com/coronavirus-covid-19-des-conseils-simples-et-pratiques-pour-vous-proteger-et-limiter-les-degats-si-malade/">nous conseillons</a> d'utiliser un masque en torchon si vous n'avez rien d'autre, ou un masque chirurgical si vous pouvez en acheter, ou le mieux étant les <a href="https://gjsciences.com/coronavirus-covid-19-ce-quon-ne-vous-dit-pas-mais-que-vous-devez-savoir/">masques réutilisables élastomériques</a> (en plastique et silicone) avec des filtres P2 réutilisables, ces derniers vous procurant la meilleure protection possible sans être au détriment du personnel hospitalier (qui n'utilise que les masques jetables).</p>
+<p>Quid des masques fournis par le gouvernement ou les collectivités? Ça dépend, la qualité variant énormément en dépit des promesses du gouvernement de standardiser les masques (on rappelle que c'était la principale raison pour laquelle le gouvernement déconseillait à la population de faire ses propres masques, contre l'avis de l'Académie de Médecine). Dans tous les cas, nous vous conseillons de vous renseigner sur la fabrication et le tissu utilisé pour votre masque: si vous ne pouvez pas vérifier que ces masques sont bons, utilisez les masques que nous conseillons plutôt, dont l'efficacité a été testée par de nombreuses études scientifiques.</p>
+<p>Si vous n'êtes pas convaincus par l'utilisation des masques (<a href="https://www.lemonde.fr/les-decodeurs/article/2020/05/03/reouverture-des-ecoles-le-choix-du-gouvernement-est-bien-en-desaccord-avec-le-conseil-scientifique_6038521_4355770.html">du fait de la désinformation gouvernementale</a>), pour rappel voici ce que l'<a href="http://www.academie-medecine.fr/communique-de-lacademie-nationale-de-medecine-aux-masques-citoyens/">Académie de Médecine a publié dans son appel titré «Aux masques, citoyens! »</a> du 22 avril 2020 (passé sous silence par le gouvernement) et résumé par <a href="https://www.notretemps.com/sante/virus-l-academie-de-medecine-prone-des-afp-202004,i217829">l'AFP</a>:</p>
+<blockquote>
+<p class="align-left msg msg--info">"Malgré l'évidente nécessité d'une telle mesure", l'Académie déplore "des objections de principe" qui "retardent sa mise en oeuvre et favorisent la persistance d'une transmission du virus dans la communauté".<br><br>"Restreindre le port du masque dans les seuls transports en commun, c'est négliger tous les espaces publics où le risque demeure. Subordonner cette obligation à la fourniture gratuite de masques par l'État, c'est conforter la population dans une situation d'assistance et de déresponsabilisation", énumère l'Académie.</p>
+</blockquote>
+<h2 id="mcetoc_1e8659vep4">Les surinfections bactériennes causent la moitié des morts COVID-19, mais l'azithromycine n'est pas la solution</h2>
+<p>Nous allons ici simplement citer <a href="https://rechercheindependante.blogspot.com/2020/04/surinfections-bacteriennes-et-covid19.html">cet excellent billet d'Alexander Samuel</a> (docteur en Biologie Moléculaire, et auteur de plusieurs publications en lien avec le neurodéveloppement), que nous vous invitons à lire pour de plus amples détails et sur les traitements adéquats:</p>
+<blockquote>
+<p class="msg msg--info align-left">Une étude portant sur les premiers cas graves (339 patients de plus de 60 ans) à Wuhan a indiqué que <strong>43% d'entre eux avaient eu une surinfection bactérienne, et on en trouvait dans 82% des décès.</strong> Cependant, les déficiences hépatiques (foie, liver en anglais) et cardiaques étaient très importantes. L'ARDS (syndrome de déficience respiratoire aigüe) est la cause la plus fréquente associée à une mortalité (88%).<br><br>Pour compléter ces informations, il a également été montré que <strong>seuls 50% des cas de mortalités sont causés par la surinfection bactérienne, et que ces surinfections ne sont présentes que dans un patient sur sept hospitalisé</strong>. Ces surinfections sont effectivement un risque majeur en milieu hospitalier. En Californie, 20% des cas étaient également positifs pour d'autres pathogènes.<br><br>Comme <strong>la surinfection bactérienne n'est pas systématique</strong>, une étude chinoise a rappelé qu'<strong>il n'était pas recommandé d'utiliser aveuglément des antibiotiques</strong> du fait de la forte incidence de pneumonies non bactériennes liées au coronavirus.</p>
+<p class="msg msg--info align-left">La complication majeure dans le cas d'infections bactériennes est la pneumonie bactérienne.</p>
+</blockquote>
+<p>En résumé: les infections secondaires bactériennes sont très courantes et causent de nombreux décès, aussi il faut les détecter et les traiter de façon adéquate (donc pas aveuglément, il faut d'abord tester la présence de bactérie ou en tout cas le suspecter avant de prodiguer des antibiotiques).</p>
+<p>Cela nous ramène aux études (un peu bancales, voire truquées pour certains) du Professeur Raoult, dont l'hydroxychloroquine n'a pour le moment pas démontré d'effet bénéfique (mais a encore démontré ses effets néfastes sur le coeur comme nous le prédisions dans <a href="https://gjsciences.com/coronavirus-covid-19-des-conseils-simples-et-pratiques-pour-vous-proteger-et-limiter-les-degats-si-malade/">notre précédent billet</a>), et l'azithromycine qui est un macrolide et de ce fait pas non plus anodin à donner aux patients, lui aussi avec une toxicité sur le système cardiovasculaire:</p>
+<blockquote>
+<p class="msg msg--info align-left">Que ce soit la fameuse azithromycine des études truquées du professeur Raoult, ou les macrolides en général. Je rappelle donc qu'une étude rétrospective a montré que l'azithromycine, ce macrolide, a une telle toxicité sur le système cardiovasculaire que <strong>la mortalité cardiovasculaire a été augmentée de 120% sur un échantillon comprenant 2 millions de patients</strong>.</p>
+</blockquote>
+<p>Nous soutenons vivement le rappel d'Alexander des critères des bonnes procédures de recherche clinique, qui sont malheureusement <a href="https://perruchenautomne.eu/wordpress/?p=6008">bien trop souvent ignorées volontairement en ce moment</a>:</p>
+<blockquote>
+<p class="align-left msg msg--info">A) on utilise un groupe contrôle car oui, il n'y a pas que 2 possibilités dans la vie : guérir ou pas. Il y en a 3 : aggraver, rien, ou améliorer l'état de santé. D'ailleurs c'est plus complexe que cela car on peut avoir un effet sur les symptômes (la sensation d'aller mal ou bien) et un effet sur la maladie (qui peut progresser ou pas) opposés. L'exemple typique sont les anti-inflammatoires (je rappelle que l'hydroxychloroquine a un effet anti-inflammatoire). On va réduire la réaction immunitaire, donc avoir moins de symptômes, ce qui laisse progresser la maladie plus fort et peut augmenter le risque de complications (réa / mortalité).<br><br>B) on pratique le double aveugle. Cela ne ralentit rien. Cela permet d'aller aussi vite que si on ne le fait pas. Il s'agit seulement de faire en sorte que le médecin ne sait pas ce qu'il donne au patient, et note, sans savoir si c'est son médicament fétiche ou si c'est juste un placébo, les constantes demandées.<br><br>C) on pratique la randomisation : grâce à des logiciels, on attribue les traitements de manière à ce que les deux groupes qui reçoivent un traitement soient comparables l'un avec l'autre (âge sexe etc). Ceci également ne ralentit rien.<br><br>D) on annonce dès le départ ce qu'on va faire et on s'y tient, pour ne pas choisir de mesurer que ce qui nous arrange si certains paramètres se montrent moins bons que l'on espérait. Par exemple, on annonce qu'on va mesurer la fièvre tous les jours. Si on l'annonce pas, et qu'on la mesure tous les jours, et qu'elle monte à bloc les 3 premiers jours descend le 5eme jour et remonte à bloc, et qu'on ne montre à la fin que la température du jour 1 et du jour 5 on peut faire croire au contraire de ce qui s'est réellement passé.</p>
+</blockquote>
+<h2 id="mcetoc_1e866do356" class="align-left">Vaccins, tests, et immunité collective : faux espoirs, 2nde vague et re-confinement en prévision</h2>
+<p>Comment allons-nous sortir de cette crise du coronavirus COVID-19? Personne ne le sait, et la situation actuelle ne promet rien de bon sur le court et moyen terme.</p>
+<p>Les politiciens clamaient pendant longtemps que tous leurs espoirs résidaient dans l'<a href="https://fr.wikipedia.org/wiki/Immunit%C3%A9_gr%C3%A9gaire">immunité collective</a>, une hypothèse qui n'a pas été vérifiée puisque d'après un rapport de l'institut Pasteur, <a href="https://www.publicsenat.fr/article/societe/coronavirus-il-y-aura-forcement-une-deuxieme-vague-182049">seul 5.7% de la population française auront eu la maladie</a> au 11 mai 2020  et donc potentiellement immunisés, et <a href="https://www.telesambre.be/covid-19-les-tests-serologiques-sont-arrives">4-5% en Belgique fin avril</a>, alors qu'il faudrait 70% pour l'immunité collective.</p>
+<p>De plus, <a href="https://www.publicsenat.fr/article/societe/coronavirus-il-y-aura-forcement-une-deuxieme-vague-182049">l'immunité n'est même pas garantie (Simon Cauchemez déclare même qu'elle n'est pas immunisante apriori)</a>, puisque les virus ne causent pas forcément la création d'anticorps (pour s'en convaincre, il suffit de voir le virus du SIDA, ou l'herpès simplex, ou Ebola, ou simplement SARS-CoV-1 et MERS-CoV, les précédent coronavirus - autant de virus pour lesquels la grande majorité des humains ne produisent pas d'anticorps et pour lesquels aucun vaccin n'a encore été trouvé).</p>
+<p>De ce fait, <a href="https://www.irishtimes.com/news/health/no-proof-of-immunity-in-recovered-coronavirus-patients-says-who-1.4232563">l'OMS a (enfin) mis en garde contre cette tendance des politiques de se fonder sur l'immunité collective</a>. Pour paraphraser Simon Cauchemez: « <strong>C’est pourquoi le principe d’immunité collective est un mythe.</strong> »</p>
+<p>Si l'immunité collective est impossible à atteindre, alors il nous faut un vaccin? Certes, ce serait bien, mais il est peu probable que l'on trouve un tel vaccin ou un traitement adéquat, puisque:</p>
+<ol>
+<li><a href="https://www.vidal.fr/actualites/24740/vers_un_vaccin_covid_19_les_lecons_du_sras_du_mers_et_des_donnees_recentes_sur_la_reponse_immunitaire_au_sars_cov_2/">les pistes actuellement explorées sont les moins prometteuses</a> (mais les plus rentables, on fait donc face à un détournement d'argent publique par l'industrie pharmaceutique):<br>«L’absence de succès vaccinaux flagrants avec le MERS-CoV (et avec le SARS-CoV-1 jusqu’à sa sortie du périmètre d’intérêt des chercheurs) n’est pas encourageante, d’autant plus que les vaccins actuellement à l’étude semblent davantage centrés sur la production d’anticorps neutralisants que sur la stimulation de l’immunité cellulaire, en particulier locale. Et ce en dépit des enseignements obtenus en étudiant le SRAS ou le MERS, ou de ceux issus de la recherche récente sur la réponse immunitaire face au SARS-CoV-2.»</li>
+<li>Il est illusoire et irresponsable pour nos politiques de fonder toutes leurs stratégies sur la découverte d'un vaccin. <a href="https://www.youtube.com/watch?v=LVBc7-Te_yA">Cela fait 20 ans que le SARS-CoV-1 est apparu, et nous n'avons pas encore de vaccin</a>. Trouver un vaccin pour SARS-CoV-2 / COVID-19 en moins d'un an (ne parlons même pas de quelques mois) serait une première dans toute l'histoire des sciences, <a href="https://www.youtube.com/watch?v=LVBc7-Te_yA">un véritable miracle</a>. Que tous les politiques du monde entier fondent toutes leurs stratégies de gestion de cette crise sur un miracle en dit long sur l'état de décrépitude intellectuelle et décisionnaire de nos dirigeants.</li>
+<li>Comme nous l'écrivions précédemment, même si un vaccin venait à être découvert, <a href="https://www.washingtonpost.com/business/2020/05/11/coronavirus-vaccine-global-supply/">il n'y en n'aurait certainement pas assez pour tout le monde</a>, en tout cas pas sur une période suffisamment courte pour être utile.</li>
+<li>Même lorsque des vaccins existent, ils ne protègent pas toute la population, il existe toujours une proportion qui reste sensible à l'infection.</li>
+</ol>
+<p>Au vu de toutes ces informations, nous partageons <a href="https://www.bfmtv.com/mediaplayer/video/simon-cauchemez-institut-pasteur-craint-une-reprise-de-l-epidemie-apres-le-11-mai-1241028.html">la prévision de Simon Cauchemez de l'institut Pasteur, qui est que nous connaitrons une seconde vague et un second confinement</a>, le confinement précoce <a href="https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD013574/full">étant la seule mesure démontrant une efficacité importante dans le contrôle des pandémies</a> (voir également <a href="https://www.anti-k.org/2020/04/22/covid-19-and-containment/">cette intéressante analyse sur anti-k</a>).</p>
+<p>Et si ce second confinement n'est pas plus strict et maintenu plus longtemps que le premier, d'autres vagues et confinements seront à prévoir, sauf à laisser une bonne partie de la population mourir pour le PIB comme <a href="https://charliehebdo.fr/2020/04/economie/le-pib-nous-rend-aveugles/">l'illustre satiriquement Charlie Hebdo</a>.</p>
+<figure class="post__image post__image--center"><img src="https://gjsciences.com/media/posts/76/EXQVdGlWAAApjpZ.jpg" width="944" height="1200"></figure>
+<h2 id="mcetoc_1e865v51b5" class="align-left">Informations en vrac</h2>
+<ul>
+<li><a href="https://francais.rt.com/france/74539-covid-19-10-deces-reanimation-etude">30% à 40% des patients en réanimation meurent</a>.</li>
+<li>On sait maintenant que le virus COVID-19 / SARS-CoV-2 s'attaque aussi <a href="https://www.les-crises.fr/coeur-rein-cerveau-le-coronavirus-ne-s-attaque-pas-qu-aux-poumons/">aux reins et à la peau</a>, et qu'il cause <strong>des micro-ischémies</strong> (autrement dit des micro-AVCs) chez <strong><a href="https://www.les-crises.fr/coeur-rein-cerveau-le-coronavirus-ne-s-attaque-pas-qu-aux-poumons/">presque 40% des survivants</a></strong>. De plus, "le neurologue constate que le retour à la normale, pour les patients Covid, semble prendre <strong>plus longtemps que pour ceux qui ont survécu à une crise cardiaque ou un AVC</strong>". Et ce en plus des atteintes au système pulmonaire, cardiovasculaire et métabolique comme nous <a href="https://gjsciences.com/coronavirus-covid-19-des-conseils-simples-et-pratiques-pour-vous-proteger-et-limiter-les-degats-si-malade/">le décrivions précédemment</a>.</li>
+<li>Partager C'est Sympa a fait une excellente vidéo expliquant le risque d'une reprise économique sans changer de fondements: "payer la dette du coronavirus" sera insurmontable. C'est logique, on ne peut demander à la population de payer pour les catastrophes humanitaires: ce n'est pas au monde de s'adapter à l'économie, mais à l'économie (construction virtuelle humaine) de s'adapter au monde et à ses catastrophes. À côté, la crise de 2008 et l'austérité meurtrière qui s'en est suivie fera figure de petit événement gentillet. À compléter avec <a href="https://www.youtube.com/watch?v=tH5EMxQbrQg">cette vidéo</a> du même auteur.<br><iframe src="https://www.youtube-nocookie.com/embed/0dkyKR9zX04" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></li>
+<li>Est-ce que le virus provient d'un laboratoire de Wuhan? Nous avions déjà mentionné cette hypothèse peu probable dans <a href="https://gjsciences.com/coronavirus-covid-19-ce-quon-ne-vous-dit-pas-mais-que-vous-devez-savoir/">notre 1er billet</a>. Depuis, le docteur en biologie Alexander Samuel a écrit <a href="https://rechercheindependante.blogspot.com/2020/04/sars-cov-2-arme-biologique.html">un billet très détaillé</a> sur les analyses génétiques faites sur ce virus. Résultat: tout indique que ce virus soit d'origine naturelle, ses mutations et sa généalogie étant bien trop complexes pour être de conception humaine. C'est bien simple: si nous étions capables de créer ce virus, nous aurions une technologie suffisante pour le soigner, lui et bien d'autres comme le SIDA. Au vu de ces analyses, nous sommes convaincus que la piste de l'ingénierie humaine est incorrecte. Néanmoins, il reste la possibilité qu'une erreur de manipulation en laboratoire ait permis au virus de s'échapper, et il aurait alors muté naturellement. Mais sa mutation n'est pas d'ingénierie humaine, c'est un "natural killer" si on peut dire. Enfin, <a href="https://www.sciencedirect.com/science/article/pii/S1567134820301829">le SARS-CoV-2 est en constante mutation</a>, montrant d'une part qu'il n'a besoin d'aucune intervention humaine pour trouver de nouvelles formes, et d'autre part montrant son incroyable et effrayante capacité d'adaptation.</li>
+<li>Les radiographies à rayon X sont inutiles pour voir les atteintes pulmonaires du COVID-19, il faut utiliser des <a href="https://www.diagnosticimaging.com/covid-19/chest-x-ray-isnt-reliable-detecting-covid-19-lung-infections">CT scans à haute résolution</a> (à rayon X aussi mais qui permettent une visualization en 3D et bien plus fine): x-ray useless, faut faire un ct scan. C'est ce qu'ils ont fait en asie et considéré comme <a href="https://healthcare-in-europe.com/en/news/imaging-the-coronavirus-disease-covid-19.html">critère de diagnostic par OMS, contrairement aux rayons X</a>. Voir aussi <a href="https://www.verywellhealth.com/medical-imaging-of-covid-19-4801178">ici</a> et <a href="https://radiopaedia.org/articles/covid-19-3">ici pour des images de référence</a>.</li>
+<li>Il est possible <a href="https://medium.com/@coronavirusnotalone/a-secret-simple-way-to-detect-the-coronavirus-without-a-test-for-everyone-9e06afb2823a">d'économiser le nombre de tests utilisés (et donc de pouvoir tester davantage de gens) en utilisant les statistiques</a>, soit la méthode simple en faisant des tests omnibus (on teste toute une sous-population avec un seul test), soit en modélisant l'indépendance probabiliste, ce qui permet de déduire à partir d'un test de population la probabilité que la population plus générale soit atteinte.</li>
+<li>N'écoutez pas <a href="https://www.youtube.com/watch?v=dRFbwjwQ4VE">Trump, celui-ci s'informe... par la TV sur Fox News</a>! C'est pour cela qu'il s'est jeté sur l'hydroxychloroquine et qu'il a ensuite critiqué le confinement (qu'il a lui-même décidé!). Merci à John Oliver pour ses analyses mélangeant habilement humour et informations fiables et esprit critique.</li>
+</ul>
+<hr>
+<p><em>Le texte de cet article est sous license Creative Commons <span class="cc-license-title">Attribution 4.0 International</span><span class="cc-license-identifier">(CC BY 4.0). Les images et vidéo sont les propriétés de leurs auteurs tels qu'indiqués en description ici ou sur la page liée.</span></em></p>
+<p><em>Image d'en-tête par <a href="https://pixabay.com/fr/vectors/virus-masquer-coronavirus-maladie-4999857/">cromaconceptovisual</a>, sous license Pixabay.</em></p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Coronavirus COVID-19: Des conseils SIMPLES et PRATIQUES pour vous protéger et limiter les dégâts si malade</title>
         <author>
@@ -23,7 +145,7 @@
             <category term="covid-19"/>
             <category term="coronavirus"/>
 
-        <updated>2020-04-15T23:02:37+02:00</updated>
+        <updated>2020-05-13T05:04:14+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://gjsciences.com/media/posts/75/covid19-conseils-pratiques-gjsciences-wide.png" alt="1- Portez un masque-torchon, 2- des lunettes (de vue ou de plongée), 3- un bonnet, 4- utilisez un spray d&#x27;eau de javel à 5° pour vous laver les mains et décontaminer les surfaces, 5- la prise de vitamine C pure 0.5 à 6g/j dès les 1er symptômes peut limiter l&#x27;aggravation pulmonaire et cardiaque due au COVID-19." />
@@ -712,10 +834,10 @@ Vu la différence entre les doses, ces deux usages ne nous semblent pas exclusif
 <p>Maintenant, la dernière pièce du puzzle, est de savoir quelle différence entre un masque fait maison et un masque chirurgical ou respirateur FFP2? La difficulté réside ici dans la variété des tissus disponibles, sans standard de filtration de particules puisque ce n'est pas le but initial de ces produits mais un détournement d'usage. <a href="https://smartairfilters.com/en/blog/best-materials-make-diy-face-mask-virus/">Il existe néanmoins plusieurs études à ce sujet</a>, et toutes convergent vers la conclusion qu'un masque fait maison offre une meilleure protection qu'aucune, mais celle-ci peut être extrêmement faible selon le tissu utilisé (écharpe, t-shirt, etc). Par contre, les torchons ont montré une efficacité très proche de celle des masques chirurgicaux dans au moins 2 études (<a href="https://www.researchgate.net/publication/258525804_Testing_the_Efficacy_of_Homemade_Masks_Would_They_Protect_in_an_Influenza_Pandemic">ici</a> et <a href="https://academic.oup.com/annweh/article/54/7/789/202744">ici</a>, repris par un document de référence de l'<a href="https://stanfordmedicine.app.box.com/v/covid19-PPE-1-1">Université de Stanford</a> - MAJ 06/04: nouvelle étude <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2440799/">ici</a> avec les masques-torchons conseillés aussi par <a href="https://smartairfilters.com/en/blog/diy-homemade-mask-protect-virus-coronavirus/">SmartAirFilters</a>).</p>
 <p>Pour résumer ces études, on a en théorie: Masque respirateur filtre à particules FFP2/N95 &gt;&gt; masque chirurgical &gt;&gt; masque fait maison.</p>
 <figure class="post__image post__image--center" ><img src="https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/annweh/54/7/10.1093/annhyg/meq044/2/m_annhygmeq044f06_lw.gif?Expires=1587836021&amp;Signature=IUMBfB8TXxpklvCYUlrYvi298MtPN4~lUk~BdlOCKEUvjPEzp4aNId1861jtbV1E56AuZsuXK1RuF4wnL~0B-aw8ZO51C6DyPd1vEsp61URTaZiW1pP38sIhtbGcSInG5N7vbV6o7nf1LTlRXNgLGIWfiMv0foj7XgsjJG54mlqow3Ek0h23c8g7ZYnMXIoNbuZLqe-QWr~frqiDEwrUA9xt1UnR2KDf70~mlbcGkLIQVSauCMCAfRc6xheT21SUNnQnCaQK0pGZDWRoQEEN7QCSiW4-srp66PE7roPvqx7Am3Ntc5Uk3-f9F8SQl2JwcJulZUczSB8bZ6et2TaP1A__&amp;Key-Pair-Id=APKAIE5G5CRDK6RD3PGA" alt="towel-homemade-mask-vs-N95">
-<figcaption >Masque fait maison à partir de torchons ou d'écharpe versus masque N95/FFP2, lors de tests de projections d'aérosols en condition de laboratoire (test théorique). Il y a certes une grande différence, mais les masques à base de torchon offrent une bonne protection d'environ 50% pour des nanoparticule de la taille du coronavirus COVID-19 d'environ 100nm. Extrait de <a href="https://www.researchgate.net/publication/258525804_Testing_the_Efficacy_of_Homemade_Masks_Would_They_Protect_in_an_Influenza_Pandemic">cette étude</a>.</figcaption>
+<figcaption >Masque fait maison à partir de torchons ou d'écharpe versus masque N95/FFP2, lors de tests de projections d'aérosols en condition de laboratoire (test théorique). Il y a certes une grande différence, mais les masques à base de torchon offrent une bonne protection d'environ 50% pour des nanoparticule de la taille du coronavirus COVID-19 d'environ 100nm. On voit également que la rapidité du flot de particules importe, puisque la pénétration est plus grande avec un flot plus rapide Extrait de <a href="https://academic.oup.com/annweh/article/54/7/789/202744">cette étude</a>.</figcaption>
 </figure>
 <figure class="post__image post__image--center" ><img src="https://gjsciences.com/media/posts/75/homemade-masks-figure2.png" width="881" height="357">
-<figcaption ><img alt=""><em>Comparaison de l'efficacité et de la respirabilité de masques fait maison à partir de différents tissus. La colonne "Bacteriophage MS2" concerne une bactérie d'une taille légèrement plus petite que le coronavirus COVID-19 / Sars-CoV-2. Le masque-torchon (Tea Towel) possède en moyenne une efficacité similaire au masque chirurgical, bien que la variabilité (SD - standard deviation) soit importante, et la respirabilité reste suffisante pour permettre le port pendant plusieurs heures. Extrait de cette <a href="https://academic.oup.com/annweh/article/54/7/789/202744">autre étude</a>.</em></figcaption>
+<figcaption ><img alt=""><em>Comparaison de l'efficacité et de la respirabilité de masques fait maison à partir de différents tissus. La colonne "Bacteriophage MS2" concerne une bactérie d'une taille légèrement plus petite que le coronavirus COVID-19 / Sars-CoV-2. Le masque-torchon (Tea Towel) possède en moyenne une efficacité similaire au masque chirurgical, bien que la variabilité (SD - standard deviation) soit importante, et la respirabilité reste suffisante pour permettre le port pendant plusieurs heures. Extrait de cette <a href="https://www.researchgate.net/publication/258525804_Testing_the_Efficacy_of_Homemade_Masks_Would_They_Protect_in_an_Influenza_Pandemic">autre étude</a>.</em></figcaption>
 </figure>
 <figure class="post__image post__image--center" ><img src="https://gjsciences.com/media/posts/75/DIY-Mask-Tea-Cloth-Particle-Capture-EN-768x547.jpg" alt="" width="768" height="547">
 <figcaption >Capacité de filtration "inward" (quand porté par une personne saine) des masques-torchons versus chirurgicaux versus FFP2/N95 pour les particules d'une taille entre 0.02 à 1 microns (le SARS-CoV-2 étant environ de 0.1 micron). Données venant du Tableau 1 de <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2440799/">cette étude</a> (calculez 1-(1/ProtectionFactor) pour retomber sur les pourcentages), image de <a href="https://smartairfilters.com/en/blog/diy-homemade-mask-protect-virus-coronavirus/">SmartAirFilters</a>.</figcaption>
@@ -3297,278 +3419,6 @@ https://twitter.com/AuryBouzar/status/1190618007019626502</pre>
 <p>Au niveau de l'évolution de la mobilisation, nous ne pouvons nous prononcer à l'échelle nationale, nous vous renvoyons vers Le Nombre Jaune.</p>
 <p>Cette semaine encore, le Ministère de l'Intérieur n'a donné aucune estimation du nombre total de gilets jaunes (tout comme les semaines précédentes). Ce qui est peut-être mieux, étant donné la minimisation systématique de leurs décomptes. Nous vous renvoyons vers <a href="http://gjsciences.com/2019/04/28/ministere-de-l-interieur-des-chiffres-divises-par-2-absurdement-minimises/">notre billet dédié</a>, démontrant de façon formelle la minimisation des chiffres du Ministère de l'Intérieur.</p>
 <p>Nous vous renvoyons vers notre dossier sur Twitter pour en savoir plus sur le #PitieGate de la manifestation du 1er Mai 2019, événement emblématique qui a fait prendre largement prendre conscience dans la sphère publique des violences policières sur tous les manifestants et journalistes (et pas seulement les gilets jaunes), avec toutes les preuves de ce «mensonge d'État» d'après David Dufresne, voire scandale d'État.</p>
-<p>https://twitter.com/i/moments/1124459414642208768</p>
-<p><em>Le texte de cet article est sous license Creative Commons <span class="cc-license-title">Attribution 4.0 International</span> <span class="cc-license-identifier"> (CC BY 4.0). Les images et vidéo sont les propriétés de leurs auteurs tels qu'indiqués en description ici ou sur la page liée. Image d’en-tête est notre composition à partir de dessins par <a class="hover_opacity" href="https://pixabay.com/fr/users/clker-free-vector-images-3736/">Clker-Free-Vector-Images</a> et <a class="hover_opacity" href="https://pixabay.com/fr/users/openclipart-vectors-30363/">OpenClipart-Vectors</a>, tous deux sous <a href="https://pixabay.com/fr/service/license/">license Pixabay</a>.</span></em></p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Comptage des gilets jaunes du samedi 26/10/2019 (Acte 50)</title>
-        <author>
-            <name>gjsciences</name>
-        </author>
-        <link href="https://gjsciences.com/comptage-des-gilets-jaunes-du-samedi-26102019-acte-50/"/>
-        <id>https://gjsciences.com/comptage-des-gilets-jaunes-du-samedi-26102019-acte-50/</id>
-            <category term="manifestation"/>
-            <category term="gilets-jaunes"/>
-            <category term="comptage de foule"/>
-            <category term="chili"/>
-            <category term="acte L"/>
-            <category term="acte 50"/>
-
-        <updated>2020-03-28T13:20:54+01:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://gjsciences.com/media/posts/66/comptage-entete-article-v3-vote-acte50.png" alt="" />
-                    <p>Comptage par densité scientifiquement fondé de l'acte L (acte 50) des gilets jaunes et autres manifestants convergents (chili, climat, grévistes, urgences, services publics, cheminots, syndicalistes, etc). Notre décompte est <strong>au pic de mobilisation</strong> et limité à un décompte local pour quelques villes pour lesquelles nous avons obtenu des données adéquates.</p>
-<p>En partenariat avec <a href="https://www.facebook.com/lenombrejaune/">Le Nombre Jaune</a>, avec lequel nous échangeons des données, et que nous vous invitons à consulter pour un décompte à l'échelle nationale.</p>
-<p><strong>N'oubliez pas que le vote pour la tenue d'un référendum sur la (non-)privatisation des aéroports d'ADP est toujours en cours, toutes les instructions sur <a href="https://www.adprip.fr">adprip.fr</a>!</strong></p>
-
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://gjsciences.com/media/posts/66/comptage-entete-article-v3-vote-acte50.png" alt="" />
-                <p>Comptage par densité scientifiquement fondé de l'acte L (acte 50) des gilets jaunes et autres manifestants convergents (chili, climat, grévistes, urgences, services publics, cheminots, syndicalistes, etc). Notre décompte est <strong>au pic de mobilisation</strong> et limité à un décompte local pour quelques villes pour lesquelles nous avons obtenu des données adéquates.</p>
-<p>En partenariat avec <a href="https://www.facebook.com/lenombrejaune/">Le Nombre Jaune</a>, avec lequel nous échangeons des données, et que nous vous invitons à consulter pour un décompte à l'échelle nationale.</p>
-<p><strong>N'oubliez pas que le vote pour la tenue d'un référendum sur la (non-)privatisation des aéroports d'ADP est toujours en cours, toutes les instructions sur <a href="https://www.adprip.fr">adprip.fr</a>!</strong></p>
-<hr>
-<p><a href="http://gjsciences.com/2019/01/17/pourquoi-ce-blog-comment-les-comptages-sont-calcules/">Notre méthode de comptage</a>, rigoureuse, vérifiable et scientifique, se fonde sur le comptage par densité de Jacobs appliqué aux photographies non-aériennes selon Dillon Cariveau avec les règles de crédibilité de McPhail et McCarthy, avec <a href="http://gjsciences.com/2019/03/15/evolutions-dans-notre-methode-de-comptage/">un score de précision</a> pour qualifier la marge d'erreur de chaque décompte. Notre méthode est la même que celle utilisée par les <a href="https://fullfact.org/europe/peoples-vote-march-count/">fact-checkers</a> et <a href="https://qrius.com/estimating-crowd-sizes-math/">historiens</a>. Nous nous basons uniquement sur des preuves observables (photographies et vidéos assez en hauteur et en suffisante qualité et bien localisées/datées), jamais sur les chiffres d'autres observateurs, bien que nous puissions les mentionner pour donner du contexte. Nous détaillons ici notre décompte ville par ville, avec les données sources utilisées et notre méthode pour calculer chacun.</p>
-<p>Ce décompte ne se veut pas exhaustif, mais <strong>représentatif</strong> du nombre de manifestants dans <strong>un</strong> cortège dans <strong>un</strong> lieu précis et à <strong>un</strong> moment donné. Autrement dit, c'est un <strong>instantané à minima</strong> de ce qu'on peut observer sur photo ou vidéo, et ne peut constituer un décompte exhaustif mais simplement donner un ordre d'idée de la mobilisation. Notez qu'<strong>avec <a href="https://www.facebook.com/lenombrejaune/">Le Nombre Jaune</a> nous sommes les seuls à fournir un comptage basé sur des données sourcées et détaillées</strong>.</p>
-<p>Nous ne cachons pas que nous sommes engagés, et cela n'entame en rien notre soucis d'objectivité: l'objectivité s'atteint par une méthode, pas par la neutralité de ses pensées. Tout comme plus personne, et les scientifiques les premiers, ne peut plus rester neutre face aux catastrophes causées par le changement climatique, nous nous engageons afin que les méthodes scientifiques aient un impact positif sur la société.</p>
-<p>Nous échangeons des données avec Le Nombre Jaune depuis l'Acte 11, et ceux-ci reprennent régulièrement nos décomptes pour certaines villes, principalement les gros rassemblements sur lesquels notre méthode par densité est plus adaptée.</p>
-<p>Nos comptages se fait <strong>au pic de mobilisation</strong> (donc à une heure variable) autant que possible (selon les données qui nous parviennent), contrairement au Ministère de l'Intérieur qui fournit deux chiffres <strong>à heures fixes</strong> (14h et 18h respectivement, voir ce billet pour plus d'informations sur <a href="http://gjsciences.com/2019/04/28/ministere-de-l-interieur-des-chiffres-divises-par-2-absurdement-minimises/">leur méthode</a>). D'autre part, nous considérons les manifestations convergentes, tandis que <a href="http://gjsciences.com/2019/03/18/convergence-gilets-jaunes-et-gilets-verts-ou-recuperation-la-fake-news-des-macronistes/">le Ministère les exclut</a>.</p>
-<p>Enfin, il est à noter que nous décomptons selon les données que nous arrivons à nous procurer (images assez en hauteur pour estimer la densité, plan assez large pour estimer périmètre, lieu et heure assez précis). Si vous avez de meilleures images/vidéos, n'hésitez pas à nous en faire part en commentaire!</p>
-<p>Les données (photos, vidéos) ont été soit échangées avec le collectif Le Nombre Jaune (groupe Facebook Le Nombre Jaune), soit trouvées sur Twitter (recherche avec les mots clés: #giletsjaunes ville, où ville est remplacé par la ville) soit ailleurs sur Facebook (mots clés: gilets jaunes ville live).</p>
-<p><strong>Nous tenons à remercier chaleureusement les auteurs des photos et vidéos que nous utilisons ici ou que nous avons considéré pour notre comptage: nous ne pourrions rien faire sans vous! Nos référents terrains prennent d'ailleurs de plus en plus de risques avec la montée de la répression policière. Observer et compter est devenue une activité risquée. </strong>De même pour les auteurs de données que nous n'avons pas pu utiliser, nous vous remercions tout autant, car toutes les photos et vidéos de foules sont utiles dans notre processus de sélection, soyez-en certains!</p>
-<p>De plus en plus d'autres acteurs convergent avec le mouvement des gilets jaunes, aussi nos décomptes intègrent également ces acteurs qui se joignent aux cortèges des gilets jaunes (puisque, comme pour la <a href="http://gjsciences.com/2019/03/17/comptage-des-gilets-jaunes-marche-pour-le-climat-du-samedi-16-03-2019-acte-xviii/">manifestation pour le climat</a>, il n'y a aucun moyen de différencier ces manifestants qui participent aux mêmes cortèges).</p>
-<p> </p>
-<div class="post__toc">
-<h3>Table of Contents</h3>
-<ul>
-<li><a href="#mcetoc_1e4gh3ch20">Score de précision et marge d'erreur</a></li>
-<li><a href="#mcetoc_1e4gh3ch21">Comptage ultra-précis par vision artificielle</a></li>
-<li><a href="#mcetoc_1e4gh3ch22">Comptage par ville</a>
-<ul>
-<li><a href="#mcetoc_1e4gh3ch23">Paris</a>
-<ul>
-<li><a href="#mcetoc_1e4gh3ch24">Avant-propos</a></li>
-<li><a href="#mcetoc_1e4gh3ch25">Donnée 1</a></li>
-<li><a href="#mcetoc_1e4gh3ch26">Donnée 2</a></li>
-<li><a href="#mcetoc_1e4gh3ch27">Donnée 3</a></li>
-<li><a href="#mcetoc_1e4gh3ch28">Donnée 4</a></li>
-<li><a href="#mcetoc_1e4gh3ch29">Donnée 5</a></li>
-<li><a href="#mcetoc_1e4gh3ch3a">Donnée 6</a></li>
-</ul>
-</li>
-<li><a href="#mcetoc_1e4gh3ch3b">Toulouse</a>
-<ul>
-<li><a href="#mcetoc_1e4gh3ch3c">Donnée 1</a></li>
-<li><a href="#mcetoc_1e4gh3ch3d">Donnée 2</a></li>
-</ul>
-</li>
-<li><a href="#mcetoc_1e4gh3ch3e">Épinal</a></li>
-<li><a href="#mcetoc_1e4gh3ch3f">Saint-Étienne</a></li>
-<li><a href="#mcetoc_1e4gh3ch3g">Villes non décomptées</a></li>
-</ul>
-</li>
-<li><a href="#mcetoc_1e4gh3ch3h">Tableau récapitulatif</a></li>
-<li><a href="#mcetoc_1e4gh3ch3i">Conclusion</a></li>
-</ul>
-</div>
-<h2 id="mcetoc_1e4gh3ch20">Score de précision et marge d'erreur</h2>
-<p>Depuis l'Acte XV, nous dérivons pour chaque décompte par densité <a href="http://gjsciences.com/2019/03/15/evolutions-dans-notre-methode-de-comptage/">un score de précision (voir ici pour plus d'infos)</a>. Nous prenons en compte ce score de précision lorsque nous choisissons le chiffre final à rapporter pour une ville (par exemple, entre un chiffre haut à précision faible, et un chiffre plus bas à précision haute, nous choisissons celui à précision haute. Lorsque la précision est moyenne pour le chiffre haut, nous pouvons rapporter les deux).</p>
-<p>Nous avons depuis calibré plus précisément nos méthodes, en voici un brief résumé, nous écrirons tout cela plus en détail dans un futur billet:</p>
-<ul>
-<li>analyse de sensibilité par variation des paramètres du géobalisage, ce qui donne des intervalles de décompte plutôt qu'un seul nombre. Le principe est d'abord de calculer selon les paramètres les plus plausibles, puis de varier vers le bas, afin de donner une fourchette plus basse (et nous considérons les paramètres les plus plausibles comme la fourchette haute -- ce qui permet de diminuer encore le risque de sur-estimation). Cela permet de mieux quantifier et représenter l'incertitude dans les mesures et notre marge d'erreur, et nous pensons que l'interprétation est également davantage intuitive de cette façon.</li>
-<li>préférence donnée aux décomptes de cortèges statiques: la méthode de comptage par densité a été construite et optimisée pour des cortèges statiques. Bien que nous l'ayons adaptée avec succès pour les cortèges mobiles, la marge d'erreur reste plus grande que pour les cortèges statiques, puisque les mouvements acroissent la possibilité de "trous", c'est-à-dire plus techniquement de variations dans la densité du cortège. Aussi, pour un même cortège, s'il y a des moments ou des données permettant de l'observer quand il est statique, ces décomptes seront préférés aux décomptes lorsqu'il est mobile.</li>
-<li>la qualité des vidéos est davantage prise en compte: une vidéo HD permettra plus souvent un décompte avec une précision plus élevée qu'une vidéo de mauvaise qualité, puisque la distance de vue est alors limitée.</li>
-<li>les horodatages codifiés, avec l'utilisation de "à" pour dénoter la précision lorsque nous utilisons l'horodatage d'un live Facebook -- seuls lives dont l'horodatage peut être considéré fiable en général car calculé en début de live et non pas en fin d'upload -- versus "vers" lorsque nous utilisons un horodatage plus imprécis comme celui de Twitter qui n'horodate que l'heure de fin d'upload; etc), dont nous écrirons les détails dans un futur billet.</li>
-<li>Nous songeons à modifier le score de précision pour le séparer en 2: un pour chaque paramètre, soit un pour la densité et un pour la superficie. En attendant, nous n'ajoutons que les critères qui permettent de délimiter précisément. Par exemple, une vidéo en hauteur mais qui ne permet pas de bien observer la superficie du cortège (par exemple car le feuillage d'un arbre obstrue la vue au loin) ne recevra pas forcément le critère C5 (mais si la hauteur permet une meilleure estimation de la densité alors le critère C5 pourrait être attribué). Autre exemple: si la vidéo est filmée en hauteur puis que le vidéaste se déplace autour de la foule, le critère C5 pourrait être attribué mais pas le critère C6 si le déplacement autour de la foule n'apporte pas plus de précision par rapport au plan filmé en hauteur (C5). L'idée est que si un critère est rempli mais que cela n'aide pas pour autant à améliorer la précision sur un des paramètres, nous ne l'ajoutons pas, et le score de précision sera donc plus faible que lors de précédents décomptes similaires avec notre ancienne méthode.</li>
-</ul>
-<h2 id="mcetoc_1e4gh3ch21">Comptage ultra-précis par vision artificielle</h2>
-<p>Nous intégrons les décomptes issus du travail remarquable de <a href="https://www.youtube.com/channel/UC9HZDCZvWGtxrBa2U-Z1kNQ"><strong>Henri Deadlonexus</strong></a>, qui a conçu une méthode de comptage assistée par ordinateur! Cette méthode est ultra-précise, puisque fondée sur la <strong>vision artificielle</strong> (sous-domaine de l'intelligence artificielle), qui consiste à détecter automatiquement les passants.</p>
-<p>Cette méthode est qualifiée d'<strong>ultra-précise</strong> puisqu'elle compte <strong>exactement chaque manifestants, un par un, sans aucune approximation</strong>, contrairement aux autres méthodes "humaines" comme la méthode par densité ou à vue. En effet, la machine a la possibilité de tracker/suivre un nombre quasi illimité de passants simultanément, quant le cerveau humain est limité à environ 7.</p>
-<p>Cette méthode n'est bien entendu pas parfaite, et présente les défis usuels en vision artificielle: occlusion, plan stables, intensité lumineuse de la scène, etc. C'est pourquoi cette méthode est vérifiée manuellement par un opérateur, en l'occurrence Henri, qui vérifie que chaque manifestant est bien détecté et détecté une fois (une boite de couleur apparait sur la tête du manifestant). De cette façon, avec la vérification manuelle, il est possible <strong>d'éliminer le risque de sur-estimation</strong>. D'autre part, l'algorithme utilisé prend en compte la <strong>direction</strong> des manifestants, en différenciant la zone de détection des passants (zone d'entrée) et la zone de comptage (zone d'arrivée).</p>
-<p>Le code couleur est le suivant:</p>
-<ul>
-<li>Boite <strong><span style="color: #3366ff;">bleue</span></strong>: passant détecté, mais pas encore compté.</li>
-<li>Boite <strong><span style="color: #339966;">verte</span></strong>: passant détecté et compté, car arrivé en zone de comptage.</li>
-<li>Boite <strong><span style="color: #ff00ff;">rose</span></strong>: passant rajouté manuellement car pas détecté par la machine.</li>
-</ul>
-<p>Lorsque disponible, nous fournissons les vidéos de ces décomptes dans des sous-sections nommées "<strong>Décompte par vision artificielle</strong>".</p>
-<p>Pour plus de détails techniques, voici ce que décrit l'auteur:</p>
-<blockquote>
-<p>Liste non exhaustive des outils:</p>
-<p>Frameworks:<br> * Qt5 : <a class="yt-simple-endpoint style-scope yt-formatted-string" spellcheck="false" href="https://www.youtube.com/redirect?event=video_description&amp;q=https%3A%2F%2Fwww.qt.io%2F&amp;redir_token=dOl815uA7eBamnoldPu-hh8nazZ8MTU1NjQ5ODQzNkAxNTU2NDEyMDM2&amp;v=ARi1VTaqL4I" target="_blank" rel="nofollow noopener noreferrer">https://www.qt.io/</a><br> * MXNet : <a class="yt-simple-endpoint style-scope yt-formatted-string" spellcheck="false" href="https://www.youtube.com/redirect?event=video_description&amp;q=https%3A%2F%2Fmxnet.apache.org%2F&amp;redir_token=dOl815uA7eBamnoldPu-hh8nazZ8MTU1NjQ5ODQzNkAxNTU2NDEyMDM2&amp;v=ARi1VTaqL4I" target="_blank" rel="nofollow noopener noreferrer">https://mxnet.apache.org/</a><br> * Ubuntu 18.04 CUDA 10 : <a class="yt-simple-endpoint style-scope yt-formatted-string" spellcheck="false" href="https://www.youtube.com/redirect?event=video_description&amp;q=https%3A%2F%2Fwww.nvidia.fr%2Fobject%2Fcuda-parallel-computing-fr.html&amp;redir_token=dOl815uA7eBamnoldPu-hh8nazZ8MTU1NjQ5ODQzNkAxNTU2NDEyMDM2&amp;v=ARi1VTaqL4I" target="_blank" rel="nofollow noopener noreferrer">https://www.nvidia.fr/object/cuda-par...</a><br> * OpenCV4 : <a class="yt-simple-endpoint style-scope yt-formatted-string" spellcheck="false" href="https://www.youtube.com/redirect?event=video_description&amp;q=https%3A%2F%2Fopencv.org%2F&amp;redir_token=dOl815uA7eBamnoldPu-hh8nazZ8MTU1NjQ5ODQzNkAxNTU2NDEyMDM2&amp;v=ARi1VTaqL4I" target="_blank" rel="nofollow noopener noreferrer">https://opencv.org/</a></p>
-<p>Algorithmes de calculs exterieurs:<br> * Détection d'objets: Faster R-CNN : <a class="yt-simple-endpoint style-scope yt-formatted-string" spellcheck="false" href="https://www.youtube.com/redirect?event=video_description&amp;q=https%3A%2F%2Fgithub.com%2Fijkguo%2Fmx-rcnn&amp;redir_token=dOl815uA7eBamnoldPu-hh8nazZ8MTU1NjQ5ODQzNkAxNTU2NDEyMDM2&amp;v=ARi1VTaqL4I" target="_blank" rel="nofollow noopener noreferrer">https://github.com/ijkguo/mx-rcnn</a><br> * Tracking: Optical Flow : <a class="yt-simple-endpoint style-scope yt-formatted-string" spellcheck="false" href="https://www.youtube.com/redirect?event=video_description&amp;q=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FOptical_flow&amp;redir_token=dOl815uA7eBamnoldPu-hh8nazZ8MTU1NjQ5ODQzNkAxNTU2NDEyMDM2&amp;v=ARi1VTaqL4I" target="_blank" rel="nofollow noopener noreferrer">https://en.wikipedia.org/wiki/Optical...</a></p>
-<p>Et plus de 10000 lignes de code perso.</p>
-</blockquote>
-<h2 id="mcetoc_1e4gh3ch22">Comptage par ville</h2>
-<h3 id="mcetoc_1e4gh3ch23">Paris</h3>
-<h4 id="mcetoc_1e4gh3ch24">Avant-propos</h4>
-<p>Cette manifestation est convergente entre gilets jaunes et pro-manifestants chiliens.</p>
-<h4 id="mcetoc_1e4gh3ch25">Donnée 1</h4>
-<p>Source: au départ de manifestation au métro Bercy:</p>
-<p>https://twitter.com/maroc_online/status/1188065726659252230</p>
-<p><a href="https://www.mapchecking.com/#48.8400302,2.3799936;48.8398987,2.3796122;48.8399525,2.3795317;48.8400293,2.3794741;48.8401176,2.3794137;48.8402093,2.3793496;48.8402499,2.3793081;48.8402878,2.3792772;48.8403405,2.3792066;48.8403775,2.3791449;48.8404164,2.3791208;48.8404755,2.3789880;48.8404517,2.3789370;48.8403617,2.3790376;48.8403475,2.3790645;48.8402910,2.3791275;48.8401525,2.3792468;48.8401251,2.3792938;48.8399383,2.3792769;48.8397521,2.3793882;48.8397894,2.3795348;48.8398247,2.3797265;48.8398255,2.3798181;48.8399040,2.3797618;48.8399958,2.3800206;1;48.8404453,2.3774174,18">Géobalisage MapChecking</a>. Cortège mobile. Densité mobile entre légère et moyenne de (0.627+1.394)/2 = 1 m²/personne.</p>
-<p>Nous décomptons environ 1 200 manifestants dans ce cortège à Paris.</p>
-<p>Critères: C1-C4, C5. Précision: <strong><span style="color: #ff9900;">Moyenne</span></strong>.</p>
-<h4 id="mcetoc_1e4gh3ch26">Donnée 2</h4>
-<p>Source:</p>
-<p>https://twitter.com/CharlesBaudry/status/1188071982597922817</p>
-<p><a href="https://www.mapchecking.com/#48.8393734,2.3929275;48.8392860,2.3919307;48.8392719,2.3917790;48.8390495,2.3917998;48.8390601,2.3919814;48.8391495,2.3929584;48.8391766,2.3929518;48.8390765,2.3917971;48.8390952,2.3917999;48.8391962,2.3929480;48.8392323,2.3929483;48.8391281,2.3917926;48.8391528,2.3917981;48.8392543,2.3929448;1.6;48.8393042,2.3903326,18">Géobalisage MapChecking</a>. Cortège mobile. Densité mobile moyenne de 0.627 m²/personne.</p>
-<p>Environ 2 800 manifestants dans ce cortège à Paris.</p>
-<p>Critères: C1-C4, C5. Précision: Moyenne.</p>
-<h4 id="mcetoc_1e4gh3ch27">Donnée 3</h4>
-<p>Source:</p>
-<p>https://twitter.com/MiguelMtzCo/status/1188080955354947584</p>
-<p><a href="https://www.mapchecking.com/#48.8390745,2.3909025;48.8390004,2.3901870;48.8390247,2.3901793;48.8390982,2.3908957;48.8391928,2.3908878;48.8391319,2.3901247;48.8389086,2.3901917;48.8389802,2.3909098;1.6;48.8388579,2.3885403,18">Géobalisage MapChecking</a>. Cortège mobile. Densité moyenne de 0.627 m²/personne ou haute de 2.5 personnes/m².</p>
-<p>Nous décomptons entre 1 900 et 3 000 manifestants dans ce cortège à Paris.</p>
-<p>Critères: C1-C4, C5. Précision: <strong><span style="color: #ff9900;">Moyenne</span></strong>.</p>
-<h4 id="mcetoc_1e4gh3ch28">Donnée 4</h4>
-<p>Source:</p>
-<p>https://twitter.com/AD12369002/status/1188089795035238403</p>
-<p><a href="https://www.mapchecking.com/#48.8472819,2.3957668;48.8472843,2.3959556;48.8473799,2.3959346;48.8474191,2.3957688;48.8474189,2.3955505;48.8473138,2.3955105;48.8472880,2.3956716;48.8457498,2.3953530;48.8457428,2.3954777;1.6;48.8470650,2.3915754,17">Géobalisage MapChecking</a>. Cortège mobile. Densité mobile entre légère et moyenne de 1 m²/personne, ou moyenne de 0.627 m²/personne.</p>
-<p>Nous décomptons entre 1 800 et 2 800 manifestants dans ce cortège à Paris.</p>
-<p>Critères: C1-C4. Précision: <strong><span style="color: #ff0000;">Faible</span></strong>.</p>
-<h4 id="mcetoc_1e4gh3ch29">Donnée 5</h4>
-<p>Source:</p>
-<p>https://twitter.com/J_Rodrigues_Off/status/1188078281117048832</p>
-<p>Peut-être synchronisable avec:</p>
-<p>https://twitter.com/Franco57124579/status/1188076618956324864</p>
-<p><a href="https://www.mapchecking.com/#48.8396040,2.3991473;48.8397284,2.3991473;48.8397881,2.3996140;48.8399063,2.3997038;48.8399880,2.3998190;48.8400494,2.3999499;48.8400618,2.4000666;48.8400609,2.4001631;48.8399779,2.4002610;48.8398640,2.4001068;48.8397263,2.3997769;48.8396328,2.3995261;1.5;48.8399710,2.3983261,18">Géobalisage MapChecking</a>. Cortège statique. Densité statique entre légère et moyenne de 1.5 personnes/m².</p>
-<p>Nous décomptons environ 2 300 manifestants dans ce cortège à Paris.</p>
-<p>Critères: C1-C4, C5. Précision: <strong><span style="color: #ff9900;">Moyenne</span></strong>.</p>
-<h4 id="mcetoc_1e4gh3ch3a">Donnée 6</h4>
-<p>Source: filmée à 15h58 (heure Facebook Live), curseur à partir de 24:30 (16h23 heure réelle):</p>
-<p>https://www.facebook.com/jerome.gravier.161/videos/190695878758081/UzpfSTEyMzcyNjIwMDA6Vks6NjUwNTA3NDM4ODEwOTQz/</p>
-<p><a href="https://www.mapchecking.com/#48.8506322,2.3946861;48.8506136,2.3943763;48.8502041,2.3946766;48.8497892,2.3949609;48.8498395,2.3951527;48.8502376,2.3949127;1.5;48.8507712,2.3926110,18">Géobalisage MapChecking</a>. Cortège statique. Effet de goulot d'étranglement (car les manifestants attendent pour passer un feu). Densité statique entre légère et moyenne de 1.5 personnes/m² ou moyenne de 2 personnes/m².</p>
-<p>Nous décomptons entre 2 600 et 3 200 manifestants dans ce cortège à Paris à 16h23 (heure Facebook Live + curseur).</p>
-<p>Critères: C1-C4. Précision: <span style="color: #ff0000;"><strong>Faible</strong></span>.</p>
-<p>Une vidéo est disponible pour <a href="https://www.facebook.com/thierry.toutefer/videos/10221076942412376/UzpfSTE1MjMxOTkwNTU6Vks6NjUwNDMzNjUyMTUxNjU1/">comptage à vue partiel</a> (à partir de 3:30).</p>
-<p>D'autres données sont disponibles:</p>
-<pre>* BEST: https://twitter.com/CharlesBaudry/status/1188171207084007424/photo/3
-* https://twitter.com/NiemandsKnegt/status/1188073065487519744
-* https://twitter.com/MiguelMtzCo/status/1188093955654729728
-* https://twitter.com/AnonymeCitoyen/status/1188113976531587072
-* https://twitter.com/ohboywhatashot/status/1188105825635721216
-* https://twitter.com/AD12369002/status/1188140162422845440
-* https://twitter.com/AD12369002/status/1188084467346366464
-* https://twitter.com/TulatzC/status/1188095548546572289
-* https://twitter.com/maroc_online/status/1188092496703827968
-* https://twitter.com/fxenquete/status/1188114400504438787
-* https://twitter.com/AnonGilet/status/1188101521180889089
-* BEST: https://twitter.com/AD12369002/status/1188089795035238403
-* https://twitter.com/Callystor/status/1188081750720897024
-* https://twitter.com/Fayafay77046283/status/1188100580541194241
-* https://twitter.com/Fayafay77046283/status/1188075771463688193
-* https://twitter.com/Fayafay77046283/status/1188069000640630784
-* https://twitter.com/CharlesBaudry/status/1188081415868571648
-* BEST: https://twitter.com/AnonGilet/status/1188068243111583747
-* BEST: https://twitter.com/Franco57124579/status/1188067576255045632
-* https://twitter.com/Franco57124579/status/1188090790972739585
-* https://www.facebook.com/269850326833621/videos/727924224342850/UzpfSTEwMDAwMjk2MTc4MTM0ODpWSzo2NTA0NTkwODIxNDkxMTI/
-* Comptage à vue 3:30 https://www.facebook.com/thierry.toutefer/videos/10221076942412376/UzpfSTE1MjMxOTkwNTU6Vks6NjUwNDMzNjUyMTUxNjU1/
-* Autres données:
-https://twitter.com/HZ_Press/status/1188149264280629248
-https://twitter.com/HZ_Press/status/1188151597265801216
-* Autres cortèges:
-https://twitter.com/AnonymeCitoyen/status/1188048172129619968</pre>
-<h3 id="mcetoc_1e4gh3ch3b">Toulouse</h3>
-<h4 id="mcetoc_1e4gh3ch3c">Donnée 1</h4>
-<p>Source:</p>
-<p>https://twitter.com/chriscoutens/status/1188072052374331392</p>
-<p><a href="https://www.mapchecking.com/#43.6060968,1.4490625;43.6062716,1.4493656;43.6060773,1.4495748;43.6057141,1.4490330;43.6057996,1.4489392;43.6059841,1.4491913;0.7;43.6064186,1.4472781,18">Géobalisage MapChecking</a>. Cortège mobile. Densité mobile soit légère de 1.394 m²/personne soit entre légère et moyenne de 1 m²/personne.</p>
-<p>Nous décomptons entre 800 et 1 200 manifestants dans ce cortège à Toulouse vers 14h37 (heure Twitter).</p>
-<p>Critères: C1-C4. Précision: <strong><span style="color: #ff0000;">Faible</span></strong>.</p>
-<h4 id="mcetoc_1e4gh3ch3d">Donnée 2</h4>
-<p>Source:</p>
-<p>https://twitter.com/chriscoutens/status/1188065948659605505</p>
-<p><a href="https://www.mapchecking.com/#43.6063066,1.4494057;43.6061017,1.4490704;43.6059755,1.4492032;43.6062105,1.4495479;1.5;43.6063328,1.4483286,19">Géobalisage MapChecking</a>. Cortège statique. Densité statique entre légère et moyenne de 1.5 personnes/m².</p>
-<p>Nous décomptons environ 915 manifestants dans ce cortège à Toulouse vers 14h12 (heure Twitter).</p>
-<p>Critères: C1-C4, C7. Précision: <strong><span style="color: #ff9900;">Moyenne</span></strong>.</p>
-<p>Pour contexte, le web documentariste <a href="https://twitter.com/chriscoutens/status/1188065948659605505">Chris Coutens</a> estime à environ 1 000 manifestants sur place.</p>
-<p>D'autres données sont disponibles:</p>
-<pre>* https://twitter.com/AlexKeirle/status/1188114514019078146
-* https://twitter.com/GiletsToulouse/status/1188074141271896064
-* https://twitter.com/GiletsToulouse/status/1188074141271896064
-* https://twitter.com/laurentbigotfr/status/1188180263710416897
-* https://twitter.com/laurentbigotfr/status/1188110795370123264
-* https://twitter.com/laurentbigotfr/status/1188073356475731969
-* https://twitter.com/GiletsToulouse/status/1188081728897847296</pre>
-<h3 id="mcetoc_1e4gh3ch3e">Épinal</h3>
-<p>Source:</p>
-<p>https://twitter.com/mazoudemetz/status/1188079551131410433</p>
-<p>Comptage à vue, chaque manifestant un par un (et pas par ligne): entre 400 et 450 manifestants à Épinal vers 15:06 (heure Twitter). Précision: <strong><span style="color: #339966;">Vérifié</span></strong> (comptage un à un par un humain).</p>
-<p>Une autre donnée est disponible (<a href="https://twitter.com/mazoudemetz/status/1188073670490673154/photo/3">ici</a>).</p>
-<h3 id="mcetoc_1e4gh3ch3f">Saint-Étienne</h3>
-<p>Source:</p>
-<p>https://twitter.com/Leprogresloire/status/1188054336909258756</p>
-<p><a href="https://www.mapchecking.com/#45.4438163,4.4191360;45.4437852,4.4191481;45.4437034,4.4189523;45.4437401,4.4187042;45.4438201,4.4182817;45.4438483,4.4182965;45.4437796,4.4187525;45.4437467,4.4189452;1;45.4439394,4.4177400,19">Géobalisage MapChecking</a>. Cortège mobile. Densité mobile entre légère et moyenne, soit 1 m²/personne.</p>
-<p>Nous décomptons environ 300 manifestants dans ce cortège à Saint-Étienne vers 13h26 (heure Twitter).</p>
-<p>Critères: C1-C4. Précision: <strong><span style="color: #ff9900;">Moyenne</span></strong> (car on voit la tête et le bout du cortège)</p>
-<p>Pour contexte, les journalistes de <a href="https://twitter.com/Leprogresloire/status/1188148299699806212">Le Progrès Loire</a> estiment à environ 400 manifestants.</p>
-<p>D'autres données sont disponibles:</p>
-<pre>* https://twitter.com/Leprogresloire/status/1188064766746607621
-* https://twitter.com/Leprogresloire/status/1188114791375818752
-* https://twitter.com/Leprogresloire/status/1188096267127345152
-* https://twitter.com/Leprogresloire/status/1188080726593429505
-* https://twitter.com/Leprogresloire/status/1188068478139424770
-* https://www.facebook.com/sam.sun.351756/videos/1883460965132596/UzpfSTEwMDE2ODc3NzY6Vks6NjUwNTA4OTA1NDc3NDYz/</pre>
-<h3 id="mcetoc_1e4gh3ch3g">Villes non décomptées</h3>
-<pre>Compilation de plusieurs villes avec sources:
-https://twitter.com/Newbieur/status/1188136115930357762
-
-BORDEAUX
-* https://www.facebook.com/433970163807042/videos/2690521054338327/UzpfSTEwMDA0MTQzNzMxMjk0MjpWSzo2NTA0NzQ0Njg4MTQyNDA/?filter=1201797846679423&amp;post=650474468814240
-30:25
-50:45 (mais groupe réduit)
-
-SIVENS:
-* 200 personnes? https://twitter.com/Yonnescaut/status/1188066821938864128
-et https://twitter.com/cametoulouse/status/1188093078520905729
-
-ROUEN
-Autres:
-https://twitter.com/Lilaafa_RT/status/1188087615557423105
-https://twitter.com/AiphanMarcel/status/1188084146716807169
-
-BARCELONA
-* BEST: https://twitter.com/CataloniaHelp1/status/1188129348945100800 et https://twitter.com/CataloniaHelp1/status/1188129161598115841
-* https://twitter.com/NiemandsKnegt/status/1188125212581216256
-
-OTHER
-* https://twitter.com/CataloniaHelp1/status/1185946503069753344
-* https://twitter.com/AnonymeCitoyen/status/1185980883968430080
-* https://twitter.com/CataloniaHelp1/status/1188150918648418304
-* https://twitter.com/CataloniaHelp1/status/1188150078348902401
-* https://twitter.com/AnonymeCitoyen/status/1188141938224041984
-
-CHILI
-* https://twitter.com/AnonymeCitoyen/status/1186327397072805888
-* https://twitter.com/sahouraxo/status/1187918693793226752
-* https://twitter.com/JeanHugon3/status/1187859518086103040
-* https://twitter.com/KarlaEnAccion/status/1187842485315354624
-* https://twitter.com/CerveauxNon/status/1187834133961232386
-* https://twitter.com/telesurenglish/status/1187850470611734528
-* https://twitter.com/pablonav1/status/1187867335769628673
-* https://twitter.com/BNONews/status/1187866371327250439
-* https://twitter.com/ohboywhatashot/status/1188119382188347392
-violences:
-* https://twitter.com/Fayafay77046283/status/1187319973586317313
-* https://twitter.com/Fayafay77046283/status/1186364027070537733
-* https://twitter.com/Fayafay77046283/status/1186363346070786050
-* https://twitter.com/CerveauxNon/status/1186039765247901696</pre>
-<h2 id="mcetoc_1e4gh3ch3h">Tableau récapitulatif</h2>
-<p>[vtftable]<br> <strong>Ville</strong>;;;<strong>Décompte</strong>;;;<strong>Heure</strong>;;;<strong>Précision</strong>;nn;<br> Paris;;;2 600 à 3 200;;;16h23;;;-;nn;<br> Toulouse;;;800 à 1 200;;;14h37;;;-;nn;<br> Épinal;;;400 à 450;;;15h06;;;<strong><span style="color: #339966;">Vérifié</span></strong>;nn;<br> Saint-Étienne;;;300;;;13h26;;;-;nn;<br> [/vtftable]</p>
-<h2 id="mcetoc_1e4gh3ch3i">Conclusion</h2>
-<p>Nous décomptons un <strong>total de 4 100 à 5 150 manifestants, sur 4 villes </strong>pour lesquelles nous avons eu des données utilisables pour un comptage par densité ou par vision artificielle, dont au moins 2 600 à 3 200 à Paris, 800 à 1 200 à Toulouse, 400 à 450 à Épinal et environ 300 à Saint-Étienne. Rappelons que nous ne gardons que 3 chiffres significatifs pour le total (sauf quand nous oublions de faire cet arrondi).</p>
-<p>Ce chiffrage ne se veut pas exhaustif à l'échelle nationale, mais représentatif de la mobilisation à minima pour les villes pour lesquelles nous avons eu assez de données pour faire un décompte par densité. Pour un décompte plus exhaustif, nous vous redirigeons vers notre partenaire <a href="https://www.facebook.com/lenombrejaune/">Le Nombre Jaune</a>.</p>
-<p>Nous soulignons que ce décompte, bien que le nombre de villes comptabilisées peut sembler faible, nous prend <strong>en moyenne 3h de travail par ville</strong> (recherche de données, géolocalisation, géobalisage, retracement du déroulé de journée, croisement des données), chaque week-end, et ce sans compter l'écriture de l'article, les diverses sollicitations sur réseaux sociaux, les re-comptages, le développement de nos méthodologies comme le score de précision... Autant dire que notre week-end y passe. Plus de la moitié de ce temps de travail réside dans la recherche, la sélection et le rapprochement chronologique de données adéquates, aussi vous pouvez nous aider à compter plus de villes et avec une plus grande précision en nous faisant remonter vos vidéos de cortèges statiques (sur une place par exemple)!</p>
-<p>Au niveau de l'évolution de la mobilisation, nous ne pouvons nous prononcer à l'échelle nationale, nous vous renvoyons vers Le Nombre Jaune.</p>
-<p>Cette semaine encore, le Ministère de l'Intérieur n'a donné aucune estimation du nombre total de gilets jaunes (tout comme les semaines précédentes). Ce qui est peut-être mieux, étant donné la minimisation systématique de leurs décomptes. Nous vous renvoyons vers <a href="http://gjsciences.com/2019/04/28/ministere-de-l-interieur-des-chiffres-divises-par-2-absurdement-minimises/">notre billet dédié</a>, démontrant de façon formelle la minimisation des chiffres du Ministère de l'Intérieur.</p>
-<p>Nous vous renvoyons vers notre dossier sur Twitter pour en savoir plus sur le #PitieGate de la manifestation du 1er Mai 2019, événement emblématique qui à la fois a décomplexé les forces de l'ordre dans leur usage indiscriminé de la force (avant réservé aux gilets jaunes), et qui a fait largement prendre conscience dans la sphère publique des violences policières sur tous les manifestants et journalistes (et pas seulement les gilets jaunes), avec toutes les preuves de ce «mensonge d'État» d'après David Dufresne, voire scandale d'État.</p>
 <p>https://twitter.com/i/moments/1124459414642208768</p>
 <p><em>Le texte de cet article est sous license Creative Commons <span class="cc-license-title">Attribution 4.0 International</span> <span class="cc-license-identifier"> (CC BY 4.0). Les images et vidéo sont les propriétés de leurs auteurs tels qu'indiqués en description ici ou sur la page liée. Image d’en-tête est notre composition à partir de dessins par <a class="hover_opacity" href="https://pixabay.com/fr/users/clker-free-vector-images-3736/">Clker-Free-Vector-Images</a> et <a class="hover_opacity" href="https://pixabay.com/fr/users/openclipart-vectors-30363/">OpenClipart-Vectors</a>, tous deux sous <a href="https://pixabay.com/fr/service/license/">license Pixabay</a>.</span></em></p>
             ]]>
