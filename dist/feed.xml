@@ -3,12 +3,90 @@
     <title>GJ Sciences</title>
     <link href="https://gjsciences.com/feed.xml" rel="self" />
     <link href="https://gjsciences.com" />
-    <updated>2020-05-20T08:09:30+02:00</updated>
+    <updated>2020-06-16T17:39:57+02:00</updated>
     <author>
         <name>gjsciences</name>
     </author>
     <id>https://gjsciences.com</id>
 
+    <entry>
+        <title>Comptage manifestation des soignants à Paris le 16/06/2020</title>
+        <author>
+            <name>gjsciences</name>
+        </author>
+        <link href="https://gjsciences.com/comptage-manifestation-des-soignants-a-paris-le-16062020/"/>
+        <id>https://gjsciences.com/comptage-manifestation-des-soignants-a-paris-le-16062020/</id>
+            <category term="manifestations"/>
+            <category term="manifestation"/>
+            <category term="comptage de foule"/>
+
+        <updated>2020-06-16T17:39:29+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://gjsciences.com/media/posts/77/manif-soignants.png" alt="" />
+                    <p>Détail de notre décompte de la manifestation des soignants à Paris le 16/06/2020, dont le nombre de manifestants était entre 5000 et 14000 d'après notre décompte.</p>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://gjsciences.com/media/posts/77/manif-soignants.png" alt="" />
+                <p>Détail de notre décompte de la manifestation des soignants à Paris le 16/06/2020, dont le nombre de manifestants était entre 5000 et 14000 d'après notre décompte.</p>
+<hr>
+<p>Ce décompte est effectué avec notre méthode par densité. Pour toute la méthodologie détaillée, nous vous invitons à consulter <a href="https://gjsciences.com/bienvenue-sur-gj-sciences/">notre billet d'introduction</a>.</p>
+<h2 id="mcetoc_1eaur0r5j3">Avant-propos</h2>
+<p>Un plan du parcours est disponible <a href="https://actu.fr/ile-de-france/paris_75056/carte-grande-manifestation-des-soignants-apres-le-coronavirus-a-paris-parcours-et-revendications_34291379.html">ici</a>.</p>
+<h2 id="mcetoc_1eauqbmhn0">Donnée 1</h2>
+<p>Nous utilisons cette vidéo d'Attac:</p>
+<blockquote class="twitter-tweet" >
+<p dir="ltr" lang="fr">Partout en France, nous sommes des milliers dans la rue aujourd’hui pour soutenirs les personnels hospitaliers ! ✊ <br><br>À peine la première vague terminée, le gouvernment les oublie. <br>PAS NOUS ! <a href="https://twitter.com/hashtag/OnOublieraPas?src=hash&amp;ref_src=twsrc%5Etfw">#OnOublieraPas</a> <br><br>Un aperçu du cortège à Paris ⤵️<a href="https://twitter.com/hashtag/manif16Juin?src=hash&amp;ref_src=twsrc%5Etfw">#manif16Juin</a> <a href="https://twitter.com/hashtag/soignants?src=hash&amp;ref_src=twsrc%5Etfw">#soignants</a> <a href="https://twitter.com/hashtag/Covid_19?src=hash&amp;ref_src=twsrc%5Etfw">#Covid_19</a> <a href="https://t.co/7vVbDYKIvC">pic.twitter.com/7vVbDYKIvC</a></p>
+— Attac France (@attac_fr) <a href="https://twitter.com/attac_fr/status/1272876204811603969?ref_src=twsrc%5Etfw">June 16, 2020</a></blockquote>
+<p>
+<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</p>
+<p>Que nous combinons avec les vidéos suivantes:</p>
+<ul>
+<li><a href="https://twitter.com/CharlesBaudry/status/1272880888431468547">https://twitter.com/CharlesBaudry/status/1272880888431468547</a></li>
+<li><a href="https://twitter.com/Ab7Media/status/1272870062651834369">https://twitter.com/Ab7Media/status/1272870062651834369</a></li>
+<li><a href="https://twitter.com/EnFautes/status/1272869910847328258">https://twitter.com/EnFautes/status/1272869910847328258</a></li>
+<li><a href="https://twitter.com/AnonymeCitoyen/status/1272871363515232258">https://twitter.com/AnonymeCitoyen/status/1272871363515232258</a></li>
+</ul>
+<p>Voici notre <a href="https://www.mapchecking.com/#48.8546382,2.3145660;48.8546241,2.3151245;48.8536658,2.3150172;48.8536428,2.3144781;48.8536940,2.3129785;48.8533269,2.3130343;48.8533163,2.3126856;48.8536110,2.3126118;48.8539129,2.3127581;48.8538705,2.3142842;48.8539305,2.3144732;48.8540170,2.3145183;48.8544048,2.3145625;1.6;48.8537546,2.3139553,18">géobalisage MapChecking</a>. La densité est estimée entre légère-moyenne et moyenne-haute, soit entre 1p/m² et 2p/m², soit entre 9K et 17K, ou plus simplement en considérant la moyenne des deux, à une densité moyenne mobile de 0.627 m²/personne soit environ <strong>14K manifestants</strong>.</p>
+<p>Il est à noter que comme le spécifie Attac, la vidéo ne montre qu'une partie du cortège. C'est un problème que nous avons observé dans toutes les autres données que nous avons pu obtenir (pas de prise de vue en hauteur ni assez longue pour filmer toute la longueur et largeur du cortège).</p>
+<p>Critères: C1-C4, C6. Précision: <strong>Moyenne</strong>.</p>
+<h2 id="mcetoc_1eauqmo031">Donnée 2</h2>
+<p>Nous utiliserons cette vidéo:</p>
+<blockquote class="twitter-tweet" >
+<p dir="ltr" lang="fr">Paris, maintenant. <a href="https://twitter.com/hashtag/soignants?src=hash&amp;ref_src=twsrc%5Etfw">#soignants</a> <a href="https://twitter.com/hashtag/16juin?src=hash&amp;ref_src=twsrc%5Etfw">#16juin</a> <a href="https://t.co/40DN3HKP05">pic.twitter.com/40DN3HKP05</a></p>
+— Anonyme Citoyen (@AnonymeCitoyen) <a href="https://twitter.com/AnonymeCitoyen/status/1272873726019854336?ref_src=twsrc%5Etfw">June 16, 2020</a></blockquote>
+<p>
+<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+Voici notre <a href="https://www.mapchecking.com/#48.8575704,2.3151004;48.8575704,2.3153310;48.8579445,2.3153686;48.8580080,2.3152667;48.8580433,2.3151218;48.8581139,2.3147141;48.8584068,2.3143869;48.8584845,2.3143333;48.8584986,2.3140597;48.8582833,2.3139685;48.8580274,2.3145076;48.8579586,2.3147088;48.8578316,2.3150521;1.6;48.8580163,2.3147028,19">géobalisage MapChecking</a>. En considérant une densité moyenne mobile de 0.627 m²/personne (environ 1.6p/m²), nous décomptons environ <strong>5000 manifestants</strong>.</p>
+<p>Critères: C1-C4, C5. Précision: <strong>Moyenne</strong>.</p>
+<h2 id="mcetoc_1eauqs2mp2">Donnée 3</h2>
+<p>Nous utiliserons cette vidéo:</p>
+<blockquote class="twitter-tweet" >
+<p dir="ltr" lang="fr">Impressionant !<br><br>Des milliers de personnes arrivent sur l'esplanade des Invalides à <a href="https://twitter.com/hashtag/Paris?src=hash&amp;ref_src=twsrc%5Etfw">#Paris</a>.<a href="https://twitter.com/hashtag/soignants?src=hash&amp;ref_src=twsrc%5Etfw">#soignants</a> <a href="https://twitter.com/hashtag/16juin?src=hash&amp;ref_src=twsrc%5Etfw">#16juin</a> <a href="https://twitter.com/hashtag/16Juin2020?src=hash&amp;ref_src=twsrc%5Etfw">#16Juin2020</a> <a href="https://t.co/rxImAmKnPA">pic.twitter.com/rxImAmKnPA</a></p>
+— Anonyme Citoyen (@AnonymeCitoyen) <a href="https://twitter.com/AnonymeCitoyen/status/1272877305032052737?ref_src=twsrc%5Etfw">June 16, 2020</a></blockquote>
+<p>
+<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</p>
+<p>Voici notre <a href="https://www.mapchecking.com/#48.8584515,2.3138319;48.8582503,2.3137837;48.8583280,2.3131989;48.8585044,2.3129066;48.8589421,2.3127966;48.8598244,2.3128932;48.8598173,2.3132687;48.8588980,2.3132231;48.8587334,2.3135067;48.8585547,2.3135758;1;48.8592047,2.3127633,18">géobalisage MapChecking</a>. En considérant une densité mobile légère (0.7 personne/m²) à légère-moyenne (1 personne/m²), nous décomptons entre 4400 et 6300 manifestants dans cette donnée.</p>
+<p>Critères: C1-C4. Précision: <strong>Faible</strong>.</p>
+<h2 id="mcetoc_1eaur21ah4">Sous-total et conclusion</h2>
+<p>Toutes les données obtenues sont parcellaires et juste suffisantes pour un décompte par densité, mais pas d'une qualité optimale (manque de hauteur et de durée pour couvrir toute la largeur et longueur du cortège).</p>
+<p>La première donnée est celle qui est la plus recoupée par d'autres plans et vues mais à des moments légèrement différents. Aussi, nous pensons que c'est le décompte le plus proche du véritable décompte, c'est-à-dire entre 9K et 17K manifestants (moyenne sur les constantes de densité: 14K), mais nous n'avons pas pu confirmer avec d'autres données à d'autres moments, car les données 2 et 3 n'ont permise de compter qu'environ 5K manifestants. Aussi, nous considérons ce dernier décompte comme la fourchette basse minimale du nombre de manifestants dans ce cortège à Paris. Il nous est impossible en l'état de réduire davantage la marge d'erreur.</p>
+<p>En conclusion, <strong>nous décomptons entre 5000 et 14000 manifestants à Paris avec une certitude moyenne</strong>.</p>
+<p>Dans les autres villes, la presse rapporte <a href="https://actu.fr/auvergne-rhone-alpes/lyon_69123/direct-manifestation-du-16-juin-suivez-la-mobilisation-des-soignant-e-s-a-lyon_34312661.html">6K à 13K à Lyon</a>, <a href="https://www.ladepeche.fr/2020/06/16/les-soignants-dans-la-rue-ce-mardi-partout-en-france,8934489.php">20K à Toulouse selon les syndicats</a>, et <a href="https://rennes.maville.com/actu/actudet_-en-images.-environ-1-500-manifestants-pour-les-soignants-a-rennes_7-4136715_actu.Htm">1500 à Rennes</a>.</p>
+<p>D'autres données sont disponibles pour Paris:</p>
+<pre>D'autres données sont disponibles:<br>https://twitter.com/CharliB97783485/status/1272873873776787456<br>https://twitter.com/CharliB97783485/status/1272882650643120128<br>https://twitter.com/CharliB97783485/status/1272896371192926216<br>https://twitter.com/RicardParreir/status/1272870152963592192<br>https://twitter.com/TheoValenciia/status/1272854693316890625<br>https://twitter.com/TheoValenciia/status/1272867885183107072<br>https://twitter.com/TheoValenciia/status/1272876536396484609<br>https://twitter.com/OBebert/status/1272871988567117825<br>https://twitter.com/LabasOfficiel/status/1272873941804204039<br>https://twitter.com/VirginieCresci/status/1272869393614192640<br>violences policières: https://twitter.com/VirginieCresci/status/1272883788817862657 et https://twitter.com/VirginieCresci/status/1272887772903346178<br>https://twitter.com/ybouziar/status/1272851327895379968<br>https://twitter.com/PeupleRevolte/status/1272851061691334663<br>https://twitter.com/Conflits_FR/status/1272878168550936578<br>https://twitter.com/CharliB97783485/status/1272875950540091393<br>https://twitter.com/EnFautes/status/1272869910847328258<br>https://twitter.com/MoadabJ/status/1272860158482415617<br>https://twitter.com/Theop_rn/status/1272850146020245510<br>https://twitter.com/CerveauxNon/status/1272845459086811137<br>https://twitter.com/TIM_7375/status/1272879906859503618<br>https://twitter.com/Ab7Media/status/1272871291947757568<br>https://twitter.com/TheoValenciia/status/1272867885183107072<br>https://twitter.com/BriceIvanovic/status/1272867013086580736<br>https://twitter.com/Clzsmuel/status/1272849936208539648<br>https://twitter.com/Gerrrty/status/1272877194407301121<br>https://twitter.com/HZ_Press/status/1272869459422740485<br>journalistes sont neutres et relayent l'appel: https://twitter.com/infofrance2/status/1272861256416985092<br>https://twitter.com/BriceIvanovic/status/1272860920704892928<br>https://twitter.com/BMasques/status/1272843783969943552<br>https://twitter.com/PMalekoum/status/1272870665604005892<br><a href="https://twitter.com/CharliB97783485/status/1272850768354295808">https://twitter.com/CharliB97783485/status/1272850768354295808</a></pre>
+<p>Alors que <a href="https://information.tv5monde.com/info/france-debut-de-la-commission-d-enquete-sur-le-coronavirus-363464">s'ouvre aujourd'hui en France la commission d'enquête sur la gestion de la crise du coronavirus COVID-19</a>, nous ne pouvons que souhaiter que le gouvernement fasse le choix d'augmenter drastiquement les moyens des soignants français. On ne peut faire des économies sur les vies de ses concitoyens.</p>
+<hr>
+<p><em>Le texte de cet article est sous license Creative Commons <span class="cc-license-title">Attribution 4.0 International</span><span class="cc-license-identifier">(CC BY 4.0). Les images et vidéo sont les propriétés de leurs auteurs tels qu'indiqués en description ici ou sur la page liée.</span></em></p>
+<p><em>Image d'en-tête par <a href="https://pixabay.com/fr/illustrations/merci-m%C3%A9decin-infirmi%C3%A8re-covid-5137984/">muhammad rizky klinsman</a>, sous license Pixabay.</em></p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Coronavirus COVID-19: Mise à jour rapide entre faux espoirs et réelles pistes (comme la mélatonine)</title>
         <author>
@@ -3281,167 +3359,6 @@ https://twitter.com/Callystor/status/1193224941426094084</pre>
 <p>[vtftable]<br> <strong>Ville</strong>;;;<strong>Décompte</strong>;;;<strong>Heure</strong>;;;<strong>Précision</strong>;nn;<br> Paris;;;2 000;;;15h42;;;<strong><span style="color: #ff9900;">Moyenne</span></strong>;nn;<br> Toulouse;;;1 000;;;14h29;;;<strong><span style="color: #ff9900;">Moyenne</span></strong>;nn;<br> Montpellier;;;700 à 800;;;13h41;;;<strong><span style="color: #00ccff;">Haute</span></strong>;nn;<br> [/vtftable]</p>
 <h2 id="mcetoc_1e4gh21tjh">Conclusion</h2>
 <p>Nous décomptons un <strong>total de 3 700 à 3 800 manifestants, sur 3 villes </strong>pour lesquelles nous avons eu des données utilisables pour un comptage par densité ou par vision artificielle, dont au moins 2 000 à Paris, 1 000 à Toulouse, et entre 700 à 800 à Montpellier. Rappelons que nous ne gardons que 3 chiffres significatifs pour le total (sauf quand nous oublions de faire cet arrondi).</p>
-<p>Ce chiffrage ne se veut pas exhaustif à l'échelle nationale, mais représentatif de la mobilisation à minima pour les villes pour lesquelles nous avons eu assez de données pour faire un décompte par densité. Pour un décompte plus exhaustif, nous vous redirigeons vers notre partenaire <a href="https://www.facebook.com/lenombrejaune/">Le Nombre Jaune</a>.</p>
-<p>Nous soulignons que ce décompte, bien que le nombre de villes comptabilisées peut sembler faible, nous prend <strong>en moyenne 3h de travail par ville</strong> (recherche de données, géolocalisation, géobalisage, retracement du déroulé de journée, croisement des données), chaque week-end, et ce sans compter l'écriture de l'article, les diverses sollicitations sur réseaux sociaux, les re-comptages, le développement de nos méthodologies comme le score de précision... Autant dire que notre week-end y passe. Plus de la moitié de ce temps de travail réside dans la recherche, la sélection et le rapprochement chronologique de données adéquates, aussi vous pouvez nous aider à compter plus de villes et avec une plus grande précision en nous faisant remonter vos vidéos de cortèges statiques (sur une place par exemple)!</p>
-<p>Au niveau de l'évolution de la mobilisation, nous ne pouvons nous prononcer à l'échelle nationale, nous vous renvoyons vers Le Nombre Jaune.</p>
-<p>Cette semaine encore, le Ministère de l'Intérieur n'a donné aucune estimation du nombre total de gilets jaunes (tout comme les semaines précédentes). Ce qui est peut-être mieux, étant donné la minimisation systématique de leurs décomptes. Nous vous renvoyons vers <a href="http://gjsciences.com/2019/04/28/ministere-de-l-interieur-des-chiffres-divises-par-2-absurdement-minimises/">notre billet dédié</a>, démontrant de façon formelle la minimisation des chiffres du Ministère de l'Intérieur.</p>
-<p>Nous vous renvoyons vers notre dossier sur Twitter pour en savoir plus sur le #PitieGate de la manifestation du 1er Mai 2019, événement emblématique qui a fait prendre largement prendre conscience dans la sphère publique des violences policières sur tous les manifestants et journalistes (et pas seulement les gilets jaunes), avec toutes les preuves de ce «mensonge d'État» d'après David Dufresne, voire scandale d'État.</p>
-<p>https://twitter.com/i/moments/1124459414642208768</p>
-<p><em>Le texte de cet article est sous license Creative Commons <span class="cc-license-title">Attribution 4.0 International</span> <span class="cc-license-identifier"> (CC BY 4.0). Les images et vidéo sont les propriétés de leurs auteurs tels qu'indiqués en description ici ou sur la page liée. Image d’en-tête est notre composition à partir de dessins par <a class="hover_opacity" href="https://pixabay.com/fr/users/clker-free-vector-images-3736/">Clker-Free-Vector-Images</a> et <a class="hover_opacity" href="https://pixabay.com/fr/users/openclipart-vectors-30363/">OpenClipart-Vectors</a>, tous deux sous <a href="https://pixabay.com/fr/service/license/">license Pixabay</a>.</span></em></p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Comptage des gilets jaunes du samedi 02/11/2019 (Acte 51)</title>
-        <author>
-            <name>gjsciences</name>
-        </author>
-        <link href="https://gjsciences.com/comptage-des-gilets-jaunes-du-samedi-02112019-acte-51/"/>
-        <id>https://gjsciences.com/comptage-des-gilets-jaunes-du-samedi-02112019-acte-51/</id>
-            <category term="manifestation"/>
-            <category term="gilets-jaunes"/>
-            <category term="comptage de foule"/>
-            <category term="acte LI"/>
-            <category term="acte 51"/>
-
-        <updated>2020-03-28T13:20:36+01:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://gjsciences.com/media/posts/67/comptage-entete-article-v3-vote-acte51.png" alt="" />
-                    <p>Comptage par densité scientifiquement fondé de l'acte 51 (acte LI) des gilets jaunes et autres manifestants convergents (climat, grévistes, urgences, services publics, cheminots, syndicalistes, etc). Notre décompte est <strong>au pic de mobilisation</strong> et limité à un décompte local pour quelques villes pour lesquelles nous avons obtenu des données adéquates.</p>
-<p>En partenariat avec <a href="https://www.facebook.com/lenombrejaune/">Le Nombre Jaune</a>, avec lequel nous échangeons des données, et que nous vous invitons à consulter pour un décompte à l'échelle nationale.</p>
-<p><strong>N'oubliez pas que le vote pour la tenue d'un référendum sur la (non-)privatisation des aéroports d'ADP est toujours en cours, toutes les instructions sur <a href="https://www.adprip.fr">adprip.fr</a>!</strong></p>
-
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://gjsciences.com/media/posts/67/comptage-entete-article-v3-vote-acte51.png" alt="" />
-                <p>Comptage par densité scientifiquement fondé de l'acte 51 (acte LI) des gilets jaunes et autres manifestants convergents (climat, grévistes, urgences, services publics, cheminots, syndicalistes, etc). Notre décompte est <strong>au pic de mobilisation</strong> et limité à un décompte local pour quelques villes pour lesquelles nous avons obtenu des données adéquates.</p>
-<p>En partenariat avec <a href="https://www.facebook.com/lenombrejaune/">Le Nombre Jaune</a>, avec lequel nous échangeons des données, et que nous vous invitons à consulter pour un décompte à l'échelle nationale.</p>
-<p><strong>N'oubliez pas que le vote pour la tenue d'un référendum sur la (non-)privatisation des aéroports d'ADP est toujours en cours, toutes les instructions sur <a href="https://www.adprip.fr">adprip.fr</a>!</strong></p>
-<hr>
-<p><a href="http://gjsciences.com/2019/01/17/pourquoi-ce-blog-comment-les-comptages-sont-calcules/">Notre méthode de comptage</a>, rigoureuse, vérifiable et scientifique, se fonde sur le comptage par densité de Jacobs appliqué aux photographies non-aériennes selon Dillon Cariveau avec les règles de crédibilité de McPhail et McCarthy, avec <a href="http://gjsciences.com/2019/03/15/evolutions-dans-notre-methode-de-comptage/">un score de précision</a> pour qualifier la marge d'erreur de chaque décompte. Notre méthode est la même que celle utilisée par les <a href="https://fullfact.org/europe/peoples-vote-march-count/">fact-checkers</a> et <a href="https://qrius.com/estimating-crowd-sizes-math/">historiens</a>. Nous nous basons uniquement sur des preuves observables (photographies et vidéos assez en hauteur et en suffisante qualité et bien localisées/datées), jamais sur les chiffres d'autres observateurs, bien que nous puissions les mentionner pour donner du contexte. Nous détaillons ici notre décompte ville par ville, avec les données sources utilisées et notre méthode pour calculer chacun.</p>
-<p>Ce décompte ne se veut pas exhaustif, mais <strong>représentatif</strong> du nombre de manifestants dans <strong>un</strong> cortège dans <strong>un</strong> lieu précis et à <strong>un</strong> moment donné. Autrement dit, c'est un <strong>instantané à minima</strong> de ce qu'on peut observer sur photo ou vidéo, et ne peut constituer un décompte exhaustif mais simplement donner un ordre d'idée de la mobilisation. Notez qu'<strong>avec <a href="https://www.facebook.com/lenombrejaune/">Le Nombre Jaune</a> nous sommes les seuls à fournir un comptage basé sur des données sourcées et détaillées</strong>.</p>
-<p>Nous ne cachons pas que nous sommes engagés, et cela n'entame en rien notre soucis d'objectivité: l'objectivité s'atteint par une méthode, pas par la neutralité de ses pensées. Tout comme plus personne, et les scientifiques les premiers, ne peut plus rester neutre face aux catastrophes causées par le changement climatique, nous nous engageons afin que les méthodes scientifiques aient un impact positif sur la société.</p>
-<p>Nous échangeons des données avec Le Nombre Jaune depuis l'Acte 11, et ceux-ci reprennent régulièrement nos décomptes pour certaines villes, principalement les gros rassemblements sur lesquels notre méthode par densité est plus adaptée.</p>
-<p>Nos comptages se fait <strong>au pic de mobilisation</strong> (donc à une heure variable) autant que possible (selon les données qui nous parviennent), contrairement au Ministère de l'Intérieur qui fournit deux chiffres <strong>à heures fixes</strong> (14h et 18h respectivement, voir ce billet pour plus d'informations sur <a href="http://gjsciences.com/2019/04/28/ministere-de-l-interieur-des-chiffres-divises-par-2-absurdement-minimises/">leur méthode</a>). D'autre part, nous considérons les manifestations convergentes, tandis que <a href="http://gjsciences.com/2019/03/18/convergence-gilets-jaunes-et-gilets-verts-ou-recuperation-la-fake-news-des-macronistes/">le Ministère les exclut</a>.</p>
-<p>Enfin, il est à noter que nous décomptons selon les données que nous arrivons à nous procurer (images assez en hauteur pour estimer la densité, plan assez large pour estimer périmètre, lieu et heure assez précis). Si vous avez de meilleures images/vidéos, n'hésitez pas à nous en faire part en commentaire!</p>
-<p>Les données (photos, vidéos) ont été soit échangées avec le collectif Le Nombre Jaune (groupe Facebook Le Nombre Jaune), soit trouvées sur Twitter (recherche avec les mots clés: #giletsjaunes ville, où ville est remplacé par la ville) soit ailleurs sur Facebook (mots clés: gilets jaunes ville live).</p>
-<p><strong>Nous tenons à remercier chaleureusement les auteurs des photos et vidéos que nous utilisons ici ou que nous avons considéré pour notre comptage: nous ne pourrions rien faire sans vous! Nos référents terrains prennent d'ailleurs de plus en plus de risques avec la montée de la répression policière. Observer et compter est devenue une activité risquée. </strong>De même pour les auteurs de données que nous n'avons pas pu utiliser, nous vous remercions tout autant, car toutes les photos et vidéos de foules sont utiles dans notre processus de sélection, soyez-en certains!</p>
-<p>De plus en plus d'autres acteurs convergent avec le mouvement des gilets jaunes, aussi nos décomptes intègrent également ces acteurs qui se joignent aux cortèges des gilets jaunes (puisque, comme pour la <a href="http://gjsciences.com/2019/03/17/comptage-des-gilets-jaunes-marche-pour-le-climat-du-samedi-16-03-2019-acte-xviii/">manifestation pour le climat</a>, il n'y a aucun moyen de différencier ces manifestants qui participent aux mêmes cortèges).</p>
-<p> </p>
-<div class="post__toc">
-<h3>Table of Contents</h3>
-<ul>
-<li><a href="#mcetoc_1e4gh30s60">Score de précision et marge d'erreur</a></li>
-<li><a href="#mcetoc_1e4gh30s61">Comptage ultra-précis par vision artificielle</a></li>
-<li><a href="#mcetoc_1e4gh30s62">Comptage par ville</a>
-<ul>
-<li><a href="#mcetoc_1e4gh30s63">Paris</a>
-<ul>
-<li><a href="#mcetoc_1e4gh30s64">Donnée 1</a></li>
-<li><a href="#mcetoc_1e4gh30s65">Donnée 2</a></li>
-<li><a href="#mcetoc_1e4gh30s66">Autres cortèges</a></li>
-<li><a href="#mcetoc_1e4gh30s67">Sous-total</a></li>
-</ul>
-</li>
-<li><a href="#mcetoc_1e4gh30s68">Toulouse</a>
-<ul>
-<li><a href="#mcetoc_1e4gh30s69">Donnée 1</a></li>
-</ul>
-</li>
-<li><a href="#mcetoc_1e4gh30s6a">Bordeaux</a>
-<ul>
-<li><a href="#mcetoc_1e4gh30s6b">Donnée 1</a></li>
-</ul>
-</li>
-<li><a href="#mcetoc_1e4gh30s6c">Villes non décomptées</a></li>
-</ul>
-</li>
-<li><a href="#mcetoc_1e4gh30s6d">Tableau récapitulatif</a></li>
-<li><a href="#mcetoc_1e4gh30s6e">Conclusion</a></li>
-</ul>
-</div>
-<h2 id="mcetoc_1e4gh30s60">Score de précision et marge d'erreur</h2>
-<p>Depuis l'Acte XV, nous dérivons pour chaque décompte par densité <a href="http://gjsciences.com/2019/03/15/evolutions-dans-notre-methode-de-comptage/">un score de précision (voir ici pour plus d'infos)</a>. Nous prenons en compte ce score de précision lorsque nous choisissons le chiffre final à rapporter pour une ville (par exemple, entre un chiffre haut à précision faible, et un chiffre plus bas à précision haute, nous choisissons celui à précision haute. Lorsque la précision est moyenne pour le chiffre haut, nous pouvons rapporter les deux).</p>
-<p>Nous avons depuis calibré plus précisément nos méthodes, en voici un brief résumé, nous écrirons tout cela plus en détail dans un futur billet:</p>
-<ul>
-<li>analyse de sensibilité par variation des paramètres du géobalisage, ce qui donne des intervalles de décompte plutôt qu'un seul nombre. Le principe est d'abord de calculer selon les paramètres les plus plausibles, puis de varier vers le bas, afin de donner une fourchette plus basse (et nous considérons les paramètres les plus plausibles comme la fourchette haute -- ce qui permet de diminuer encore le risque de sur-estimation). Cela permet de mieux quantifier et représenter l'incertitude dans les mesures et notre marge d'erreur, et nous pensons que l'interprétation est également davantage intuitive de cette façon.</li>
-<li>préférence donnée aux décomptes de cortèges statiques: la méthode de comptage par densité a été construite et optimisée pour des cortèges statiques. Bien que nous l'ayons adaptée avec succès pour les cortèges mobiles, la marge d'erreur reste plus grande que pour les cortèges statiques, puisque les mouvements acroissent la possibilité de "trous", c'est-à-dire plus techniquement de variations dans la densité du cortège. Aussi, pour un même cortège, s'il y a des moments ou des données permettant de l'observer quand il est statique, ces décomptes seront préférés aux décomptes lorsqu'il est mobile.</li>
-<li>la qualité des vidéos est davantage prise en compte: une vidéo HD permettra plus souvent un décompte avec une précision plus élevée qu'une vidéo de mauvaise qualité, puisque la distance de vue est alors limitée.</li>
-<li>les horodatages codifiés, avec l'utilisation de "à" pour dénoter la précision lorsque nous utilisons l'horodatage d'un live Facebook -- seuls lives dont l'horodatage peut être considéré fiable en général car calculé en début de live et non pas en fin d'upload -- versus "vers" lorsque nous utilisons un horodatage plus imprécis comme celui de Twitter qui n'horodate que l'heure de fin d'upload; etc), dont nous écrirons les détails dans un futur billet.</li>
-<li>Nous songeons à modifier le score de précision pour le séparer en 2: un pour chaque paramètre, soit un pour la densité et un pour la superficie. En attendant, nous n'ajoutons que les critères qui permettent de délimiter précisément. Par exemple, une vidéo en hauteur mais qui ne permet pas de bien observer la superficie du cortège (par exemple car le feuillage d'un arbre obstrue la vue au loin) ne recevra pas forcément le critère C5 (mais si la hauteur permet une meilleure estimation de la densité alors le critère C5 pourrait être attribué). Autre exemple: si la vidéo est filmée en hauteur puis que le vidéaste se déplace autour de la foule, le critère C5 pourrait être attribué mais pas le critère C6 si le déplacement autour de la foule n'apporte pas plus de précision par rapport au plan filmé en hauteur (C5). L'idée est que si un critère est rempli mais que cela n'aide pas pour autant à améliorer la précision sur un des paramètres, nous ne l'ajoutons pas, et le score de précision sera donc plus faible que lors de précédents décomptes similaires avec notre ancienne méthode.</li>
-</ul>
-<h2 id="mcetoc_1e4gh30s61">Comptage ultra-précis par vision artificielle</h2>
-<p>Nous intégrons les décomptes issus du travail remarquable de <a href="https://www.youtube.com/channel/UC9HZDCZvWGtxrBa2U-Z1kNQ"><strong>Henri Deadlonexus</strong></a>, qui a conçu une méthode de comptage assistée par ordinateur! Cette méthode est ultra-précise, puisque fondée sur la <strong>vision artificielle</strong> (sous-domaine de l'intelligence artificielle), qui consiste à détecter automatiquement les passants.</p>
-<p>Cette méthode est qualifiée d'<strong>ultra-précise</strong> puisqu'elle compte <strong>exactement chaque manifestants, un par un, sans aucune approximation</strong>, contrairement aux autres méthodes "humaines" comme la méthode par densité ou à vue. En effet, la machine a la possibilité de tracker/suivre un nombre quasi illimité de passants simultanément, quant le cerveau humain est limité à environ 7.</p>
-<p>Cette méthode n'est bien entendu pas parfaite, et présente les défis usuels en vision artificielle: occlusion, plan stables, intensité lumineuse de la scène, etc. C'est pourquoi cette méthode est vérifiée manuellement par un opérateur, en l'occurrence Henri, qui vérifie que chaque manifestant est bien détecté et détecté une fois (une boite de couleur apparait sur la tête du manifestant). De cette façon, avec la vérification manuelle, il est possible <strong>d'éliminer le risque de sur-estimation</strong>. D'autre part, l'algorithme utilisé prend en compte la <strong>direction</strong> des manifestants, en différenciant la zone de détection des passants (zone d'entrée) et la zone de comptage (zone d'arrivée).</p>
-<p>Le code couleur est le suivant:</p>
-<ul>
-<li>Boite <strong><span style="color: #3366ff;">bleue</span></strong>: passant détecté, mais pas encore compté.</li>
-<li>Boite <strong><span style="color: #339966;">verte</span></strong>: passant détecté et compté, car arrivé en zone de comptage.</li>
-<li>Boite <strong><span style="color: #ff00ff;">rose</span></strong>: passant rajouté manuellement car pas détecté par la machine.</li>
-</ul>
-<p>Lorsque disponible, nous fournissons les vidéos de ces décomptes dans des sous-sections nommées "<strong>Décompte par vision artificielle</strong>".</p>
-<p>Pour plus de détails techniques, voici ce que décrit l'auteur:</p>
-<blockquote>
-<p>Liste non exhaustive des outils:</p>
-<p>Frameworks:<br> * Qt5 : <a class="yt-simple-endpoint style-scope yt-formatted-string" spellcheck="false" href="https://www.youtube.com/redirect?event=video_description&amp;q=https%3A%2F%2Fwww.qt.io%2F&amp;redir_token=dOl815uA7eBamnoldPu-hh8nazZ8MTU1NjQ5ODQzNkAxNTU2NDEyMDM2&amp;v=ARi1VTaqL4I" target="_blank" rel="nofollow noopener noreferrer">https://www.qt.io/</a><br> * MXNet : <a class="yt-simple-endpoint style-scope yt-formatted-string" spellcheck="false" href="https://www.youtube.com/redirect?event=video_description&amp;q=https%3A%2F%2Fmxnet.apache.org%2F&amp;redir_token=dOl815uA7eBamnoldPu-hh8nazZ8MTU1NjQ5ODQzNkAxNTU2NDEyMDM2&amp;v=ARi1VTaqL4I" target="_blank" rel="nofollow noopener noreferrer">https://mxnet.apache.org/</a><br> * Ubuntu 18.04 CUDA 10 : <a class="yt-simple-endpoint style-scope yt-formatted-string" spellcheck="false" href="https://www.youtube.com/redirect?event=video_description&amp;q=https%3A%2F%2Fwww.nvidia.fr%2Fobject%2Fcuda-parallel-computing-fr.html&amp;redir_token=dOl815uA7eBamnoldPu-hh8nazZ8MTU1NjQ5ODQzNkAxNTU2NDEyMDM2&amp;v=ARi1VTaqL4I" target="_blank" rel="nofollow noopener noreferrer">https://www.nvidia.fr/object/cuda-par...</a><br> * OpenCV4 : <a class="yt-simple-endpoint style-scope yt-formatted-string" spellcheck="false" href="https://www.youtube.com/redirect?event=video_description&amp;q=https%3A%2F%2Fopencv.org%2F&amp;redir_token=dOl815uA7eBamnoldPu-hh8nazZ8MTU1NjQ5ODQzNkAxNTU2NDEyMDM2&amp;v=ARi1VTaqL4I" target="_blank" rel="nofollow noopener noreferrer">https://opencv.org/</a></p>
-<p>Algorithmes de calculs exterieurs:<br> * Détection d'objets: Faster R-CNN : <a class="yt-simple-endpoint style-scope yt-formatted-string" spellcheck="false" href="https://www.youtube.com/redirect?event=video_description&amp;q=https%3A%2F%2Fgithub.com%2Fijkguo%2Fmx-rcnn&amp;redir_token=dOl815uA7eBamnoldPu-hh8nazZ8MTU1NjQ5ODQzNkAxNTU2NDEyMDM2&amp;v=ARi1VTaqL4I" target="_blank" rel="nofollow noopener noreferrer">https://github.com/ijkguo/mx-rcnn</a><br> * Tracking: Optical Flow : <a class="yt-simple-endpoint style-scope yt-formatted-string" spellcheck="false" href="https://www.youtube.com/redirect?event=video_description&amp;q=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FOptical_flow&amp;redir_token=dOl815uA7eBamnoldPu-hh8nazZ8MTU1NjQ5ODQzNkAxNTU2NDEyMDM2&amp;v=ARi1VTaqL4I" target="_blank" rel="nofollow noopener noreferrer">https://en.wikipedia.org/wiki/Optical...</a></p>
-<p>Et plus de 10000 lignes de code perso.</p>
-</blockquote>
-<h2 id="mcetoc_1e4gh30s62">Comptage par ville</h2>
-<h3 id="mcetoc_1e4gh30s63">Paris</h3>
-<h4 id="mcetoc_1e4gh30s64">Donnée 1</h4>
-<p>Source:</p>
-<p>https://twitter.com/CharlesBaudry/status/1190596165152264193</p>
-<p><a href="https://www.mapchecking.com/#48.8458066,2.3742031;48.8458905,2.3741731;48.8458790,2.3741100;48.8456977,2.3725245;48.8456350,2.3725433;48.8456697,2.3728102;0.7;48.8459910,2.3715649,18">Géobalisage MapChecking</a>. Cortège mobile, densité mobile entre légère (1.394 m²/personne) et légère à moyenne (1 m²/personne).</p>
-<p>Nous décomptons entre 650 et 950 manifestants dans ce cortège à Paris vers 12h47 (heure Twitter).</p>
-<p>Critères: C1-C4, C5. Précision: <span style="color: #00ccff;"><strong>Haute</strong></span> (car vidéo HD et couvre l'ensemble du cortège et bien en hauteur).</p>
-<p>D'autres données sont disponibles pour ce cortège (<a href="https://twitter.com/Lilaafa_RT/status/1190637687314821120">ici</a>).</p>
-<h4 id="mcetoc_1e4gh30s65">Donnée 2</h4>
-<p>Source:</p>
-<p>https://twitter.com/CerveauxNon/status/1190660948459216898</p>
-<p>Ce cortège était d'une manifestation sauvage à Gare du Nord.</p>
-<p>Comptage à vue, une cinquantaine de manifestants.</p>
-<p>Une autre donnée est disponible (<a href="https://twitter.com/CerveauxNon/status/1190669846146699264">ici</a>).</p>
-<h4 id="mcetoc_1e4gh30s66">Autres cortèges</h4>
-<p>Il y avait deux autres cortèges: un devant BFM TV, et l'autre devant CNEWS, mais ce dernier n'étant pas composé principalement par des gilets jaunes (ou en tout cas pas identifiés comme tels).</p>
-<pre>* autre cortège (BFM): https://www.facebook.com/giletsjaunesconstituantspagedesecours/videos/1152691908261023/UzpfSTEwMDAzMzkzNzg2NjE3NTpWSzo2NTYwMDI5NDgyNjEzOTI/
-* autre cortège (CNEWS): https://www.facebook.com/LeMediaOfficiel/videos/552198895514262/UzpfSTEwMDAzMDcxNzE1NDgwNDpWSzo2NTU5OTYzMjQ5Mjg3MjE/
-https://twitter.com/CharlesBaudry/status/1190654981180932098
-https://twitter.com/CharlesBaudry/status/1190628495145275392</pre>
-<h4 id="mcetoc_1e4gh30s67">Sous-total</h4>
-<p>En additionnant les cortèges des données 1 et 2, nous obtenons un total de 700 à 1 000 manifestants à Paris, précision: <strong><span style="color: #00ccff;">Haute</span></strong>.</p>
-<h3 id="mcetoc_1e4gh30s68">Toulouse</h3>
-<h4 id="mcetoc_1e4gh30s69">Donnée 1</h4>
-<p>Source:</p>
-<p>https://twitter.com/CerveauxNon/status/1190648805324136448</p>
-<p><a href="https://www.mapchecking.com/#43.6035555,1.4457655;43.6035516,1.4456207;43.6029747,1.4456341;43.6029786,1.4457682;0.5;43.6036619,1.4437013,18">Géobalisage MapChecking</a>. Cortège mobile. Du fait de l'usage de parapluies et de la forte pluie, nous considérons une densité mobile très légère, de 0.5 personnes/m².</p>
-<p>Nous décomptons 361 manifestants dans ce cortège à Toulouse vers 16h16 (heure du post Twitter).</p>
-<p>Critères: C1-C4, C5. Précision: <span style="color: #ff9900;"><strong>Moyenne</strong></span>.</p>
-<p>Pour contexte, les journalistes de <a href="https://twitter.com/ladepeche31/status/1190674092711698432">LaDepeche</a> ont estimé à 300 manifestants, tandis que le webdocumentariste <a href="https://twitter.com/chriscoutens/status/1190618208350412802">Chris Coutens</a> a estimé à 500 manifestants.</p>
-<p>D'autres données sont disponibles:</p>
-<pre>* https://twitter.com/AuryBouzar/status/1190614989612240902
-* https://twitter.com/AuryBouzar/status/1190645197450960896
-https://twitter.com/AuryBouzar/status/1190643907538956288
-https://twitter.com/AuryBouzar/status/1190643326334185472
-https://twitter.com/AuryBouzar/status/1190639938347446272
-https://twitter.com/AuryBouzar/status/1190621429668229125
-https://twitter.com/AuryBouzar/status/1190618007019626502</pre>
-<h3 id="mcetoc_1e4gh30s6a">Bordeaux</h3>
-<h4 id="mcetoc_1e4gh30s6b">Donnée 1</h4>
-<p>Source:</p>
-<p>https://twitter.com/laurentbigotfr/status/1190642651621724160</p>
-<p><a href="https://www.mapchecking.com/#44.8412955,-0.5699342;44.8409589,-0.5699328;44.8410226,-0.5696593;44.8413126,-0.5698323;0.7;44.8412917,-0.5718519,18">Géobalisage MapChecking</a>. Cortège statique. Nous considérons une densité très légère à légère, entre 0.5 et 0.7 personnes/m².</p>
-<p>Nous décomptons entre 250 et 400 manifestants dans ce cortège à Bordeaux vers 15h51 (heure du post Twitter).</p>
-<p>Critères: C1-C4. Précision: <strong><span style="color: #ff0000;">Faible</span></strong>.</p>
-<h3 id="mcetoc_1e4gh30s6c">Villes non décomptées</h3>
-<h2 id="mcetoc_1e4gh30s6d">Tableau récapitulatif</h2>
-<p>[vtftable]<br> <strong>Ville</strong>;;;<strong>Décompte</strong>;;;<strong>Heure</strong>;;;<strong>Précision</strong>;nn;<br> Paris;;;700 à 1000;;;12h47;;;<strong><span style="color: #00ccff;">Haute</span></strong>;nn;<br> Toulouse;;;361;;;16h16;;;<strong><span style="color: #ff9900;">Moyenne</span></strong>;nn;<br> Bordeaux;;;250 à 400;;;15h51;;;<strong><span style="color: #ff0000;">Faible</span></strong>;nn;<br> [/vtftable]</p>
-<h2 id="mcetoc_1e4gh30s6e">Conclusion</h2>
-<p>Nous décomptons un <strong>total de 1 310 à 1 760 manifestants, sur 3 villes </strong>pour lesquelles nous avons eu des données utilisables pour un comptage par densité ou par vision artificielle, dont au moins 700 à 1 000 à Paris, 361 à Toulouse et entre 250 et 400 à Bordeaux. Rappelons que nous ne gardons que 3 chiffres significatifs pour le total (sauf quand nous oublions de faire cet arrondi).</p>
 <p>Ce chiffrage ne se veut pas exhaustif à l'échelle nationale, mais représentatif de la mobilisation à minima pour les villes pour lesquelles nous avons eu assez de données pour faire un décompte par densité. Pour un décompte plus exhaustif, nous vous redirigeons vers notre partenaire <a href="https://www.facebook.com/lenombrejaune/">Le Nombre Jaune</a>.</p>
 <p>Nous soulignons que ce décompte, bien que le nombre de villes comptabilisées peut sembler faible, nous prend <strong>en moyenne 3h de travail par ville</strong> (recherche de données, géolocalisation, géobalisage, retracement du déroulé de journée, croisement des données), chaque week-end, et ce sans compter l'écriture de l'article, les diverses sollicitations sur réseaux sociaux, les re-comptages, le développement de nos méthodologies comme le score de précision... Autant dire que notre week-end y passe. Plus de la moitié de ce temps de travail réside dans la recherche, la sélection et le rapprochement chronologique de données adéquates, aussi vous pouvez nous aider à compter plus de villes et avec une plus grande précision en nous faisant remonter vos vidéos de cortèges statiques (sur une place par exemple)!</p>
 <p>Au niveau de l'évolution de la mobilisation, nous ne pouvons nous prononcer à l'échelle nationale, nous vous renvoyons vers Le Nombre Jaune.</p>
