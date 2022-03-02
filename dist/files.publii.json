@@ -837,12 +837,12 @@
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "354e08c7d503e6558dd32dc896f37252"
+        "md5": "11a66686a225bf1039846008543a6ea0"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "649ad3691432a99845c586370ee327a3"
+        "md5": "2c831212c699b676ad3f31970f121a96"
     },
     {
         "path": "gj-sciences-fait-peau-neuve",
@@ -13012,7 +13012,7 @@
     {
         "path": "/post-mortem-la-vraie-raison-de-notre-arret-des-comptages-hebdomadaires/index.html",
         "type": "file",
-        "md5": "2057ef44f7654b4da98546d060bb8b04"
+        "md5": "3cc1d54386d08283eeb2147bf1e82b85"
     },
     {
         "path": "pourquoi-ce-blog-comment-les-comptages-sont-calcules",
@@ -13042,7 +13042,7 @@
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "455422e14ea4cd25e672bb03940df483"
+        "md5": "786ff680efafc1591d1492df05796ec2"
     },
     {
         "path": "sitemap.xsl",
