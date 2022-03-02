@@ -1,0 +1,116 @@
+<!DOCTYPE html><html lang="fr"><head><meta charset="utf-8"><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Post-mortem: la vraie raison de notre arrêt des comptages hebdomadaires - GJ Sciences</title><meta name="description" content="Le temps a passé. Nous pouvons maintenant dévoiler davantage d'information sur les problèmes que nous avons pu rencontrer durant notre aventure. Notamment sur la raison secrète qui a signé notre arrêt."><meta name="robots" content="index, follow"><meta name="generator" content="Publii Open-Source CMS for Static Site"><link rel="canonical" href="https://gjsciences.com/post-mortem-la-vraie-raison-de-notre-arret-des-comptages-hebdomadaires/"><link rel="alternate" type="application/atom+xml" href="https://gjsciences.com/feed.xml"><link rel="alternate" type="application/json" href="https://gjsciences.com/feed.json"><meta property="og:title" content="Post-mortem: la vraie raison de notre arrêt des comptages hebdomadaires"><meta property="og:image" content="https://gjsciences.com/media/website/gjsciences-logo3-icone.png"><meta property="og:site_name" content="GJ Sciences"><meta property="og:description" content="Le temps a passé. Nous pouvons maintenant dévoiler davantage d'information sur les problèmes que nous avons pu rencontrer durant notre aventure. Notamment sur la raison secrète qui a signé notre arrêt."><meta property="og:url" content="https://gjsciences.com/post-mortem-la-vraie-raison-de-notre-arret-des-comptages-hebdomadaires/"><meta property="og:type" content="article"><meta name="twitter:card" content="summary_large_image"><meta name="twitter:site" content="@gjsciences"><meta name="twitter:title" content="Post-mortem: la vraie raison de notre arrêt des comptages hebdomadaires"><meta name="twitter:description" content="Le temps a passé. Nous pouvons maintenant dévoiler davantage d'information sur les problèmes que nous avons pu rencontrer durant notre aventure. Notamment sur la raison secrète qui a signé notre arrêt."><meta name="twitter:image" content="https://gjsciences.com/media/website/gjsciences-logo3-icone.png"><link rel="shortcut icon" href="https://gjsciences.com/media/website/favicon.png" type="image/png"><link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin><style>h1,h2,h3,h4,h5,h6,.btn,[type=button],[type=submit],button,.navbar .navbar__menu li,.navbar_mobile_sidebar .navbar__menu li,.feed__author,.post__tag,.post__share>a span,.post__nav-link>span,.footer{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen,Ubuntu,Cantarell,"Fira Sans","Droid Sans","Helvetica Neue",Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol"}body,h1,.h1,blockquote,.search__input,.author__name,.author__info>p,.feed__item h2,.post__nav-link{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen,Ubuntu,Cantarell,"Fira Sans","Droid Sans","Helvetica Neue",Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol"}</style><link rel="stylesheet" href="https://gjsciences.com/assets/css/style.css?v=d6dbc104ffd0fe4b805d1bf3594491d8"><script type="application/ld+json">{"@context":"http://schema.org","@type":"Article","mainEntityOfPage":{"@type":"WebPage","@id":"https://gjsciences.com/post-mortem-la-vraie-raison-de-notre-arret-des-comptages-hebdomadaires/"},"headline":"Post-mortem: la vraie raison de notre arrêt des comptages hebdomadaires","datePublished":"2022-03-02T04:36","dateModified":"2022-03-02T05:01","image":{"@type":"ImageObject","url":"https://gjsciences.com/media/website/gjsciences-logo3-icone.png","height":512,"width":512},"description":"<p>Le temps a passé. Nous pouvons maintenant dévoiler davantage d'information sur les problèmes que nous avons pu rencontrer durant notre aventure. Notamment sur la raison secrète qui a signé notre arrêt.</p>\n","author":{"@type":"Person","name":"gjsciences"},"publisher":{"@type":"Organization","name":"gjsciences","logo":{"@type":"ImageObject","url":"https://gjsciences.com/media/website/gjsciences-logo3-icone.png","height":512,"width":512}}}</script><script src="https://gjsciences.com/assets/js/ls.parent-fit.min.js?v=f8467455ea5c88e3e51a4f212d2632bd"></script><script async src="https://gjsciences.com/assets/js/lazysizes.min.js?v=6a69d476c93de2b78a72acb259abccea"></script></head><body><div class="site-container"><header class="top" id="js-header"><a class="logo" href="https://gjsciences.com/"><img src="https://gjsciences.com/media/website/gjsciences-logo3-icone.png" alt="GJ Sciences"></a><div class="search"><div class="search__overlay js-search-overlay"><div class="search__overlay-inner"><form action="https://gjsciences.com/search.html" class="search__form"><input class="search__input js-search-input" type="search" name="q" placeholder="search..." autofocus="autofocus"></form><button class="search__close js-search-close" aria-label="Close">Close</button></div></div><button class="search__btn js-search-btn" aria-label="Search"><svg role="presentation" focusable="false"><use xlink:href="https://gjsciences.com/assets/svg/svg-map.svg#search"/></svg></button></div></header><main><article class="post"><div class="hero"><figure class="hero__image"><img class="hero__image-img lazyload" data-src="https://gjsciences.com/media/website/gj-sciences-banner.jpg" srcset="https://gjsciences.com/media/website/responsive/gj-sciences-banner-xs.jpg 300w, https://gjsciences.com/media/website/responsive/gj-sciences-banner-sm.jpg 480w, https://gjsciences.com/media/website/responsive/gj-sciences-banner-md.jpg 768w, https://gjsciences.com/media/website/responsive/gj-sciences-banner-lg.jpg 1024w, https://gjsciences.com/media/website/responsive/gj-sciences-banner-xl.jpg 1360w, https://gjsciences.com/media/website/responsive/gj-sciences-banner-2xl.jpg 1600w" sizes="(max-width: 1600px) 100vw, 1600px" data-sizes="auto" alt="GJ Sciences" height="" width=""><figcaption>«Le goût de la vérité n&#x27;empêche pas la prise de parti», Albert Camus</figcaption></figure><header class="hero__content"><div class="wrapper"><div class="post__meta"><time datetime="2022-03-02T04:36">2 mars 2022</time></div><h1>Post-mortem: la vraie raison de notre arrêt des comptages hebdomadaires</h1><div class="post__meta post__meta--author"><a href="https://gjsciences.com/authors/gjsciences/" class="feed__author invert">gjsciences</a></div></div></header></div><div class="wrapper post__entry"><p>Le temps a passé. Nous pouvons maintenant dévoiler davantage d'information sur les problèmes que nous avons pu rencontrer durant notre aventure. Notamment sur la raison secrète qui a signé notre arrêt.</p><p>Comme nous l'avions annoncé, il est vrai que l'activité de comptage de foules, surtout sur un aussi grand territoire qu'est la France entière, est extrêmement chronophage. Outre le comptage qui prend en lui-même pas mal de temps quand on souhaite être rigoureux et grader selon les critères de qualité, il faut également passer des heures à chercher à travers la toile des données vidéos ou photos d'une qualité suffisante, voire former des volontaires pour les acquérir sur le terrain. Il est donc vrai que c'est un facteur qui a beaucoup pesé dans notre choix d'arrêter les comptages hebdomadaires.</p><p>Mais ce n'était pas le seul. Nous avions tenus bons jusque là, pourquoi arrêter d'un seul coup? Pourquoi ne pas simplement réduire la fréquence, compter un week-end sur 2 ou sur 3, voire 1 par mois lorsqu'il y avait les grands rassemblements mensuels?</p><p>La deuxième raison qui a finalisé notre décision, est le risque qui devenait trop grand pour les sujets filmés (et pas seulement le vidéaste qui ont toujours pris des risques inconsidérés pour pouvoir produire ces images au service de l'information publique, quitte à recevoir des lacrymo, des coups de matraque et des flashballs!).</p><p>Le Nombre Jaune, collectif partenaire avec qui nous collaborions pour échanger des données et des décomptes, nous avait rapporté des plaintes de personnes qui auraient été harcelées par la police ou poursuivies judiciairement après que, d'après ces potentielles victimes, des vidéos utilisées pour les comptages aient été utilisées par la police. La police a déjà confirmé publiquement qu'elle possédait des services spécialisés qui scrutaient les réseaux sociaux pour trouver des preuves de délits et les produire en tribunaux. C'est tout à fait légal, et cela a déjà permis de résoudre des affaires criminelles par exemple. Mais dans le cadre du mouvement des Gilets Jaunes, cela a été détourné en une des multiples formes de la répression du gouvernement.</p><p>Face à ce risque, nous et Le Nombre Jaune avons décidé le coeur lourd d'arrêter de publier les sources de nos décomptes, c'est-à-dire les vidéos et photos qui permettaient la vérification et la reproductibilité de la validité de nos décomptes par tout à chacun, un critère clé que nous avions défini et promu auprès de Le Nombre Jaune et qui a différencié notre approche unique de rigueur par rapport à tous les précédentes expérimentations de comptage citoyen.</p><p>Puisque ce critère était nécessaire pour notre travail, nous avons préféré arrêter complètement les décomptes. Le Nombre Jaune a préféré continuer, mais sans publier les sources. Vous pourrez remarquer que la date de notre publication d'annonce d'arrêt des décomptes hebdomadaires coincide avec la date à laquelle Le Nombre Jaune a arrêté de publier les sources sur leur groupe FaceBook.</p><p>Malheureusement, cette répression perverse et déguisée est tout à fait légale, mais le gouvernement a bien réussi à arrêter notre initiative citoyenne par cette méthode, tout comme elle a réussi à arrêter d'autres. Il n'y a également là aucune paranoïa, le gouvernement d'Emmanuel Macron et d'Édouard Phillipe ayant démontré sa capacité à privilégier la paix sociale sur la vie privée et le droit de manifestier, voire à aller parfois même au-delà des lois sur la protection de la vie privée. Citons par exemple la demande de la police française qui contraint ProtonMail, un fournisseur d'e-mail suisse se targuant d'offrir une protection maximale de la vie privée à ses utilisateurs, à <a href="https://www.journaldugeek.com/2021/09/08/protonmail-force-de-livrer-les-donnees-dun-militant-francais/">fournir les données de connexion dont l'adresse IP d'un militant écologiste</a>. Ou encore <a href="https://www.capital.fr/economie-politique/polemique-les-hopitaux-de-paris-ont-bien-fiche-des-manifestants-1336130">le fichage systématique des blessés Gilets Jaunes par les hôpitaux de Paris</a>, <a href="https://www.lemonde.fr/societe/article/2019/05/17/fichage-de-gilets-jaunes-a-l-hopital-le-senat-demande-des-explications-au-gouvernement_5463594_3224.html">sans explication claire de la raison ni des hôpitaux ni du gouvernement</a>.</p><p>Nous avons d'autres données que nous souhaiterions publier pour faire avancer la science du comptage, mais c'est impossible sans faire prendre de risque aux sujets filmés, ce que nous ne souhaitons absolument pas. Peut-être après la prescription légale dans plusieurs années...</p></div><footer class="wrapper post__footer"><p class="post__last-updated">This article was updated on 2 mars 2022</p><ul class="post__tag"><li><a href="https://gjsciences.com/tag/comptage-de-foule/">comptage de foule</a></li><li><a href="https://gjsciences.com/tag/democratie/">démocratie</a></li><li><a href="https://gjsciences.com/tag/gilets-jaunes/">gilets-jaunes</a></li><li><a href="https://gjsciences.com/tag/giletsjaunes/">giletsjaunes</a></li><li><a href="https://gjsciences.com/tag/manifestation/">manifestation</a></li><li><a href="https://gjsciences.com/tag/manifestations/">manifestations</a></li></ul><div class="post__share"><a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fgjsciences.com%2Fpost-mortem-la-vraie-raison-de-notre-arret-des-comptages-hebdomadaires%2F" class="js-share facebook" rel="nofollow noopener noreferrer"><svg class="icon" aria-hidden="true" focusable="false"><use xlink:href="https://gjsciences.com/assets/svg/svg-map.svg#facebook"/></svg> <span>Facebook</span> </a><a href="https://twitter.com/share?url=https%3A%2F%2Fgjsciences.com%2Fpost-mortem-la-vraie-raison-de-notre-arret-des-comptages-hebdomadaires%2F&amp;via=gjsciences&amp;text=Post-mortem%3A%20la%20vraie%20raison%20de%20notre%20arr%C3%AAt%20des%20comptages%20hebdomadaires" class="js-share twitter" rel="nofollow noopener noreferrer"><svg class="icon" aria-hidden="true" focusable="false"><use xlink:href="https://gjsciences.com/assets/svg/svg-map.svg#twitter"/></svg> <span>Twitter</span> </a><a href="http://www.linkedin.com/shareArticle?url=https%3A%2F%2Fgjsciences.com%2Fpost-mortem-la-vraie-raison-de-notre-arret-des-comptages-hebdomadaires%2F&amp;title=Post-mortem%3A%20la%20vraie%20raison%20de%20notre%20arr%C3%AAt%20des%20comptages%20hebdomadaires" class="js-share linkedin" rel="nofollow noopener noreferrer"><svg class="icon" aria-hidden="true" focusable="false"><use xlink:href="https://gjsciences.com/assets/svg/svg-map.svg#linkedin"/></svg> <span>LinkedIn</span> </a><a href="https://wa.me/?text=Post-mortem%3A%20la%20vraie%20raison%20de%20notre%20arr%C3%AAt%20des%20comptages%20hebdomadaires https%3A%2F%2Fgjsciences.com%2Fpost-mortem-la-vraie-raison-de-notre-arret-des-comptages-hebdomadaires%2F" class="js-share whatsapp" rel="nofollow noopener noreferrer"><svg class="icon" aria-hidden="true" focusable="false"><use xlink:href="https://gjsciences.com/assets/svg/svg-map.svg#whatsapp"/></svg> <span>WhatsApp</span></a></div></footer></article><nav class="post__nav"><div class="post__nav-inner"><div class="post__nav-prev"><svg width="1.041em" height="0.416em" aria-hidden="true"><use xlink:href="https://gjsciences.com/assets/svg/svg-map.svg#arrow-prev"/></svg> <a href="https://gjsciences.com/comptage-manifestation-des-soignants-a-paris-le-16062020/" class="invert post__nav-link" rel="prev"><span>Previous</span> Comptage manifestation des soignants à Paris le 16/06/2020</a></div></div></nav><div class="post__related related"><div class="wrapper"><h2 class="h5 related__title">You should also read:</h2><article class="related__item"><div class="feed__meta"><time datetime="2020-01-17T17:23" class="feed__date">17 janv. 2020</time></div><h3 class="h1"><a href="https://gjsciences.com/annonce-arret-des-decomptes-hebdomadaires/" class="invert">ANNONCE: Arrêt des décomptes hebdomadaires</a></h3></article><article class="related__item"><div class="feed__meta"><time datetime="2019-07-28T14:25" class="feed__date">28 juil. 2019</time></div><h3 class="h1"><a href="https://gjsciences.com/acte-37-mise-en-suspend-des-comptages-par-densite/" class="invert">Acte 37 : Mise en suspens des comptages par densité</a></h3></article><article class="related__item"><div class="feed__meta"><time datetime="2019-03-15T15:56" class="feed__date">15 mars 2019</time></div><h3 class="h1"><a href="https://gjsciences.com/evolutions-dans-notre-methode-de-comptage/" class="invert">Évolutions dans notre méthode de comptage</a></h3></article></div></div><div class="post__comments"><div class="wrapper"><h2 class="h5">Comments</h2><div id="disqus_thread"></div><script>var disqus_config = function () {
+                       this.page.url = 'https://gjsciences.com/post-mortem-la-vraie-raison-de-notre-arret-des-comptages-hebdomadaires/';
+               		this.page.identifier = '78';
+                       this.page.title = ' Post-mortem: la vraie raison de notre arrêt des comptages hebdomadaires';
+                   };
+               
+                   var disqus_loaded = false;
+               
+                   function publiiLoadDisqus() {
+                       if(disqus_loaded) {
+                           return false;
+                       }
+               
+                       var top = document.getElementById('disqus_thread').offsetTop;
+               
+                       if (!disqus_loaded && (window.scrollY || window.pageYOffset) + window.innerHeight > top) {
+                           disqus_loaded = true;
+               
+                           (function () {
+                               var d = document, s = d.createElement('script');
+                               s.src = 'https://gj-sciences.disqus.com/embed.js';
+                               s.setAttribute('data-timestamp', +new Date());
+                               (d.head || d.body).appendChild(s);
+                           })();
+                       }
+                   }
+               
+                   publiiLoadDisqus();
+               
+                   window.onscroll = function() {
+                       publiiLoadDisqus();
+                   };</script><noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" target="_blank" rel="nofollow noopener noreferrer">comments powered by Disqus.</a></noscript></div></div></main><footer class="footer"><div class="footer__social"><a href="https://facebook.com/gjsciences" aria-label="Facebook"><svg><use xlink:href="https://gjsciences.com/assets/svg/svg-map.svg#facebook"/></svg> </a><a href="https://twitter.com/gjsciences/" aria-label="Twitter"><svg><use xlink:href="https://gjsciences.com/assets/svg/svg-map.svg#twitter"/></svg></a></div><div class="footer__copyright">Propulsé fièrement par <a href="https://getpublii.com" target="_blank" rel="nofollow noopener noreferrer">Publii</a></div><button class="footer__bttop js-footer__bttop" aria-label="Back to top"><svg><title>Back to top</title><use xlink:href="https://gjsciences.com/assets/svg/svg-map.svg#toparrow"/></svg></button></footer></div><script>window.publiiThemeMenuConfig = {    
+        mobileMenuMode: 'sidebar',
+        animationSpeed: 300,
+        submenuWidth: 'auto',
+        doubleClickTime: 500,
+        mobileMenuExpandableSubmenus: true, 
+        relatedContainerForOverlayMenuSelector: '.top',
+   };</script><script defer="defer" src="https://gjsciences.com/assets/js/scripts.min.js?v=205f40927e4a45297a0b266e50ad78d5"></script><script>var lazyFeaturedImage=function lazyFeaturedImage(){var b=document.querySelectorAll(".hero__image-img");for(var a=0;a<b.length;a++){var c=b[a];c.addEventListener("lazyloaded",function(f){var d=f.target.parentNode;d.classList.add("hero__image--overlay")})}};lazyFeaturedImage();</script><script>var clicky_site_ids = clicky_site_ids || []; clicky_site_ids.push(101244167);</script><script async src="//static.getclicky.com/js"></script><noscript><p><img alt="Clicky" width="1" height="1" src="//in.getclicky.com/101244167ns.gif"></p></noscript><div class="cookie-popup js-cookie-popup cookie-popup--uses-badge"><h2>Ce site utilise des cookies</h2><p>Ce site utilise des cookies seulement pour pouvoir afficher les fonctionnalités nécessaires, dont des cookies analytiques pour suivre l'évolution de la fréquentation et les problèmes d'accès. Si vous acceptez ci-dessous les cookies autres que requis, d'autres sites pourraient vous traquer (comme Disqus, qui fournit les commentaires). Si désactivées, ces fonctionnalités ne fonctionneront pas, mais les articles resteront lisibles. <a href="#not-specified"></a></p><form><input id="gdpr-necessary" name="gdpr-necessary" checked="checked" disabled="disabled" type="checkbox"> <label for="gdpr-necessary">Requis</label> <input id="gdpr-functions" name="gdpr-functions" type="checkbox"> <label for="gdpr-functions">Fonctionnalités (Disqus, etc)</label> <input id="gdpr-analytics" name="gdpr-analytics" type="checkbox"> <label for="gdpr-analytics">Analytiques</label><p class="cookie-popup__save-wrapper"><button type="submit" class="cookie-popup__save">Accepter</button></p></form><span class="cookie-popup-label">Politique de cookies</span></div><script>(function() {
+                function addScript (src, inline) {
+                    var newScript = document.createElement('script');
+
+                    if (src) {
+                        newScript.setAttribute('src', src);
+                    }
+
+                    if (inline) {
+                        newScript.text = inline;
+                    }
+
+                    document.body.appendChild(newScript);
+                }
+
+                var popup = document.querySelector('.js-cookie-popup');
+                var checkboxes = popup.querySelectorAll('input[type="checkbox"]');
+                var save = popup.querySelector('button');
+                var currentConfig = localStorage.getItem('publii-gdpr-allowed-cookies');
+                var blockedScripts = document.querySelectorAll('script[type^="gdpr-blocker/"]');
+                
+
+                popup.addEventListener('click', function() {
+                    if (!popup.classList.contains('cookie-popup--is-sticky')) {
+                        popup.classList.add('cookie-popup--is-sticky');
+                    }
+                });
+
+                save.addEventListener('click', function(e) {
+                    e.preventDefault();
+                    e.stopPropagation();
+                    popup.classList.remove('cookie-popup--is-sticky');
+                    var allowedGroups = [];
+
+                    for (var i = 0; i < checkboxes.length; i++) {
+                        if (checkboxes[i].checked) {
+                            var groupName = checkboxes[i].getAttribute('name').replace('gdpr-', '');
+                            var scripts = document.querySelectorAll('script[type="gdpr-blocker/' + groupName + '"]');
+
+                            for (var j = 0; j < scripts.length; j++) {
+                                addScript(scripts[j].src, scripts[j].text);
+                            }
+
+                            allowedGroups.push(groupName);
+                        }
+                    }
+
+                    localStorage.setItem('publii-gdpr-allowed-cookies', allowedGroups.join(','));
+                    popup.classList.remove('cookie-popup--is-sticky');
+
+                    setTimeout(function () {
+                        if (currentConfig !== null) {
+                            window.location.reload();
+                        }
+                    }, 250);
+                });
+
+                if (currentConfig === null) {
+                    popup.classList.add('cookie-popup--is-sticky');
+                } else {
+                    if (currentConfig !== '') {
+                        var allowedGroups = currentConfig.split(',');
+
+                        for (var i = 0; i < allowedGroups.length; i++) {
+                            var scripts = document.querySelectorAll('script[type="gdpr-blocker/' + allowedGroups[i] + '"]');
+                            var checkbox = popup.querySelector('input[type="checkbox"][name="gdpr-' + allowedGroups[i] + '"]');
+
+                            if (checkbox) {
+                                checkbox.checked = true;
+                            }
+
+                            for (var j = 0; j < scripts.length; j++) {
+                                addScript(scripts[j].src, scripts[j].text);
+                            }
+                        }
+                    }
+                }
+            })();</script></body></html>
